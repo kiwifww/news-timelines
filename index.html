@@ -1,0 +1,1279 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>热榜 · NewsHub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0a0f;
+    --bg-card: #13131a;
+    --bg-card2: #1a1a24;
+    --border: rgba(255,255,255,0.07);
+    --border-hover: rgba(255,255,255,0.15);
+    --text-primary: #f0ede8;
+    --text-secondary: #8a8794;
+    --text-muted: #4a4858;
+    --accent-red: #e84040;
+    --accent-orange: #f07030;
+    --accent-gold: #d4a840;
+    --accent-blue: #4080e0;
+    --accent-green: #30c060;
+    --accent-purple: #9060e0;
+    --accent-pink: #e04080;
+    --accent-teal: #20b0a0;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Noto Sans SC', sans-serif; background: var(--bg); color: var(--text-primary); min-height: 100vh; overflow-x: hidden; }
+  ::-webkit-scrollbar { width: 4px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 2px; }
+  header { position: sticky; top: 0; z-index: 100; background: rgba(10,10,15,0.92); backdrop-filter: blur(12px); border-bottom: 1px solid var(--border); padding: 0 20px; height: 56px; display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+  .logo { display: flex; align-items: baseline; gap: 8px; flex-shrink: 0; }
+  .logo-zh { font-family: 'Noto Serif SC', serif; font-size: 20px; font-weight: 700; color: var(--accent-red); letter-spacing: 0.05em; }
+  .logo-en { font-size: 11px; color: var(--text-muted); letter-spacing: 0.15em; text-transform: uppercase; }
+  .header-actions { display: flex; align-items: center; gap: 8px; }
+  .btn-icon { width: 34px; height: 34px; border-radius: 8px; border: 1px solid var(--border); background: transparent; color: var(--text-secondary); cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 16px; transition: all 0.2s; }
+  .btn-icon:hover { border-color: var(--border-hover); color: var(--text-primary); background: var(--bg-card); }
+  .btn-icon.active { border-color: var(--accent-red); color: var(--accent-red); }
+  .refresh-time { font-size: 11px; color: var(--text-muted); display: none; }
+  nav { background: var(--bg); border-bottom: 1px solid var(--border); padding: 0 20px; display: flex; gap: 0; overflow-x: auto; scrollbar-width: none; }
+  nav::-webkit-scrollbar { display: none; }
+  .nav-tab { padding: 12px 16px; font-size: 13px; color: var(--text-secondary); cursor: pointer; border-bottom: 2px solid transparent; white-space: nowrap; transition: all 0.2s; display: flex; align-items: center; gap: 6px; flex-shrink: 0; }
+  .nav-tab:hover { color: var(--text-primary); }
+  .nav-tab.active { color: var(--text-primary); border-bottom-color: var(--accent-red); }
+  .nav-tab .dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
+  main { max-width: 1200px; margin: 0 auto; padding: 20px; display: block; }
+  .view { display: none; }
+  .view.active { display: block; }
+  .section-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 14px; gap: 12px; }
+  .section-title { font-family: 'Noto Serif SC', serif; font-size: 15px; font-weight: 600; color: var(--text-primary); display: flex; align-items: center; gap: 8px; }
+  .badge-count { font-size: 10px; font-family: 'Noto Sans SC', sans-serif; background: rgba(232,64,64,0.15); color: var(--accent-red); border: 1px solid rgba(232,64,64,0.3); border-radius: 4px; padding: 1px 6px; font-weight: 500; }
+  .section-link { font-size: 12px; color: var(--text-muted); text-decoration: none; transition: color 0.2s; }
+  .section-link:hover { color: var(--text-secondary); }
+
+  .filter-bar { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 12px 16px; margin-bottom: 16px; display: flex; flex-direction: column; gap: 10px; }
+  .filter-row { display: flex; align-items: center; gap: 8px; min-height: 28px; flex-wrap: wrap; }
+  .filter-row-label { font-size: 10px; color: var(--text-muted); letter-spacing: 0.08em; text-transform: uppercase; min-width: 30px; flex-shrink: 0; }
+  .filter-chips-wrap { display: flex; flex-wrap: wrap; gap: 6px; flex: 1; }
+  .fchip { display: inline-flex; align-items: center; gap: 5px; padding: 4px 11px; border-radius: 20px; font-size: 12px; cursor: pointer; border: 1px solid var(--border); color: var(--text-secondary); background: transparent; transition: all 0.15s; white-space: nowrap; user-select: none; }
+  .fchip:hover { border-color: var(--border-hover); color: var(--text-primary); }
+  .source-chip.active { border-color: var(--chip-color, #aaa); color: var(--chip-color, #aaa); background: color-mix(in srgb, var(--chip-color, #aaa) 12%, transparent); }
+  .topic-chip.active { border-color: var(--accent-red); color: var(--accent-red); background: rgba(232,64,64,0.1); }
+  .fchip-dot { width: 6px; height: 6px; border-radius: 50%; flex-shrink: 0; }
+
+  .hot-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 14px; margin-bottom: 24px; }
+  .platform-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; transition: border-color 0.2s; animation: fadeUp 0.3s ease both; }
+  .platform-card:hover { border-color: var(--border-hover); }
+  .platform-card:nth-child(1){animation-delay:.05s} .platform-card:nth-child(2){animation-delay:.1s} .platform-card:nth-child(3){animation-delay:.15s} .platform-card:nth-child(4){animation-delay:.2s} .platform-card:nth-child(5){animation-delay:.25s} .platform-card:nth-child(6){animation-delay:.3s}
+  @keyframes fadeUp { from { opacity:0; transform:translateY(12px); } to { opacity:1; transform:translateY(0); } }
+  .platform-header { padding: 12px 14px; display: flex; align-items: center; gap: 10px; border-bottom: 1px solid var(--border); background: var(--bg-card2); }
+  .platform-icon { width: 28px; height: 28px; border-radius: 7px; display: flex; align-items: center; justify-content: center; font-size: 14px; flex-shrink: 0; }
+  .platform-name { font-size: 13px; font-weight: 500; color: var(--text-primary); flex: 1; }
+  .hot-items { padding: 8px 0; }
+  .hot-item { padding: 7px 14px; display: flex; align-items: center; gap: 10px; cursor: pointer; transition: background 0.15s; text-decoration: none; color: inherit; }
+  .hot-item:hover { background: rgba(255,255,255,0.03); }
+  .hot-rank { font-size: 12px; font-weight: 700; min-width: 18px; text-align: center; flex-shrink: 0; }
+  .rank-1 { color: var(--accent-red); } .rank-2 { color: var(--accent-orange); } .rank-3 { color: var(--accent-gold); } .rank-n { color: var(--text-muted); }
+  .hot-text { font-size: 13px; color: var(--text-primary); line-height: 1.4; flex: 1; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; }
+  .hot-tag { font-size: 9px; padding: 1px 5px; border-radius: 3px; flex-shrink: 0; }
+  .tag-new { background: rgba(232,64,64,0.15); color: var(--accent-red); }
+  .tag-hot { background: rgba(240,112,48,0.15); color: var(--accent-orange); }
+
+  /* Timeline — 单条新闻全宽倒叙时间线 */
+  .tl-empty { text-align: center; padding: 80px 0; color: var(--text-muted); font-size: 14px; }
+  .tl-empty-icon { font-size: 32px; margin-bottom: 12px; }
+
+  /* 新闻标题卡 */
+  .tl-header-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 20px 24px;
+    margin-bottom: 32px;
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+  }
+  .tl-header-badge {
+    font-size: 10px;
+    padding: 3px 9px;
+    border-radius: 4px;
+    font-weight: 500;
+    flex-shrink: 0;
+    margin-top: 2px;
+  }
+  .tl-header-info { flex: 1; min-width: 0; }
+  .tl-header-title {
+    font-family: 'Noto Serif SC', serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: var(--text-primary);
+    line-height: 1.5;
+    margin-bottom: 8px;
+  }
+  .tl-header-meta {
+    display: flex;
+    gap: 10px;
+    font-size: 11px;
+    color: var(--text-muted);
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  /* 时间线轨道 */
+  .tl-track {
+    position: relative;
+    padding-left: 0;
+  }
+
+  /* 每个节点 */
+  .tl-node {
+    display: grid;
+    grid-template-columns: 100px 1px 1fr;
+    gap: 0 24px;
+    margin-bottom: 0;
+    align-items: stretch;
+    animation: fadeUp 0.3s ease both;
+  }
+  .tl-node:nth-child(1){animation-delay:.05s}
+  .tl-node:nth-child(2){animation-delay:.12s}
+  .tl-node:nth-child(3){animation-delay:.19s}
+  .tl-node:nth-child(4){animation-delay:.26s}
+
+  /* 左侧时间戳 */
+  .tl-node-time {
+    text-align: right;
+    padding: 20px 0 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding-top: 18px;
+  }
+  .tl-node-time-main {
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--text-primary);
+    letter-spacing: -0.5px;
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+  }
+  .tl-node-time-sub {
+    font-size: 10px;
+    color: var(--text-muted);
+    margin-top: 4px;
+    white-space: nowrap;
+  }
+
+  /* 中轴线 */
+  .tl-node-axis {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .tl-node-axis-line-top {
+    width: 1px;
+    flex: 0 0 18px;
+    background: var(--border);
+  }
+  .tl-node-axis-line-top.first { background: transparent; }
+  .tl-node-axis-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    border: 2px solid var(--bg);
+    position: relative;
+    z-index: 1;
+  }
+  .tl-node-axis-dot.latest {
+    width: 14px;
+    height: 14px;
+    box-shadow: 0 0 0 3px rgba(232,64,64,0.25);
+  }
+  .tl-node-axis-line-bottom {
+    width: 1px;
+    flex: 1;
+    background: var(--border);
+    min-height: 20px;
+  }
+  .tl-node:last-child .tl-node-axis-line-bottom { background: transparent; }
+
+  /* 右侧内容卡 */
+  .tl-node-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px 18px;
+    margin: 10px 0 10px;
+    transition: border-color 0.2s;
+  }
+  .tl-node-card:hover { border-color: var(--border-hover); }
+  .tl-node-card.latest {
+    border-color: rgba(232,64,64,0.35);
+    background: rgba(232,64,64,0.03);
+  }
+  .tl-node-card-top {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+  }
+  .tl-node-type {
+    font-size: 10px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-weight: 500;
+  }
+  .tl-node-latest-badge {
+    font-size: 9px;
+    padding: 1px 6px;
+    border-radius: 3px;
+    background: rgba(232,64,64,0.15);
+    color: var(--accent-red);
+    border: 1px solid rgba(232,64,64,0.3);
+  }
+  .tl-node-title {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--text-primary);
+    line-height: 1.5;
+    margin-bottom: 6px;
+  }
+  .tl-node-detail {
+    font-size: 12px;
+    color: var(--text-secondary);
+    line-height: 1.7;
+  }
+
+  /* 双栏时间线布局 */
+  .tl-two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    align-items: start;
+  }
+  @media (max-width: 780px) {
+    .tl-two-col { grid-template-columns: 1fr; }
+  }
+
+  .tl-col-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0 0 12px;
+    margin-bottom: 4px;
+    border-bottom: 1px solid var(--border);
+  }
+  .tl-col-title {
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--text-secondary);
+    letter-spacing: 0.04em;
+  }
+  .tl-col-dot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .tl-col-badge {
+    font-size: 10px;
+    padding: 1px 7px;
+    border-radius: 10px;
+    margin-left: auto;
+  }
+
+  /* 社交热度轨道 — 横向进度条样式 */
+  .heat-track {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    position: relative;
+  }
+  .heat-node {
+    display: flex;
+    gap: 14px;
+    align-items: stretch;
+    animation: fadeUp 0.3s ease both;
+  }
+  .heat-node:nth-child(1){animation-delay:.05s}
+  .heat-node:nth-child(2){animation-delay:.13s}
+  .heat-node:nth-child(3){animation-delay:.21s}
+  .heat-node:nth-child(4){animation-delay:.29s}
+
+  .heat-node-left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 10px;
+    flex-shrink: 0;
+  }
+  .heat-node-line-top { width: 2px; flex: 0 0 16px; }
+  .heat-node-line-top.first { background: transparent !important; }
+  .heat-node-dot {
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+    border: 2px solid var(--bg);
+    z-index: 1;
+  }
+  .heat-node-line-bottom { width: 2px; flex: 1; min-height: 16px; }
+  .heat-node:last-child .heat-node-line-bottom { background: transparent !important; }
+
+  .heat-node-body {
+    flex: 1;
+    min-width: 0;
+    padding: 14px 0 14px;
+  }
+  .heat-node-stage {
+    font-size: 11px;
+    font-weight: 500;
+    margin-bottom: 4px;
+    display: flex;
+    align-items: center;
+    gap: 7px;
+  }
+  .heat-node-bar-wrap {
+    height: 4px;
+    border-radius: 2px;
+    background: var(--bg-card2);
+    margin-bottom: 7px;
+    overflow: hidden;
+  }
+  .heat-node-bar {
+    height: 100%;
+    border-radius: 2px;
+    transition: width 0.6s ease;
+  }
+  .heat-node-desc {
+    font-size: 12px;
+    color: var(--text-secondary);
+    line-height: 1.6;
+  }
+  .heat-node-time {
+    font-size: 10px;
+    color: var(--text-muted);
+    margin-top: 5px;
+  }
+
+  /* 右栏无数据占位 */
+  .tl-col-empty {
+    padding: 40px 0;
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 12px;
+    line-height: 1.7;
+  }
+    background: linear-gradient(90deg, var(--bg-card2) 25%, rgba(255,255,255,0.05) 50%, var(--bg-card2) 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.4s infinite;
+  }
+  @keyframes shimmer { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+
+  @media (max-width: 600px) {
+    .tl-node { grid-template-columns: 72px 1px 1fr; gap: 0 16px; }
+    .tl-node-time-main { font-size: 17px; }
+    .tl-header-title { font-size: 15px; }
+    .tl-node-card { padding: 12px 14px; }
+  }
+
+  /* Sidebar */
+  .sidebar { display: flex; flex-direction: column; gap: 14px; }
+  .sidebar-card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 12px; padding: 14px; }
+  .sidebar-title { font-size: 12px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 12px; }
+  .trending-item { display: flex; align-items: center; gap: 10px; padding: 7px 0; border-bottom: 1px solid var(--border); cursor: pointer; }
+  .trending-item:last-child { border-bottom: none; }
+  .trend-num { font-size: 11px; font-weight: 700; color: var(--text-muted); min-width: 16px; }
+  .trend-bar { width: 3px; border-radius: 2px; flex-shrink: 0; align-self: stretch; min-height: 30px; }
+  .trend-content { flex: 1; min-width: 0; }
+  .trend-topic { font-size: 13px; color: var(--text-primary); line-height: 1.3; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .trend-heat { font-size: 10px; color: var(--text-muted); margin-top: 1px; }
+  .stats-row { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-bottom: 12px; }
+  .stat-mini { background: var(--bg-card2); border-radius: 8px; padding: 10px; }
+  .stat-mini-val { font-size: 20px; font-weight: 700; color: var(--text-primary); line-height: 1; }
+  .stat-mini-label { font-size: 10px; color: var(--text-muted); margin-top: 3px; }
+
+  /* Toast */
+  .toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%) translateY(80px); background: var(--bg-card2); border: 1px solid var(--border-hover); border-radius: 8px; padding: 10px 18px; font-size: 13px; color: var(--text-secondary); transition: transform 0.3s; z-index: 300; white-space: nowrap; }
+  .toast.show { transform: translateX(-50%) translateY(0); }
+
+  /* Mobile */
+  .mobile-nav { display: none; position: fixed; bottom: 0; left: 0; right: 0; background: rgba(10,10,15,0.95); backdrop-filter: blur(12px); border-top: 1px solid var(--border); padding: 8px 0; z-index: 100; }
+  .mobile-nav-items { display: flex; justify-content: space-around; }
+  .mobile-nav-item { display: flex; flex-direction: column; align-items: center; gap: 3px; padding: 6px 12px; cursor: pointer; color: var(--text-muted); font-size: 10px; transition: color 0.2s; }
+  .mobile-nav-item.active { color: var(--accent-red); }
+  .mobile-nav-item svg { width: 20px; height: 20px; }
+  @media (max-width: 600px) { header { padding: 0 14px; } main { padding: 14px 14px 80px; gap: 14px; } .hot-grid { grid-template-columns: 1fr; gap: 10px; } .mobile-nav { display: block; } nav { display: none; } .refresh-time { display: block; } }
+
+  .live-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--accent-green); animation: pulse 2s infinite; }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+
+  /* Search overlay */
+  .search-overlay { display: none; position: fixed; inset: 0; z-index: 200; background: rgba(5,5,10,0.85); backdrop-filter: blur(6px); }
+  .search-overlay.open { display: flex; flex-direction: column; }
+  .search-modal { background: var(--bg-card); border-bottom: 1px solid var(--border); padding: 16px 20px 0; }
+  .search-bar { display: flex; align-items: center; gap: 10px; position: relative; }
+  .search-bar-icon { position: absolute; left: 12px; color: var(--text-muted); pointer-events: none; }
+  .search-bar-input { flex: 1; background: var(--bg-card2); border: 1px solid var(--border-hover); border-radius: 10px; color: var(--text-primary); font-family: 'Noto Sans SC', sans-serif; font-size: 16px; padding: 10px 16px 10px 38px; outline: none; transition: border-color 0.2s; }
+  .search-bar-input:focus { border-color: var(--accent-red); }
+  .search-bar-input::placeholder { color: var(--text-muted); }
+  .search-close-btn { background: transparent; border: none; color: var(--text-secondary); font-size: 13px; cursor: pointer; padding: 6px 10px; border-radius: 6px; white-space: nowrap; transition: color 0.2s; font-family: 'Noto Sans SC', sans-serif; }
+  .search-close-btn:hover { color: var(--text-primary); }
+  .search-hints { display: flex; gap: 6px; padding: 10px 0 12px; flex-wrap: wrap; }
+  .search-hint-tag { font-size: 12px; padding: 3px 10px; border-radius: 12px; border: 1px solid var(--border); color: var(--text-muted); cursor: pointer; transition: all 0.15s; }
+  .search-hint-tag:hover { border-color: var(--border-hover); color: var(--text-secondary); }
+  .search-results-area { flex: 1; overflow-y: auto; padding: 0 20px 40px; max-width: 800px; width: 100%; margin: 0 auto; }
+  .search-status { font-size: 12px; color: var(--text-muted); padding: 16px 0 8px; display: flex; align-items: center; gap: 8px; }
+  .search-keyword-highlight { background: rgba(232,64,64,0.18); color: var(--accent-red); border-radius: 2px; padding: 0 1px; }
+  .search-result-item { display: flex; align-items: stretch; padding: 14px 0; border-bottom: 1px solid var(--border); cursor: pointer; transition: all 0.15s; }
+  .search-result-item:hover { padding-left: 8px; }
+  .search-result-item:hover .sr-bar { opacity: 1; }
+  .search-result-item:last-child { border-bottom: none; }
+  .sr-bar { width: 3px; border-radius: 2px; margin-right: 14px; opacity: 0.4; transition: opacity 0.15s; flex-shrink: 0; align-self: stretch; }
+  .sr-body { flex: 1; min-width: 0; }
+  .sr-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 5px; flex-wrap: wrap; }
+  .sr-platform-badge { font-size: 10px; padding: 2px 7px; border-radius: 4px; font-weight: 500; flex-shrink: 0; }
+  .sr-time { font-size: 11px; color: var(--text-muted); }
+  .sr-rank { font-size: 10px; color: var(--text-muted); margin-left: auto; }
+  .sr-title { font-size: 14px; line-height: 1.5; color: var(--text-primary); margin-bottom: 5px; }
+  .sr-desc { font-size: 12px; color: var(--text-secondary); line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .sr-go { font-size: 11px; color: var(--text-muted); display: flex; align-items: center; gap: 4px; margin-top: 8px; transition: color 0.15s; }
+  .search-result-item:hover .sr-go { color: var(--accent-red); }
+  .search-empty { text-align: center; padding: 60px 0 20px; color: var(--text-muted); }
+  .search-empty-icon { font-size: 32px; margin-bottom: 12px; }
+  .search-empty-text { font-size: 14px; line-height: 1.7; }
+
+  /* 设置面板 */
+  .settings-overlay { display: none; position: fixed; inset: 0; z-index: 200; background: rgba(5,5,10,0.7); backdrop-filter: blur(6px); align-items: center; justify-content: center; }
+  .settings-overlay.open { display: flex; }
+  .settings-panel { background: var(--bg-card); border: 1px solid var(--border-hover); border-radius: 16px; padding: 28px 28px 24px; width: 420px; max-width: calc(100vw - 40px); }
+  .settings-title { font-family: 'Noto Serif SC', serif; font-size: 16px; font-weight: 600; color: var(--text-primary); margin-bottom: 6px; }
+  .settings-subtitle { font-size: 12px; color: var(--text-muted); margin-bottom: 24px; line-height: 1.6; }
+  .settings-field { margin-bottom: 20px; }
+  .settings-label { font-size: 12px; color: var(--text-secondary); margin-bottom: 7px; display: flex; align-items: center; justify-content: space-between; }
+  .settings-label a { font-size: 11px; color: var(--accent-blue); text-decoration: none; }
+  .settings-input-wrap { position: relative; }
+  .settings-input { width: 100%; background: var(--bg-card2); border: 1px solid var(--border); border-radius: 8px; color: var(--text-primary); font-family: 'Noto Sans SC', monospace; font-size: 13px; padding: 10px 40px 10px 14px; outline: none; transition: border-color 0.2s; letter-spacing: 0.03em; }
+  .settings-input:focus { border-color: var(--accent-red); }
+  .settings-input::placeholder { color: var(--text-muted); letter-spacing: 0; font-family: 'Noto Sans SC', sans-serif; }
+  .settings-eye { position: absolute; right: 10px; top: 50%; transform: translateY(-50%); background: none; border: none; color: var(--text-muted); cursor: pointer; padding: 4px; }
+  .settings-eye:hover { color: var(--text-secondary); }
+  .settings-status { font-size: 11px; margin-top: 6px; min-height: 16px; }
+  .settings-actions { display: flex; gap: 10px; justify-content: flex-end; margin-top: 8px; }
+  .settings-btn { padding: 8px 20px; border-radius: 8px; font-size: 13px; font-family: 'Noto Sans SC', sans-serif; cursor: pointer; transition: all 0.15s; }
+  .settings-btn-cancel { background: transparent; border: 1px solid var(--border); color: var(--text-secondary); }
+  .settings-btn-cancel:hover { border-color: var(--border-hover); color: var(--text-primary); }
+  .settings-btn-save { background: var(--accent-red); border: 1px solid transparent; color: #fff; font-weight: 500; }
+  .settings-btn-save:hover { opacity: 0.88; }
+  .settings-tip { background: var(--bg-card2); border-radius: 8px; padding: 10px 14px; font-size: 11px; color: var(--text-muted); line-height: 1.7; margin-bottom: 20px; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <span class="logo-zh">热榜</span>
+    <span class="logo-en">NewsHub</span>
+  </div>
+  <div class="header-actions">
+    <span class="refresh-time" id="lastUpdate"></span>
+    <div class="live-dot" title="模拟数据"></div>
+    <button class="btn-icon" title="搜索" onclick="openSearch()">
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="6.5" cy="6.5" r="5"/><line x1="10.5" y1="10.5" x2="14" y2="14"/></svg>
+    </button>
+    <button class="btn-icon" title="设置 API Key" id="settingsBtn" onclick="openSettings()">
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="2.5"/><path d="M8 1v2M8 13v2M1 8h2M13 8h2M3.05 3.05l1.41 1.41M11.54 11.54l1.41 1.41M3.05 12.95l1.41-1.41M11.54 4.46l1.41-1.41"/></svg>
+    </button>
+    <button class="btn-icon" title="切换主题" onclick="toggleDark()">
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M13.5 9.5A6 6 0 016.5 2.5a6 6 0 100 11 6.02 6.02 0 007-4z"/></svg>
+    </button>
+    <button class="btn-icon" id="refreshBtn" title="刷新" onclick="refreshData()">
+      <svg width="14" height="14" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M13.5 4a6 6 0 10.5 4"/><polyline points="14,1 14,5 10,5"/></svg>
+    </button>
+  </div>
+</header>
+
+<div class="search-overlay" id="searchOverlay" onclick="handleOverlayClick(event)">
+  <div class="search-modal">
+    <div class="search-bar">
+      <svg class="search-bar-icon" width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="6.5" cy="6.5" r="5"/><line x1="10.5" y1="10.5" x2="14" y2="14"/></svg>
+      <input class="search-bar-input" id="searchBarInput" type="text" placeholder="搜索热榜新闻…" oninput="doSearch(this.value)" onkeydown="searchKeydown(event)" autocomplete="off" spellcheck="false">
+      <button class="search-close-btn" onclick="closeSearch()">取消</button>
+    </div>
+    <div class="search-hints">
+      <span style="font-size:12px;color:var(--text-muted);line-height:24px">热门：</span>
+      <span class="search-hint-tag" onclick="useHint('AI')">AI</span>
+      <span class="search-hint-tag" onclick="useHint('经济')">经济</span>
+      <span class="search-hint-tag" onclick="useHint('国际')">国际</span>
+      <span class="search-hint-tag" onclick="useHint('A股')">A股</span>
+      <span class="search-hint-tag" onclick="useHint('新能源')">新能源</span>
+      <span class="search-hint-tag" onclick="useHint('高考')">高考</span>
+    </div>
+  </div>
+  <div class="search-results-area" id="searchResultsArea">
+    <div class="search-empty" id="searchEmpty">
+      <div class="search-empty-icon">🔍</div>
+      <div class="search-empty-text">输入关键词搜索全部热榜新闻<br>支持标题、摘要内容搜索</div>
+    </div>
+    <div id="searchResultsList" style="display:none"></div>
+  </div>
+</div>
+
+<!-- Settings Overlay -->
+<div class="settings-overlay" id="settingsOverlay" onclick="handleSettingsOverlayClick(event)">
+  <div class="settings-panel">
+    <div class="settings-title">API 设置</div>
+    <div class="settings-subtitle">配置以下 Key，点击任意热榜新闻即可获取真实新闻时间线。</div>
+    <div class="settings-tip">
+      🔒 所有 Key 仅存在你浏览器本地（localStorage），不会上传至任何服务器。
+    </div>
+
+    <div class="settings-field">
+      <div class="settings-label">
+        <span>NewsAPI Key <span style="font-size:10px;color:var(--text-muted)">— 时间线真实新闻来源</span></span>
+        <a href="https://newsapi.org/register" target="_blank">免费注册 →</a>
+      </div>
+      <div class="settings-input-wrap">
+        <input class="settings-input" id="newsApiKeyInput" type="password" placeholder="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" autocomplete="off" spellcheck="false">
+        <button class="settings-eye" onclick="toggleVisible('newsApiKeyInput')" title="显示/隐藏">
+          <svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 8s2.5-5 7-5 7 5 7 5-2.5 5-7 5-7-5-7-5z"/><circle cx="8" cy="8" r="2"/></svg>
+        </button>
+      </div>
+      <div class="settings-status" id="newsKeyStatus"></div>
+    </div>
+
+    <div class="settings-field">
+      <div class="settings-label">
+        <span>Anthropic API Key <span style="font-size:10px;color:var(--text-muted)">— 时间线 AI 补充生成</span></span>
+        <a href="https://console.anthropic.com/settings/keys" target="_blank">获取 Key →</a>
+      </div>
+      <div class="settings-input-wrap">
+        <input class="settings-input" id="apiKeyInput" type="password" placeholder="sk-ant-api03-..." autocomplete="off" spellcheck="false">
+        <button class="settings-eye" onclick="toggleVisible('apiKeyInput')" title="显示/隐藏">
+          <svg width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M1 8s2.5-5 7-5 7 5 7 5-2.5 5-7 5-7-5-7-5z"/><circle cx="8" cy="8" r="2"/></svg>
+        </button>
+      </div>
+      <div class="settings-status" id="keyStatus"></div>
+    </div>
+
+    <div class="settings-actions">
+      <button class="settings-btn settings-btn-cancel" onclick="closeSettings()">取消</button>
+      <button class="settings-btn settings-btn-save" onclick="saveAllKeys()">保存</button>
+    </div>
+  </div>
+</div>
+  <div class="nav-tab active" id="ntab-hot" onclick="switchView('hot',this)"><span class="dot" style="background:#e84040"></span>热榜</div>
+  <div class="nav-tab" id="ntab-timeline" onclick="switchView('timeline',this)"><span class="dot" style="background:#20b0a0"></span>时间线</div>
+</nav>
+
+<main>
+  <div class="content">
+    <div class="view active" id="view-hot">
+      <div class="filter-bar">
+        <div class="filter-row">
+          <span class="filter-row-label">来源</span>
+          <div class="filter-chips-wrap" id="sourceChips"></div>
+        </div>
+        <div class="filter-row">
+          <span class="filter-row-label">话题</span>
+          <div class="filter-chips-wrap" id="topicChips"></div>
+        </div>
+      </div>
+      <div class="section-header" style="margin-bottom:12px">
+        <div class="section-title">全网热榜 <span class="badge-count" id="totalCount">0 条</span></div>
+        <span id="filterDesc" style="font-size:11px;color:var(--text-muted)"></span>
+      </div>
+      <div class="hot-grid" id="hotGrid"></div>
+    </div>
+
+    <div class="view" id="view-weibo"><div class="section-header"><div class="section-title" style="color:#e84040">微博热搜</div></div><div id="weiboFull"></div></div>
+    <div class="view" id="view-zhihu"><div class="section-header"><div class="section-title" style="color:#4080e0">知乎热榜</div></div><div id="zhihuFull"></div></div>
+    <div class="view" id="view-bilibili"><div class="section-header"><div class="section-title" style="color:#e04080">哔哩哔哩热榜</div></div><div id="bilibiliFull"></div></div>
+    <div class="view" id="view-news"><div class="section-header"><div class="section-title" style="color:#d4a840">主流媒体新闻</div></div><div id="newsFull"></div></div>
+    <div class="view" id="view-tech"><div class="section-header"><div class="section-title" style="color:#9060e0">科技资讯</div></div><div id="techFull"></div></div>
+
+    <div class="view" id="view-timeline">
+      <div class="section-header">
+        <div class="section-title">新闻时间线</div>
+        <button onclick="switchView('hot', document.getElementById('ntab-hot'))" style="font-size:12px;color:var(--text-muted);background:none;border:none;cursor:pointer;padding:0">← 返回热榜</button>
+      </div>
+      <div id="timelineContent">
+        <div class="tl-empty"><div class="tl-empty-icon">🗞</div>点击热榜任意新闻查看时间线</div>
+      </div>
+    </div>
+  </div>
+
+  <aside class="sidebar">
+  </aside>
+</main>
+
+<div class="mobile-nav">
+  <div class="mobile-nav-items">
+    <div class="mobile-nav-item active" onclick="switchView('hot',this,true)" id="mnav-hot">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M17 21H7a2 2 0 01-2-2V5a2 2 0 012-2h10a2 2 0 012 2v14a2 2 0 01-2 2z"/><line x1="9" y1="9" x2="15" y2="9"/><line x1="9" y1="13" x2="15" y2="13"/></svg>热榜
+    </div>
+    <div class="mobile-nav-item" onclick="switchView('timeline',this,true)" id="mnav-timeline">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="10"/><polyline points="12,6 12,12 16,14"/></svg>时间线
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const PLATFORMS = [
+  {id:'weibo',name:'微博热搜',icon:'💬',color:'#e84040',category:'social',items:[
+    {rank:1,time:'09:52',text:'2024巴黎奥运会中国代表团备战',heat:'9823万',tag:'hot',desc:'中国奥运代表团已完成赛前集训，多位冠军选手状态绝佳，预计本届奥运会金牌数创历史新高。'},
+    {rank:2,time:'09:41',text:'A股市场迎来重要政策利好',heat:'7341万',tag:'new',desc:'国家出台新一轮稳定资本市场政策，三大指数集体拉升，沪指突破3200点。'},
+    {rank:3,time:'09:20',text:'极端天气预警多地高温橙色',heat:'6102万',tag:'',desc:'中央气象台发布高温橙色预警，华北、黄淮等地气温将达38℃以上，多地启动应急预案。'},
+  ]},
+  {id:'zhihu',name:'知乎热榜',icon:'📖',color:'#4080e0',category:'social',items:[
+    {rank:1,time:'09:48',text:'如何看待大模型替代程序员这一观点？',heat:'2341万',tag:'hot',desc:'多位工程师在知乎展开辩论，主流观点认为AI会替代初级编码工作，但系统设计能力仍是人类优势。'},
+    {rank:2,time:'09:22',text:'月薪1万在北京是什么生活水平？',heat:'1892万',tag:'',desc:'高赞答案详述一线城市真实生存状态，房租餐饮交通占据收入大头。'},
+    {rank:3,time:'08:59',text:'中美关税博弈最新进展分析',heat:'1677万',tag:'new',desc:'美国宣布对华新增关税，长期将加速国内供应链自主替代进程。'},
+  ]},
+  {id:'bilibili',name:'哔哩哔哩',icon:'📺',color:'#e04080',category:'social',items:[
+    {rank:1,time:'09:35',text:'【纪录片】中国高铁二十年沧桑巨变',heat:'1203万播',tag:'hot',desc:'UP主历时两年拍摄的高铁纪录片，深度还原从时速200km到350km的跨越历程。'},
+    {rank:2,time:'09:08',text:'小米SU7 Ultra实车体验评测',heat:'876万播',tag:'new',desc:'百万级电动轿跑全面测评，0-100km/h加速1.98秒实测验证，综合续航实测620km。'},
+    {rank:3,time:'08:18',text:'手把手教你用AI做视频剪辑',heat:'621万播',tag:'',desc:'详解Runway、Kling等AI剪辑工具使用技巧，全流程演示制作10分钟Vlog仅需30分钟。'},
+  ]},
+  {id:'douyin',name:'抖音热点',icon:'🎵',color:'#20b0a0',category:'social',items:[
+    {rank:1,time:'09:44',text:'#新能源车电池安全 最新测试结果',heat:'5.2亿次',tag:'hot',desc:'权威机构对主流新能源车型进行针刺、浸水、高温三重电池安全测试。'},
+    {rank:2,time:'09:15',text:'#AI生成艺术 引发版权争议',heat:'3.8亿次',tag:'',desc:'知名画师发现作品被AI训练集采用后公开维权，多国司法机构正研究立法框架。'},
+    {rank:3,time:'08:05',text:'#大学生就业 最新形势分析',heat:'2.1亿次',tag:'new',desc:'应届生规模突破1179万再创新高，新能源与AI方向需求逆势增长。'},
+  ]},
+  {id:'renmin',name:'人民日报',icon:'🗞',color:'#d4a840',category:'news',items:[
+    {rank:1,time:'09:00',text:'国务院出台稳经济一揽子政策措施',heat:'重磅',tag:'new',desc:'国务院常务会议审议通过稳经济政策，涵盖财政、货币、就业、消费四大领域。'},
+    {rank:2,time:'08:30',text:'全国多地推进新型城镇化建设',heat:'要闻',tag:'',desc:'多省发布新型城镇化三年行动方案，预计新增城镇人口2000万。'},
+    {rank:3,time:'07:50',text:'我国科学家在量子通信领域取得突破',heat:'科技',tag:'',desc:'中国科大团队量子纠缠分发单次传输距离突破1200公里。'},
+  ]},
+  {id:'cctv',name:'央视新闻',icon:'📡',color:'#f07030',category:'news',items:[
+    {rank:1,time:'09:30',text:'习近平主持召开中央财经委员会会议',heat:'要闻',tag:'new',desc:'会议强调统筹扩大内需与深化供给侧结构性改革，明确下半年宏观政策取向。'},
+    {rank:2,time:'08:10',text:'国际局势：中东地区紧张态势最新动态',heat:'国际',tag:'',desc:'中东局势持续紧张，中方呼吁各方保持克制，通过政治途径实现停火。'},
+    {rank:3,time:'07:35',text:'防汛备汛：多省启动应急响应',heat:'社会',tag:'hot',desc:'长江、淮河流域进入防汛关键期，湖北、安徽、江苏等省启动防汛Ⅲ级应急响应。'},
+  ]},
+  {id:'36kr',name:'36氪科技',icon:'💡',color:'#9060e0',category:'tech',items:[
+    {rank:1,time:'09:55',text:'OpenAI o3模型国内正式开放测试',heat:'AI',tag:'new',desc:'国内首批合作伙伴开放o3模型接口，在数学推理与代码生成中较GPT-4o提升约40%。'},
+    {rank:2,time:'08:55',text:'比亚迪超越特斯拉成全球最大纯电车企',heat:'汽车',tag:'hot',desc:'比亚迪二季度全球纯电动汽车交付量首次超越特斯拉，海外销量同比增长180%。'},
+    {rank:3,time:'07:48',text:'国产大模型Kimi正式发布2.0版本',heat:'AI',tag:'new',desc:'Kimi 2.0支持200万token超长文本，推出多模态输入与联网搜索功能。'},
+  ]},
+  {id:'sspai',name:'少数派',icon:'⚡',color:'#30c060',category:'tech',items:[
+    {rank:1,time:'09:40',text:'macOS 16 新功能前瞻：AI 深度整合',heat:'macOS',tag:'',desc:'苹果Intelligence将在macOS 16中全面铺开，Spotlight与备忘录均获AI加持。'},
+    {rank:2,time:'08:25',text:'iOS 18 隐藏功能完全使用指南',heat:'iOS',tag:'hot',desc:'深度挖掘iOS 18中鲜为人知的快捷操作，控制中心自定义与锁屏组件深度配置。'},
+    {rank:3,time:'07:05',text:'Obsidian 双链笔记法深度实践',heat:'效率',tag:'new',desc:'作者分享使用Obsidian一年的知识管理方法论，包含卡片笔记法落地模板。'},
+  ]},
+  {id:'douban',name:'豆瓣',icon:'🎬',color:'#30a050',category:'social',items:[
+    {rank:1,time:'09:50',text:'《黑神话：悟空》荣获TGA年度游戏大奖',heat:'4.2万',tag:'hot',desc:'国产3A游戏斩获年度最佳游戏，豆瓣评分9.3，成为国产游戏史评分最高作品。'},
+    {rank:2,time:'09:28',text:'豆瓣2024年度书单正式揭晓',heat:'3.1万',tag:'new',desc:'年度书单共收录100部作品，涵盖文学、历史、科学等多个领域。'},
+    {rank:3,time:'07:30',text:'《三体》动画版预告片正式发布',heat:'1.6万',tag:'hot',desc:'B612动画工作室制作的《三体》动画版发布首支正式预告，视觉效果超出预期。'},
+  ]},
+  {id:'xueqiu',name:'雪球',icon:'📈',color:'#e05020',category:'finance',items:[
+    {rank:1,time:'09:55',text:'A股午后拉升，创业板指涨超2.5%',heat:'8.6万',tag:'hot',desc:'受政策利好提振，A股午后强势拉升，市场成交额突破1.2万亿元。'},
+    {rank:2,time:'09:38',text:'比亚迪港股创历史新高，市值破万亿港元',heat:'6.2万',tag:'new',desc:'比亚迪港股盘中触及历史高点，外资持续买入迹象明显。'},
+    {rank:3,time:'09:10',text:'美联储降息预期升温，黄金站上2500美元',heat:'5.1万',tag:'',desc:'最新美国CPI数据低于预期，市场对美联储9月降息押注升至75%。'},
+  ]},
+  {id:'kuaishou',name:'快手',icon:'🎥',color:'#ff6030',category:'social',items:[
+    {rank:1,time:'09:46',text:'#农村大叔自制飞机成功试飞引围观',heat:'3.2亿次',tag:'hot',desc:'河南农村大叔花费3年自制轻型飞机，在麦田上成功完成试飞。'},
+    {rank:2,time:'09:18',text:'#县城咖啡创业 两年开出10家店',heat:'2.1亿次',tag:'new',desc:'返乡青年在小县城开咖啡店的创业故事引发广泛共鸣，系列视频总播放量破5亿。'},
+    {rank:3,time:'07:02',text:'#乡村振兴 这个村靠直播年销农产品5000万',heat:'0.8亿次',tag:'',desc:'贵州某苗寨村民通过快手直播带货，村集体年销售额突破5000万元。'},
+  ]},
+  {id:'ifeng',name:'凤凰网',icon:'🦅',color:'#c03030',category:'news',items:[
+    {rank:1,time:'09:53',text:'特朗普签署新行政令：对华关税再升级',heat:'要闻',tag:'new',desc:'美国总统签署行政令宣布对中国输美商品追加15%关税，中方表示采取对等反制。'},
+    {rank:2,time:'09:32',text:'台海局势：解放军东部战区例行演训',heat:'军事',tag:'hot',desc:'解放军东部战区宣布在台湾海峡附近开展例行战备演训，出动多型战机及舰艇。'},
+    {rank:3,time:'08:40',text:'欧盟对华电动车反补贴税最终裁决出炉',heat:'财经',tag:'new',desc:'欧盟正式公布终裁，比亚迪等三大车企面临17%至35%不等的额外关税。'},
+  ]},
+];
+
+const TOPIC_KEYWORDS = {
+  '经济':['经济','A股','股市','金融','关税','房地产','降息','投资','港股','黄金','债市','券商'],
+  '科技':['科技','AI','人工智能','芯片','量子','机器人','模型','大模型','GPT','云计算','半导体'],
+  '社会':['社会','教育','高考','就业','生活','医疗','民生','房价','城市','县城','农村','创业'],
+  '国际':['国际','中美','美国','欧洲','俄罗斯','全球','外交','中东','台海','南海','欧盟','关税'],
+  '娱乐':['娱乐','电影','动漫','游戏','音乐','综艺','票房','三体','明星','黑神话','豆瓣'],
+  '体育':['体育','奥运','足球','篮球','国足','世界杯','NBA','赛事'],
+  '科普':['量子','宇宙','生物','物理','天文','气候','医学','研究','突破'],
+};
+const TOPIC_LIST = ['全部',...Object.keys(TOPIC_KEYWORDS)];
+let activeSource='全部', activeTopic='全部', isRefreshing=false;
+let TIMELINE_EVENTS_CACHE = {};
+let selectedTlId = null;
+
+// ========== CORE FUNCTIONS ==========
+async function init() {
+  const loaded = await loadRealData();
+  if (!loaded) console.log('使用内置演示数据');
+  renderFilterBar();
+  applyHotFilter();
+  updateTime();
+  const total = PLATFORMS.reduce((s,p)=>s+p.items.length,0);
+  document.getElementById('totalCount').textContent = total+' 条';
+  updateSettingsBtnState();
+}
+
+async function loadRealData() {
+  try {
+    const [hotRes, tlRes] = await Promise.all([
+      fetch('data/hot_list.json'),
+      fetch('data/timeline_events.json'),
+    ]);
+    if (!hotRes.ok) return false;
+    const hotData = await hotRes.json();
+    if (hotData.platforms && hotData.platforms.length > 0) {
+      PLATFORMS.length = 0;
+      hotData.platforms.forEach(p => PLATFORMS.push(p));
+      if (hotData.updatedAt) {
+        try {
+          const d = new Date(hotData.updatedAt);
+          document.getElementById('lastUpdate').textContent =
+            `${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')} 更新`;
+        } catch(e) {}
+      }
+    }
+    if (tlRes.ok) {
+      const tlData = await tlRes.json();
+      TIMELINE_EVENTS_CACHE = tlData.events || {};
+    }
+    return true;
+  } catch(e) { return false; }
+}
+
+function updateTime() {
+  const now = new Date();
+  document.getElementById('lastUpdate').textContent =
+    `${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')} 更新`;
+}
+
+function rankClass(n) { return n===1?'rank-1':n===2?'rank-2':n===3?'rank-3':'rank-n'; }
+function tagHtml(tag) {
+  if(!tag) return '';
+  return `<span class="hot-tag ${tag==='new'?'tag-new':'tag-hot'}">${tag==='new'?'新':'热'}</span>`;
+}
+
+function renderPlatformCard(p, limit=10) {
+  const items = p.items.slice(0,limit).map(item=>`
+    <a class="hot-item" href="javascript:void(0)" onclick="jumpToTimeline('${p.id}',${item.rank})">
+      <span class="hot-rank ${rankClass(item.rank)}">${item.rank}</span>
+      <span class="hot-text">${item.text}</span>
+      ${tagHtml(item.tag)}
+      <span style="font-size:10px;color:var(--text-muted);flex-shrink:0;min-width:34px;text-align:right">${item.time}</span>
+    </a>`).join('');
+  return `<div class="platform-card">
+    <div class="platform-header">
+      <div class="platform-icon" style="background:${p.color}22;color:${p.color}">${p.icon}</div>
+      <span class="platform-name">${p.name}</span>
+      <span style="font-size:10px;color:var(--text-muted)">点击→时间线</span>
+    </div>
+    <div class="hot-items">${items}</div>
+  </div>`;
+}
+
+function renderFilterBar() {
+  const srcHtml = [
+    `<span class="fchip source-chip active" onclick="setSource('全部',this)" style="--chip-color:#aaa">全部</span>`,
+    ...PLATFORMS.map(p=>`<span class="fchip source-chip" onclick="setSource('${p.id}',this)" style="--chip-color:${p.color}"><span class="fchip-dot" style="background:${p.color}"></span>${p.name}</span>`)
+  ].join('');
+  const topicHtml = TOPIC_LIST.map(t=>`<span class="fchip topic-chip ${t==='全部'?'active':''}" onclick="setTopic('${t}',this)">${t}</span>`).join('');
+  document.getElementById('sourceChips').innerHTML = srcHtml;
+  document.getElementById('topicChips').innerHTML = topicHtml;
+}
+
+function setSource(src,el) {
+  activeSource=src;
+  document.querySelectorAll('#sourceChips .fchip').forEach(c=>c.classList.remove('active'));
+  el.classList.add('active');
+  applyHotFilter();
+}
+
+function setTopic(t,el) {
+  activeTopic=t;
+  document.querySelectorAll('#topicChips .fchip').forEach(c=>c.classList.remove('active'));
+  el.classList.add('active');
+  applyHotFilter();
+}
+
+function applyHotFilter() {
+  let plats = activeSource==='全部' ? PLATFORMS : PLATFORMS.filter(p=>p.id===activeSource);
+  const kws = TOPIC_KEYWORDS[activeTopic]||[];
+  let result = plats.map(p=>({...p, items:p.items.filter(item=>{
+    if(activeTopic==='全部') return true;
+    const h=(item.text+' '+(item.desc||'')).toLowerCase();
+    return kws.some(kw=>h.includes(kw.toLowerCase()));
+  })})).filter(p=>p.items.length);
+  const grid=document.getElementById('hotGrid');
+  const desc=document.getElementById('filterDesc');
+  if(!result.length){
+    grid.innerHTML='<p style="color:var(--text-muted);padding:32px 0;text-align:center;grid-column:1/-1">该筛选条件下暂无内容</p>';
+    if(desc) desc.textContent='';
+    return;
+  }
+  if(desc) desc.textContent=`${result.length} 个来源 · ${result.reduce((s,p)=>s+p.items.length,0)} 条`;
+  grid.innerHTML=result.map(p=>renderPlatformCard(p,10)).join('');
+}
+
+function jumpToTimeline(platformId, rank) {
+  const p = PLATFORMS.find(x=>x.id===platformId);
+  if(!p) return;
+  const item = p.items.find(x=>x.rank===rank);
+  if(!item) return;
+  switchView('timeline', null);
+  setTimeout(()=>showHotItemTimeline(p, item), 60);
+}
+
+async function showHotItemTimeline(p, item) {
+  const content = document.getElementById('timelineContent');
+  const isSocial = ['weibo','zhihu','bilibili','douyin','douban','kuaishou'].includes(p.id);
+
+  // 骨架屏
+  content.innerHTML = `
+    <div class="tl-header-card">
+      <span class="tl-header-badge" style="background:${p.color}22;color:${p.color};border:1px solid ${p.color}44">${p.icon} ${p.name}</span>
+      <div class="tl-header-info">
+        <div class="tl-header-title">${item.text}</div>
+        <div class="tl-header-meta">
+          <span>热度 ${item.heat}</span>
+          <span>·</span>
+          <span>${item.time}</span>
+          <span>·</span>
+          <span id="tl-status" style="color:var(--text-muted)">加载中…</span>
+        </div>
+        ${item.desc ? `<div style="font-size:13px;color:var(--text-secondary);line-height:1.7;margin-top:10px;padding-top:10px;border-top:1px solid var(--border)">${item.desc}</div>` : ''}
+      </div>
+    </div>
+    <div class="tl-two-col" id="tl-body">
+      <div>
+        <div class="tl-col-header">
+          <span class="tl-col-dot" style="background:#4080e0"></span>
+          <span class="tl-col-title">事件进展</span>
+          <span class="tl-col-badge" style="background:rgba(64,128,224,0.12);color:#4080e0;border:1px solid rgba(64,128,224,0.25)">新闻媒体</span>
+        </div>
+        <div id="tl-col-news">
+          ${skelNodes(4)}
+        </div>
+      </div>
+      <div>
+        <div class="tl-col-header">
+          <span class="tl-col-dot" style="background:#e84040"></span>
+          <span class="tl-col-title">舆论热度</span>
+          <span class="tl-col-badge" style="background:rgba(232,64,64,0.1);color:#e84040;border:1px solid rgba(232,64,64,0.25)">社交媒体</span>
+        </div>
+        <div id="tl-col-heat"></div>
+      </div>
+    </div>`;
+
+  // 右栏：舆论热度（固定4阶段，基于发布时间倒推）
+  renderHeatCol(p, item);
+
+  // 左栏：事件进展（三级数据源：NewsAPI → 本地缓存 → Claude API）
+  let events = [];
+
+  // 1. NewsAPI 真实新闻
+  events = await fetchNewsApiEvents(item);
+
+  // 2. 本地 JSON 缓存
+  if (!events.length && item._id && TIMELINE_EVENTS_CACHE[item._id]) {
+    events = TIMELINE_EVENTS_CACHE[item._id];
+  }
+
+  // 3. Claude API 生成
+  if (!events.length && getApiKey()) {
+    try {
+      const prompt = `你是新闻时间线助手。根据以下新闻，生成该事件从发生至今的真实时间线进展（4-6个节点，倒序排列，最新在第一个）。
+要求：内容为事件本身实际进展，不要写"传播""热议"等社交媒体词汇；时间格式HH:MM；类型选：突发/声明/回应/进展/核实/影响/背景。
+
+来源：${p.name} | 标题：${item.text} | 摘要：${item.desc}
+
+只返回JSON数组：[{"time":"09:30","timeLabel":"今日","type":"突发","typeColor":"#e84040","isLatest":true,"title":"标题15字内","detail":"详情60-100字"}]
+typeColor：突发=#e84040，声明/回应=#4080e0，进展=#f07030，核实/影响=#9060e0，背景=#8a8794`;
+
+      const resp = await fetch('https://api.anthropic.com/v1/messages', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'x-api-key': getApiKey(),
+          'anthropic-version': '2023-06-01',
+          'anthropic-dangerous-direct-browser-access': 'true',
+        },
+        body: JSON.stringify({
+          model: 'claude-sonnet-4-20250514',
+          max_tokens: 1000,
+          messages: [{ role: 'user', content: prompt }]
+        })
+      });
+      const data = await resp.json();
+      const raw = data.content?.map(b=>b.text||'').join('');
+      const match = raw.match(/\[[\s\S]*\]/);
+      if (match) events = JSON.parse(match[0]);
+    } catch(e) { console.warn('API失败:', e); }
+  }
+
+  document.getElementById('tl-status').textContent =
+    events.length ? `${events.length} 条事件进展` : '暂无新闻报道';
+
+  const newsCol = document.getElementById('tl-col-news');
+  if (!newsCol) return;
+
+  if (!events.length) {
+    const noKey = !getApiKey() && !getNewsApiKey();
+    newsCol.innerHTML = noKey
+      ? `<div class="tl-col-empty">请先设置 NewsAPI 或 Anthropic Key<br><button onclick="openSettings()" style="margin-top:10px;padding:6px 16px;border-radius:7px;border:1px solid var(--border-hover);background:transparent;color:var(--text-secondary);font-size:12px;cursor:pointer;font-family:inherit">⚙ 去设置</button></div>`
+      : `<div class="tl-col-empty">暂未找到相关新闻报道<br><span style="font-size:11px">可能是社交媒体原创话题</span></div>`;
+    return;
+  }
+
+  newsCol.innerHTML = events.map((ev, i) => `
+    <div class="tl-node">
+      <div class="tl-node-time">
+        <div class="tl-node-time-main" style="color:${ev.isLatest?'var(--accent-red)':'var(--text-primary)'}">${ev.time}</div>
+        <div class="tl-node-time-sub">${ev.timeLabel||'今日'}</div>
+      </div>
+      <div class="tl-node-axis">
+        <div class="tl-node-axis-line-top ${i===0?'first':''}"></div>
+        <div class="tl-node-axis-dot ${ev.isLatest?'latest':''}" style="background:${ev.typeColor}"></div>
+        <div class="tl-node-axis-line-bottom"></div>
+      </div>
+      <div class="tl-node-card ${ev.isLatest?'latest':''}">
+        <div class="tl-node-card-top">
+          <span class="tl-node-type" style="background:${ev.typeColor}18;color:${ev.typeColor};border:1px solid ${ev.typeColor}33">${ev.type}</span>
+          ${ev.isLatest?'<span class="tl-node-latest-badge">最新</span>':''}
+        </div>
+        <div class="tl-node-title">${ev.title}</div>
+        <div class="tl-node-detail">${ev.detail}</div>
+        ${ev.source ? `<div style="font-size:10px;color:var(--text-muted);margin-top:6px;display:flex;align-items:center;gap:6px">
+          <span style="opacity:0.6">📰</span> ${ev.source}
+          ${ev.url ? `<a href="${ev.url}" target="_blank" style="color:var(--accent-blue);text-decoration:none;font-size:10px">阅读原文 →</a>` : ''}
+        </div>` : ''}
+      </div>
+    </div>`).join('');
+
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+function skelNodes(n) {
+  return Array.from({length:n},(_,i)=>`
+    <div class="tl-node" style="animation-delay:${i*0.08}s">
+      <div class="tl-node-time">
+        <div style="width:50px;height:26px;border-radius:4px" class="tl-skel"></div>
+        <div style="width:28px;height:9px;border-radius:3px;margin-top:5px" class="tl-skel"></div>
+      </div>
+      <div class="tl-node-axis">
+        <div class="tl-node-axis-line-top ${i===0?'first':''}"></div>
+        <div class="tl-node-axis-dot" style="background:var(--border-hover)"></div>
+        <div class="tl-node-axis-line-bottom"></div>
+      </div>
+      <div class="tl-node-card" style="margin:10px 0">
+        <div style="width:56px;height:15px;border-radius:4px;margin-bottom:9px" class="tl-skel"></div>
+        <div style="width:90%;height:13px;border-radius:3px;margin-bottom:7px" class="tl-skel"></div>
+        <div style="width:100%;height:11px;border-radius:3px;margin-bottom:4px" class="tl-skel"></div>
+        <div style="width:65%;height:11px;border-radius:3px" class="tl-skel"></div>
+      </div>
+    </div>`).join('');
+}
+
+function renderHeatCol(p, item) {
+  const col = document.getElementById('tl-col-heat');
+  if (!col) return;
+
+  const [bh, bm] = item.time.split(':').map(Number);
+  const mkTime = (dh, dm) => {
+    let h=bh-dh, m=bm-dm;
+    if(m<0){m+=60;h--;} if(h<0)h=0;
+    return `${String(h).padStart(2,'0')}:${String(m).padStart(2,'0')}`;
+  };
+
+  const stages = [
+    {
+      label: '发酵', color: '#8a8794', bar: 20,
+      time: mkTime(2,30), timeLabel: '今日',
+      desc: `话题「${item.text.slice(0,16)}…」在小范围流传，少量用户自发转发讨论，尚未进入主流视野。`,
+    },
+    {
+      label: '关注', color: '#4080e0', bar: 45,
+      time: mkTime(1,40), timeLabel: '今日',
+      desc: `${p.name}等平台大V账号开始转发，话题曝光量快速扩大，相关词条进入热榜候选区。`,
+    },
+    {
+      label: '扩散', color: '#f07030', bar: 72,
+      time: mkTime(0,50), timeLabel: '今日',
+      desc: `话题登上热榜后触达大量普通用户，多方观点涌现，讨论维度持续丰富，转发评论量级别激增。`,
+    },
+    {
+      label: '热议', color: '#e84040', bar: 100,
+      time: item.time, timeLabel: '今日',
+      desc: `当前热度 ${item.heat}，仍在持续发酵。${item.desc ? item.desc.slice(0,60)+'…' : '话题持续引发社会广泛讨论。'}`,
+      isLatest: true,
+    },
+  ];
+
+  // 倒序：最新在上
+  const reversed = [...stages].reverse();
+
+  col.innerHTML = `<div class="heat-track">
+    ${reversed.map((s, i) => `
+      <div class="heat-node">
+        <div class="heat-node-left">
+          <div class="heat-node-line-top ${i===0?'first':''}" style="background:${s.color}55"></div>
+          <div class="heat-node-dot" style="background:${s.color};${s.isLatest?'box-shadow:0 0 0 3px '+s.color+'33':''};border-color:var(--bg)"></div>
+          <div class="heat-node-line-bottom" style="background:${s.color}33"></div>
+        </div>
+        <div class="heat-node-body">
+          <div class="heat-node-stage" style="color:${s.color}">
+            ${s.label}
+            ${s.isLatest?`<span style="font-size:9px;padding:1px 6px;border-radius:3px;background:rgba(232,64,64,0.13);color:#e84040;border:1px solid rgba(232,64,64,0.28)">当前</span>`:''}
+          </div>
+          <div class="heat-node-bar-wrap">
+            <div class="heat-node-bar" style="width:${s.bar}%;background:${s.color}"></div>
+          </div>
+          <div class="heat-node-desc">${s.desc}</div>
+          <div class="heat-node-time">${s.timeLabel} ${s.time}</div>
+        </div>
+      </div>`).join('')}
+  </div>`;
+}
+
+// ========== API KEY 管理 ==========
+const STORE_ANTHROPIC = 'newshub_api_key';
+const STORE_NEWSAPI   = 'newshub_newsapi_key';
+
+function getApiKey()     { return localStorage.getItem(STORE_ANTHROPIC) || ''; }
+function getNewsApiKey() { return localStorage.getItem(STORE_NEWSAPI)   || ''; }
+
+function updateSettingsBtnState() {
+  const btn = document.getElementById('settingsBtn');
+  if (!btn) return;
+  const hasAny = getApiKey() || getNewsApiKey();
+  btn.style.borderColor = hasAny ? 'var(--accent-green)' : '';
+  btn.style.color       = hasAny ? 'var(--accent-green)' : '';
+  btn.title = hasAny ? 'API 已配置' : '设置 API Key';
+}
+
+function openSettings() {
+  const nk = getNewsApiKey(), ak = getApiKey();
+  const ni = document.getElementById('newsApiKeyInput');
+  const ai = document.getElementById('apiKeyInput');
+  if (ni) { ni.value = nk; ni.type = 'password'; }
+  if (ai) { ai.value = ak; ai.type = 'password'; }
+  const ns = document.getElementById('newsKeyStatus');
+  const as = document.getElementById('keyStatus');
+  if (ns) { ns.textContent = nk ? '✓ 已保存：' + nk.slice(0,8) + '…' : ''; ns.style.color = 'var(--accent-green)'; }
+  if (as) { as.textContent = ak ? '✓ 已保存：' + ak.slice(0,12) + '…' : ''; as.style.color = 'var(--accent-green)'; }
+  document.getElementById('settingsOverlay').classList.add('open');
+  document.body.style.overflow = 'hidden';
+  setTimeout(() => { if (ni) ni.focus(); }, 80);
+}
+
+function closeSettings() {
+  document.getElementById('settingsOverlay').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+function handleSettingsOverlayClick(e) {
+  if (e.target === document.getElementById('settingsOverlay')) closeSettings();
+}
+
+function toggleVisible(id) {
+  const el = document.getElementById(id);
+  if (el) el.type = el.type === 'password' ? 'text' : 'password';
+}
+
+// 兼容旧版调用
+function toggleKeyVisible() { toggleVisible('apiKeyInput'); }
+
+function saveAllKeys() {
+  const nv = (document.getElementById('newsApiKeyInput')?.value || '').trim();
+  const av = (document.getElementById('apiKeyInput')?.value || '').trim();
+  const ns = document.getElementById('newsKeyStatus');
+  const as = document.getElementById('keyStatus');
+  let ok = true;
+
+  // NewsAPI Key 校验（32位十六进制）
+  if (nv) {
+    if (!/^[a-f0-9]{32}$/.test(nv)) {
+      if (ns) { ns.textContent = '⚠ 格式不正确，应为32位字母数字'; ns.style.color = 'var(--accent-orange)'; }
+      ok = false;
+    } else {
+      localStorage.setItem(STORE_NEWSAPI, nv);
+      if (ns) { ns.textContent = '✓ 已保存'; ns.style.color = 'var(--accent-green)'; }
+    }
+  } else {
+    localStorage.removeItem(STORE_NEWSAPI);
+    if (ns) { ns.textContent = '已清除'; ns.style.color = 'var(--text-muted)'; }
+  }
+
+  // Anthropic Key 校验
+  if (av) {
+    if (!av.startsWith('sk-ant-')) {
+      if (as) { as.textContent = '⚠ 格式不正确，应以 sk-ant- 开头'; as.style.color = 'var(--accent-orange)'; }
+      ok = false;
+    } else {
+      localStorage.setItem(STORE_ANTHROPIC, av);
+      if (as) { as.textContent = '✓ 已保存'; as.style.color = 'var(--accent-green)'; }
+    }
+  } else {
+    localStorage.removeItem(STORE_ANTHROPIC);
+    if (as) { as.textContent = '已清除'; as.style.color = 'var(--text-muted)'; }
+  }
+
+  if (!ok) return;
+  updateSettingsBtnState();
+  showToast(nv || av ? '✓ 设置已保存' : '设置已清除');
+  setTimeout(closeSettings, 600);
+}
+
+// 兼容旧版调用
+function saveApiKey() { saveAllKeys(); }
+
+// ========== NEWS API 获取真实新闻 ==========
+async function fetchNewsApiEvents(item) {
+  const key = getNewsApiKey();
+  if (!key) return [];
+
+  // 提取关键词：取标题前20字，去掉问号等标点
+  const kw = item.text.replace(/[？?！!。，,、]/g,'').slice(0, 20);
+
+  try {
+    // NewsAPI everything 端点，搜索中文关键词
+    const url = `https://newsapi.org/v2/everything?` + new URLSearchParams({
+      q: kw,
+      language: 'zh',
+      sortBy: 'publishedAt',
+      pageSize: 8,
+      apiKey: key,
+    });
+    const resp = await fetch(url);
+    if (!resp.ok) return [];
+    const data = await resp.json();
+    if (data.status !== 'ok' || !data.articles?.length) return [];
+
+    // 将 articles 转为时间线节点格式
+    const typeMap = (i) => {
+      if (i === 0) return { type:'最新', color:'#e84040', isLatest:true };
+      if (i === 1) return { type:'进展', color:'#f07030', isLatest:false };
+      if (i === 2) return { type:'报道', color:'#9060e0', isLatest:false };
+      return { type:'背景', color:'#8a8794', isLatest:false };
+    };
+
+    return data.articles.slice(0, 6).map((a, i) => {
+      const pub = a.publishedAt ? new Date(a.publishedAt) : null;
+      const timeStr = pub
+        ? pub.toLocaleTimeString('zh-CN', {hour:'2-digit', minute:'2-digit', hour12:false})
+        : item.time;
+      const today = new Date();
+      const dayDiff = pub ? Math.floor((today - pub) / 86400000) : 0;
+      const timeLabel = dayDiff === 0 ? '今日' : dayDiff === 1 ? '昨日' : pub
+        ? `${pub.getMonth()+1}月${pub.getDate()}日` : '今日';
+
+      const { type, color, isLatest } = typeMap(i);
+      return {
+        time: timeStr,
+        timeLabel,
+        type,
+        typeColor: color,
+        isLatest,
+        title: (a.title || '').replace(/\s*-\s*[\w\s]+$/, '').slice(0, 30),
+        detail: (a.description || a.content || a.title || '').slice(0, 120),
+        source: a.source?.name || '',
+        url: a.url || '',
+      };
+    });
+  } catch(e) {
+    console.warn('NewsAPI 请求失败:', e);
+    return [];
+  }
+}
+
+// ========== INTERACTIONS ==========
+function switchView(id, el, isMobile=false) {
+  document.querySelectorAll('.view').forEach(v=>v.classList.remove('active'));
+  document.getElementById('view-'+id).classList.add('active');
+  document.querySelectorAll('.nav-tab').forEach(t=>t.classList.remove('active'));
+  const ntab = document.getElementById('ntab-'+id);
+  if(ntab) ntab.classList.add('active');
+  document.querySelectorAll('.mobile-nav-item').forEach(t=>t.classList.remove('active'));
+  const mnav = document.getElementById('mnav-'+id);
+  if(mnav) mnav.classList.add('active');
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+function openSearch() {
+  document.getElementById('searchOverlay').classList.add('open');
+  document.getElementById('searchBarInput').value='';
+  document.getElementById('searchResultsList').style.display='none';
+  document.getElementById('searchEmpty').style.display='block';
+  document.getElementById('searchEmpty').innerHTML='<div class="search-empty-icon">🔍</div><div class="search-empty-text">输入关键词搜索全部热榜新闻<br>支持标题、摘要内容搜索</div>';
+  setTimeout(()=>document.getElementById('searchBarInput').focus(),80);
+  document.body.style.overflow='hidden';
+}
+function closeSearch() { document.getElementById('searchOverlay').classList.remove('open'); document.body.style.overflow=''; }
+function handleOverlayClick(e) { if(e.target===document.getElementById('searchOverlay')) closeSearch(); }
+function useHint(w) { document.getElementById('searchBarInput').value=w; document.getElementById('searchBarInput').focus(); doSearch(w); }
+function searchKeydown(e) { if(e.key==='Escape') closeSearch(); }
+function highlight(text,q) { if(!q) return text; const esc=q.replace(/[.*+?^${}()|[\]\\]/g,'\\$&'); return text.replace(new RegExp(esc,'gi'),m=>`<span class="search-keyword-highlight">${m}</span>`); }
+
+function doSearch(raw) {
+  const q=raw.trim(), el=document.getElementById('searchEmpty'), list=document.getElementById('searchResultsList');
+  if(!q){list.style.display='none';el.style.display='block';el.innerHTML='<div class="search-empty-icon">🔍</div><div class="search-empty-text">输入关键词搜索全部热榜新闻<br>支持标题、摘要内容搜索</div>';return;}
+  const ql=q.toLowerCase(), results=[];
+  PLATFORMS.forEach(p=>p.items.forEach(item=>{
+    const inT=item.text.toLowerCase().includes(ql), inD=(item.desc||'').toLowerCase().includes(ql);
+    if(inT||inD) results.push({platform:p,item,inTitle:inT});
+  }));
+  results.sort((a,b)=>{ if(a.inTitle&&!b.inTitle)return -1; if(!a.inTitle&&b.inTitle)return 1; return a.item.rank-b.item.rank; });
+  if(!results.length){list.style.display='none';el.style.display='block';el.innerHTML=`<div class="search-empty-icon">😶</div><div class="search-empty-text">没有找到"${q}"相关内容<br>试试其他关键词</div>`;return;}
+  el.style.display='none'; list.style.display='block';
+  list.innerHTML=`<div class="search-status">找到 <strong style="color:var(--text-primary);margin:0 3px">${results.length}</strong> 条结果 · 点击查看时间线</div>`+
+    results.map(({platform:p,item})=>`
+      <div class="search-result-item" onclick="searchGoTimeline('${p.id}',${item.rank})">
+        <div class="sr-bar" style="background:${p.color}"></div>
+        <div class="sr-body">
+          <div class="sr-meta">
+            <span class="sr-platform-badge" style="background:${p.color}22;color:${p.color}">${p.icon} ${p.name}</span>
+            <span class="sr-time">${item.time}</span>
+            ${item.tag?`<span class="hot-tag ${item.tag==='new'?'tag-new':'tag-hot'}">${item.tag==='new'?'新':'热'}</span>`:''}
+            <span class="sr-rank">热榜第 ${item.rank}</span>
+          </div>
+          <div class="sr-title">${highlight(item.text,q)}</div>
+          <div class="sr-desc">${highlight(item.desc||'',q)}</div>
+          <div class="sr-go"><svg width="12" height="12" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="8" cy="8" r="6"/><polyline points="8,5 8,8 10,10"/></svg>查看时间线</div>
+        </div>
+      </div>`).join('');
+}
+
+function searchGoTimeline(pid,rank) { closeSearch(); setTimeout(()=>jumpToTimeline(pid,rank),120); }
+
+function refreshData() {
+  if(isRefreshing) return; isRefreshing=true;
+  const btn=document.getElementById('refreshBtn');
+  btn.style.transform='rotate(360deg)'; btn.style.transition='transform 0.8s';
+  showToast('数据刷新中...');
+  setTimeout(()=>{ btn.style.transform=''; btn.style.transition=''; isRefreshing=false; updateTime(); showToast('✓ 已是最新数据'); },1200);
+}
+
+let isDark=true;
+function toggleDark() {
+  isDark=!isDark;
+  const d=document.documentElement.style;
+  d.setProperty('--bg',isDark?'#0a0a0f':'#f5f4f0');
+  d.setProperty('--bg-card',isDark?'#13131a':'#ffffff');
+  d.setProperty('--bg-card2',isDark?'#1a1a24':'#f0eff8');
+  d.setProperty('--text-primary',isDark?'#f0ede8':'#1a1a24');
+  d.setProperty('--text-secondary',isDark?'#8a8794':'#55526a');
+  d.setProperty('--text-muted',isDark?'#4a4858':'#9a98a8');
+  d.setProperty('--border',isDark?'rgba(255,255,255,0.07)':'rgba(0,0,0,0.08)');
+  d.setProperty('--border-hover',isDark?'rgba(255,255,255,0.15)':'rgba(0,0,0,0.18)');
+  showToast(isDark?'已切换至深色模式':'已切换至浅色模式');
+}
+
+let toastTimer;
+function showToast(msg) {
+  const t=document.getElementById('toast'); t.textContent=msg; t.classList.add('show');
+  clearTimeout(toastTimer); toastTimer=setTimeout(()=>t.classList.remove('show'),2200);
+}
+
+init();
+</script>
+</script>
+</body>
+</html>
