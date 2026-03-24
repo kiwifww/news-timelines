@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-24T10:50:04.870824+08:00",
+  "updatedAt": "2026-03-24T13:01:52.925368+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "10:49",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "10:49",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "10:49",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "10:49",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "10:49",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "10:49",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "10:49",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "10:49",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "10:49",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "10:49",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "10:49",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "10:49",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -343,6 +343,44 @@
         "detail": "两年前，36氪曾报道过小米第一代SU7上市后的门店盛况。 那是一个周五，在北京某大型商场门店，一辆海湾蓝的小米SU7，在白天9小时内，接待了近60名意向车主的试驾。 当天的试驾车满电续航本是800公里，结束时表显续航仅剩40公里，系统已亮起"
       }
     ],
+    "1d2dc4e2": [
+      {
+        "time": "11:28",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "vivo X300 泛亚铁路旅拍：飞车过大关的手机摄影分享",
+        "detail": "只要保持随性，这世界就没有什么地方不能去第二次。查看全文"
+      },
+      {
+        "time": "08:38",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "派早报：华为举办春季全场景新品发布会等",
+        "detail": "少数派的近期动态少数派迎来14周岁，为了与大家共同庆祝我派的生日，我们的软件商城、会员服务和付费栏目都为大家准备了丰厚的优惠。前往选购BeatBox盖板设计实录：用一块透明亚克力，把奇妙灵感凝成实体。 ...查看全文"
+      },
+      {
+        "time": "18:01",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "派评 | 近期值得关注的 App",
+        "detail": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文"
+      },
+      {
+        "time": "14:38",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "Mac 选购指南 2026 春季版",
+        "detail": "我该不该用 MacBook Neo 入门 macOS？以及其他 Mac 我应该怎么选。查看全文"
+      }
+    ],
     "4a0f364a": [
       {
         "time": "08:38",
@@ -354,10 +392,19 @@
         "detail": "少数派的近期动态少数派迎来14周岁，为了与大家共同庆祝我派的生日，我们的软件商城、会员服务和付费栏目都为大家准备了丰厚的优惠。前往选购BeatBox盖板设计实录：用一块透明亚克力，把奇妙灵感凝成实体。 ...查看全文"
       },
       {
-        "time": "18:01",
-        "timeLabel": "昨日",
+        "time": "11:28",
+        "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "vivo X300 泛亚铁路旅拍：飞车过大关的手机摄影分享",
+        "detail": "只要保持随性，这世界就没有什么地方不能去第二次。查看全文"
+      },
+      {
+        "time": "18:01",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "派评 | 近期值得关注的 App",
         "detail": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文"
@@ -365,20 +412,11 @@
       {
         "time": "14:38",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "Mac 选购指南 2026 春季版",
-        "detail": "我该不该用 MacBook Neo 入门 macOS？以及其他 Mac 我应该怎么选。查看全文"
-      },
-      {
-        "time": "11:30",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "一日一技｜基于 Tasker 的节假日补班闹钟怎么做？",
-        "detail": "手握非国行的 Android 手机或者 Pixel 机型的小伙伴不妨试试。查看全文"
+        "title": "Mac 选购指南 2026 春季版",
+        "detail": "我该不该用 MacBook Neo 入门 macOS？以及其他 Mac 我应该怎么选。查看全文"
       }
     ],
     "65bcadd6": [
@@ -392,10 +430,19 @@
         "detail": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文"
       },
       {
-        "time": "08:38",
+        "time": "11:28",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "vivo X300 泛亚铁路旅拍：飞车过大关的手机摄影分享",
+        "detail": "只要保持随性，这世界就没有什么地方不能去第二次。查看全文"
+      },
+      {
+        "time": "08:38",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "派早报：华为举办春季全场景新品发布会等",
         "detail": "少数派的近期动态少数派迎来14周岁，为了与大家共同庆祝我派的生日，我们的软件商城、会员服务和付费栏目都为大家准备了丰厚的优惠。前往选购BeatBox盖板设计实录：用一块透明亚克力，把奇妙灵感凝成实体。 ...查看全文"
@@ -403,101 +450,16 @@
       {
         "time": "14:38",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
+        "type": "背景",
+        "typeColor": "#8a8794",
         "isLatest": false,
         "title": "Mac 选购指南 2026 春季版",
         "detail": "我该不该用 MacBook Neo 入门 macOS？以及其他 Mac 我应该怎么选。查看全文"
-      },
-      {
-        "time": "11:30",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "一日一技｜基于 Tasker 的节假日补班闹钟怎么做？",
-        "detail": "手握非国行的 Android 手机或者 Pixel 机型的小伙伴不妨试试。查看全文"
-      }
-    ],
-    "5e62e684": [
-      {
-        "time": "14:38",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "Mac 选购指南 2026 春季版",
-        "detail": "我该不该用 MacBook Neo 入门 macOS？以及其他 Mac 我应该怎么选。查看全文"
-      },
-      {
-        "time": "08:38",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "派早报：华为举办春季全场景新品发布会等",
-        "detail": "少数派的近期动态少数派迎来14周岁，为了与大家共同庆祝我派的生日，我们的软件商城、会员服务和付费栏目都为大家准备了丰厚的优惠。前往选购BeatBox盖板设计实录：用一块透明亚克力，把奇妙灵感凝成实体。 ...查看全文"
-      },
-      {
-        "time": "18:01",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派评 | 近期值得关注的 App",
-        "detail": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文"
-      },
-      {
-        "time": "11:30",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "一日一技｜基于 Tasker 的节假日补班闹钟怎么做？",
-        "detail": "手握非国行的 Android 手机或者 Pixel 机型的小伙伴不妨试试。查看全文"
-      }
-    ],
-    "f56d05b0": [
-      {
-        "time": "10:50",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "开始推理吧直播",
-        "detail": "开始推理吧直播"
-      },
-      {
-        "time": "10:50",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "美国得州炼油厂发生爆炸",
-        "detail": "美国得州炼油厂发生爆炸"
-      },
-      {
-        "time": "10:50",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "稳定发展是中国人民的坚实底气",
-        "detail": "稳定发展是中国人民的坚实底气"
-      },
-      {
-        "time": "10:50",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "开推4迪丽热巴退出丁程鑫加入",
-        "detail": "开推4迪丽热巴退出丁程鑫加入"
       }
     ],
     "c494ea4f": [
       {
-        "time": "10:50",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -506,7 +468,7 @@
         "detail": "美国得州炼油厂发生爆炸"
       },
       {
-        "time": "10:50",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -515,7 +477,7 @@
         "detail": "开始推理吧直播"
       },
       {
-        "time": "10:50",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -524,18 +486,56 @@
         "detail": "稳定发展是中国人民的坚实底气"
       },
       {
-        "time": "10:50",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "开推4迪丽热巴退出丁程鑫加入",
-        "detail": "开推4迪丽热巴退出丁程鑫加入"
+        "title": "一加15T",
+        "detail": "一加15T"
+      }
+    ],
+    "f56d05b0": [
+      {
+        "time": "13:01",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "开始推理吧直播",
+        "detail": "开始推理吧直播"
+      },
+      {
+        "time": "13:01",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "美国得州炼油厂发生爆炸",
+        "detail": "美国得州炼油厂发生爆炸"
+      },
+      {
+        "time": "13:01",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "稳定发展是中国人民的坚实底气",
+        "detail": "稳定发展是中国人民的坚实底气"
+      },
+      {
+        "time": "13:01",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "一加15T",
+        "detail": "一加15T"
       }
     ],
     "0c2fa33e": [
       {
-        "time": "10:50",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -544,31 +544,31 @@
         "detail": "稳定发展是中国人民的坚实底气"
       },
       {
-        "time": "10:50",
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "开始推理吧直播",
-        "detail": "开始推理吧直播"
-      },
-      {
-        "time": "10:50",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "美国得州炼油厂发生爆炸",
         "detail": "美国得州炼油厂发生爆炸"
       },
       {
-        "time": "10:50",
+        "time": "13:01",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "开始推理吧直播",
+        "detail": "开始推理吧直播"
+      },
+      {
+        "time": "13:01",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "开推4迪丽热巴退出丁程鑫加入",
-        "detail": "开推4迪丽热巴退出丁程鑫加入"
+        "title": "一加15T",
+        "detail": "一加15T"
       }
     ]
   }
