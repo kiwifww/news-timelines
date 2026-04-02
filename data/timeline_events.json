@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-02T19:01:53.537465+08:00",
+  "updatedAt": "2026-04-02T21:47:25.939397+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -343,6 +343,44 @@
         "detail": "文｜邓咏仪 编辑｜苏建勋 当OpenClaw风暴席卷全球之时，无界方舟创始人曾晓东的反应不是兴奋，而是一种“终于被看见”的感觉。 “OpenClaw本质上是一个Agent框架，底层是一个会写代码的Agent，放在云端服务器或者电脑上。”他对"
       }
     ],
+    "2dfd607d": [
+      {
+        "time": "18:26",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "汇聚热爱，「2050 大会」少数派线下活动邀请你来参与",
+        "detail": "「2050大会」是国内科技圈里一个非常独特的存在。这是由中国工程院院士、阿里云创始人王坚博士，通过杭州市云栖科技创新基金会，发起的一项非营利科技活动。每年4月最后一个完整周末，来自世界各地的科技爱好者 ...查看全文"
+      },
+      {
+        "time": "16:33",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "派晚报：2026 年愚人节产品大赏",
+        "detail": "假作真时真亦假，明天晚上就放假。查看全文"
+      },
+      {
+        "time": "11:28",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "被咬一口的世界，苹果 50 年的疯狂与奇迹",
+        "detail": "科技应该怎么改变人类的生活，Apple 花 50 周年给出了自己的答卷。查看全文"
+      },
+      {
+        "time": "08:28",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "派早报：OPPO 发布 K15 Pro 系列、DLSS 4.",
+        "detail": "雷蛇推出人体工学键盘 Pro Type Ergo、微软承诺会为 Windows 11 的 Linux 子系统提速等。查看全文"
+      }
+    ],
     "33b0f3f7": [
       {
         "time": "16:33",
@@ -354,10 +392,19 @@
         "detail": "假作真时真亦假，明天晚上就放假。查看全文"
       },
       {
-        "time": "11:28",
+        "time": "18:26",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "汇聚热爱，「2050 大会」少数派线下活动邀请你来参与",
+        "detail": "「2050大会」是国内科技圈里一个非常独特的存在。这是由中国工程院院士、阿里云创始人王坚博士，通过杭州市云栖科技创新基金会，发起的一项非营利科技活动。每年4月最后一个完整周末，来自世界各地的科技爱好者 ...查看全文"
+      },
+      {
+        "time": "11:28",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "被咬一口的世界，苹果 50 年的疯狂与奇迹",
         "detail": "科技应该怎么改变人类的生活，Apple 花 50 周年给出了自己的答卷。查看全文"
@@ -365,20 +412,11 @@
       {
         "time": "08:28",
         "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派早报：OPPO 发布 K15 Pro 系列、DLSS 4.",
-        "detail": "雷蛇推出人体工学键盘 Pro Type Ergo、微软承诺会为 Windows 11 的 Linux 子系统提速等。查看全文"
-      },
-      {
-        "time": "17:00",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "本月玩什么｜失落星船：马拉松、Pokémon Pokopia",
-        "detail": "最近值得一试的新作汇总。查看全文"
+        "title": "派早报：OPPO 发布 K15 Pro 系列、DLSS 4.",
+        "detail": "雷蛇推出人体工学键盘 Pro Type Ergo、微软承诺会为 Windows 11 的 Linux 子系统提速等。查看全文"
       }
     ],
     "f171a4b7": [
@@ -392,10 +430,19 @@
         "detail": "科技应该怎么改变人类的生活，Apple 花 50 周年给出了自己的答卷。查看全文"
       },
       {
-        "time": "16:33",
+        "time": "18:26",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "汇聚热爱，「2050 大会」少数派线下活动邀请你来参与",
+        "detail": "「2050大会」是国内科技圈里一个非常独特的存在。这是由中国工程院院士、阿里云创始人王坚博士，通过杭州市云栖科技创新基金会，发起的一项非营利科技活动。每年4月最后一个完整周末，来自世界各地的科技爱好者 ...查看全文"
+      },
+      {
+        "time": "16:33",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "派晚报：2026 年愚人节产品大赏",
         "detail": "假作真时真亦假，明天晚上就放假。查看全文"
@@ -403,172 +450,125 @@
       {
         "time": "08:28",
         "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
+        "type": "背景",
+        "typeColor": "#8a8794",
         "isLatest": false,
         "title": "派早报：OPPO 发布 K15 Pro 系列、DLSS 4.",
         "detail": "雷蛇推出人体工学键盘 Pro Type Ergo、微软承诺会为 Windows 11 的 Linux 子系统提速等。查看全文"
-      },
-      {
-        "time": "17:00",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "本月玩什么｜失落星船：马拉松、Pokémon Pokopia",
-        "detail": "最近值得一试的新作汇总。查看全文"
       }
     ],
-    "f815847b": [
+    "49cec6ac": [
       {
-        "time": "08:28",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "派早报：OPPO 发布 K15 Pro 系列、DLSS 4.",
-        "detail": "雷蛇推出人体工学键盘 Pro Type Ergo、微软承诺会为 Windows 11 的 Linux 子系统提速等。查看全文"
+        "title": "乘风直播节奏好慢",
+        "detail": "乘风直播节奏好慢"
       },
       {
-        "time": "16:33",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "派晚报：2026 年愚人节产品大赏",
-        "detail": "假作真时真亦假，明天晚上就放假。查看全文"
+        "title": "与辉同行致歉",
+        "detail": "与辉同行致歉"
       },
       {
-        "time": "11:28",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "被咬一口的世界，苹果 50 年的疯狂与奇迹",
-        "detail": "科技应该怎么改变人类的生活，Apple 花 50 周年给出了自己的答卷。查看全文"
+        "title": "多城实施住房公积金新政",
+        "detail": "多城实施住房公积金新政"
       },
       {
-        "time": "17:00",
-        "timeLabel": "昨日",
+        "time": "21:47",
+        "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "本月玩什么｜失落星船：马拉松、Pokémon Pokopia",
-        "detail": "最近值得一试的新作汇总。查看全文"
+        "title": "华为畅享90满电奔赴",
+        "detail": "华为畅享90满电奔赴"
       }
     ],
-    "49542b97": [
+    "a6e0b480": [
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "印度65岁大象死亡生前被涂粉色颜料",
-        "detail": "印度65岁大象死亡生前被涂粉色颜料"
+        "title": "与辉同行致歉",
+        "detail": "与辉同行致歉"
       },
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "已吃两瓶优思益消费者发声",
-        "detail": "已吃两瓶优思益消费者发声"
+        "title": "乘风直播节奏好慢",
+        "detail": "乘风直播节奏好慢"
       },
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "又是赏花好时节",
-        "detail": "又是赏花好时节"
+        "title": "多城实施住房公积金新政",
+        "detail": "多城实施住房公积金新政"
       },
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "AI创造营",
-        "detail": "AI创造营"
+        "title": "华为畅享90满电奔赴",
+        "detail": "华为畅享90满电奔赴"
       }
     ],
-    "472df3ef": [
+    "a23963d8": [
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "已吃两瓶优思益消费者发声",
-        "detail": "已吃两瓶优思益消费者发声"
+        "title": "多城实施住房公积金新政",
+        "detail": "多城实施住房公积金新政"
       },
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "印度65岁大象死亡生前被涂粉色颜料",
-        "detail": "印度65岁大象死亡生前被涂粉色颜料"
+        "title": "乘风直播节奏好慢",
+        "detail": "乘风直播节奏好慢"
       },
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "又是赏花好时节",
-        "detail": "又是赏花好时节"
+        "title": "与辉同行致歉",
+        "detail": "与辉同行致歉"
       },
       {
-        "time": "19:01",
+        "time": "21:47",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "AI创造营",
-        "detail": "AI创造营"
-      }
-    ],
-    "0521df04": [
-      {
-        "time": "19:01",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "又是赏花好时节",
-        "detail": "又是赏花好时节"
-      },
-      {
-        "time": "19:01",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "印度65岁大象死亡生前被涂粉色颜料",
-        "detail": "印度65岁大象死亡生前被涂粉色颜料"
-      },
-      {
-        "time": "19:01",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "已吃两瓶优思益消费者发声",
-        "detail": "已吃两瓶优思益消费者发声"
-      },
-      {
-        "time": "19:01",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "AI创造营",
-        "detail": "AI创造营"
+        "title": "华为畅享90满电奔赴",
+        "detail": "华为畅享90满电奔赴"
       }
     ]
   }
