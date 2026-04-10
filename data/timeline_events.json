@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T14:04:17.112088+08:00",
+  "updatedAt": "2026-04-10T16:25:17.763618+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -343,6 +343,44 @@
         "detail": "大公司： 苏宁易采云升级“青云计划”，三年培育50个亿元级伙伴 36氪获悉，4月9日，2026苏宁易采云合作伙伴大会在南京举办。会上宣布升级“青云计划”，提出新一轮三年发展目标：培育50个以上年交易规模过亿的合作伙伴，拓展采购单位至800万"
       }
     ],
+    "28b1e4a8": [
+      {
+        "time": "15:05",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "深入 OPPO Find N6：一场关于大屏和效率的舞蹈",
+        "detail": "我们把 Find N6 带进生活，带进真实场景，看看它用起来到底怎么样。查看全文"
+      },
+      {
+        "time": "11:35",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "Claude Code+HA 自动化实战：给宠物龟请个「电子",
+        "detail": "养龟是个慢节奏的事。但每天翻翻聊天软件的报告，看看谁又霸占了晒背台、谁偷偷换了个位置，比蹲在缸前看半天有意思多了。查看全文"
+      },
+      {
+        "time": "08:47",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "派早报：微信支付发布接入 Skill 工具体系等",
+        "detail": "Amflow 推出电动山地自行车系列、戴森推出手持无叶风扇 HushJet Mini Cool 等。查看全文"
+      },
+      {
+        "time": "17:38",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "AI 时代，我关于教育的思考",
+        "detail": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
+      }
+    ],
     "6c515a31": [
       {
         "time": "11:35",
@@ -354,10 +392,19 @@
         "detail": "养龟是个慢节奏的事。但每天翻翻聊天软件的报告，看看谁又霸占了晒背台、谁偷偷换了个位置，比蹲在缸前看半天有意思多了。查看全文"
       },
       {
-        "time": "08:47",
+        "time": "15:05",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "深入 OPPO Find N6：一场关于大屏和效率的舞蹈",
+        "detail": "我们把 Find N6 带进生活，带进真实场景，看看它用起来到底怎么样。查看全文"
+      },
+      {
+        "time": "08:47",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "派早报：微信支付发布接入 Skill 工具体系等",
         "detail": "Amflow 推出电动山地自行车系列、戴森推出手持无叶风扇 HushJet Mini Cool 等。查看全文"
@@ -365,20 +412,11 @@
       {
         "time": "17:38",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "AI 时代，我关于教育的思考",
-        "detail": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
-      },
-      {
-        "time": "14:32",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "疑难杂症不求人：如何在 Windows 11 中搞定「重装」",
-        "detail": "掌握这些方法，重装 Windows 11 不求人。查看全文"
+        "title": "AI 时代，我关于教育的思考",
+        "detail": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
       }
     ],
     "35be51b2": [
@@ -392,10 +430,19 @@
         "detail": "Amflow 推出电动山地自行车系列、戴森推出手持无叶风扇 HushJet Mini Cool 等。查看全文"
       },
       {
-        "time": "11:35",
+        "time": "15:05",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "深入 OPPO Find N6：一场关于大屏和效率的舞蹈",
+        "detail": "我们把 Find N6 带进生活，带进真实场景，看看它用起来到底怎么样。查看全文"
+      },
+      {
+        "time": "11:35",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "Claude Code+HA 自动化实战：给宠物龟请个「电子",
         "detail": "养龟是个慢节奏的事。但每天翻翻聊天软件的报告，看看谁又霸占了晒背台、谁偷偷换了个位置，比蹲在缸前看半天有意思多了。查看全文"
@@ -403,172 +450,125 @@
       {
         "time": "17:38",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
+        "type": "背景",
+        "typeColor": "#8a8794",
         "isLatest": false,
         "title": "AI 时代，我关于教育的思考",
         "detail": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
-      },
-      {
-        "time": "14:32",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "疑难杂症不求人：如何在 Windows 11 中搞定「重装」",
-        "detail": "掌握这些方法，重装 Windows 11 不求人。查看全文"
       }
     ],
-    "bdc570a9": [
+    "546fb76b": [
       {
-        "time": "17:38",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "AI 时代，我关于教育的思考",
-        "detail": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
-      },
-      {
-        "time": "11:35",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "Claude Code+HA 自动化实战：给宠物龟请个「电子",
-        "detail": "养龟是个慢节奏的事。但每天翻翻聊天软件的报告，看看谁又霸占了晒背台、谁偷偷换了个位置，比蹲在缸前看半天有意思多了。查看全文"
-      },
-      {
-        "time": "08:47",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派早报：微信支付发布接入 Skill 工具体系等",
-        "detail": "Amflow 推出电动山地自行车系列、戴森推出手持无叶风扇 HushJet Mini Cool 等。查看全文"
-      },
-      {
-        "time": "14:32",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "疑难杂症不求人：如何在 Windows 11 中搞定「重装」",
-        "detail": "掌握这些方法，重装 Windows 11 不求人。查看全文"
-      }
-    ],
-    "49412fbd": [
-      {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "十日终焉开机",
-        "detail": "十日终焉开机"
+        "title": "小米食堂发布小米冰激凌",
+        "detail": "小米食堂发布小米冰激凌"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "李在明转发以色列士兵虐童视频",
-        "detail": "李在明转发以色列士兵虐童视频"
+        "title": "男子追求女技师被拒举报浴场涉黄",
+        "detail": "男子追求女技师被拒举报浴场涉黄"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "赏花经济开出四季春",
-        "detail": "赏花经济开出四季春"
+        "title": "高质量发展中国行",
+        "detail": "高质量发展中国行"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "OPPOFindX9sPro今日官宣",
-        "detail": "OPPOFindX9sPro今日官宣"
+        "title": "华为高尔夫手表今日开售",
+        "detail": "华为高尔夫手表今日开售"
       }
     ],
-    "3e0b1879": [
+    "dc739918": [
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "李在明转发以色列士兵虐童视频",
-        "detail": "李在明转发以色列士兵虐童视频"
+        "title": "男子追求女技师被拒举报浴场涉黄",
+        "detail": "男子追求女技师被拒举报浴场涉黄"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "十日终焉开机",
-        "detail": "十日终焉开机"
+        "title": "小米食堂发布小米冰激凌",
+        "detail": "小米食堂发布小米冰激凌"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "赏花经济开出四季春",
-        "detail": "赏花经济开出四季春"
+        "title": "高质量发展中国行",
+        "detail": "高质量发展中国行"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "OPPOFindX9sPro今日官宣",
-        "detail": "OPPOFindX9sPro今日官宣"
+        "title": "华为高尔夫手表今日开售",
+        "detail": "华为高尔夫手表今日开售"
       }
     ],
-    "e801e2cd": [
+    "0fb6a032": [
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "赏花经济开出四季春",
-        "detail": "赏花经济开出四季春"
+        "title": "高质量发展中国行",
+        "detail": "高质量发展中国行"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "十日终焉开机",
-        "detail": "十日终焉开机"
+        "title": "小米食堂发布小米冰激凌",
+        "detail": "小米食堂发布小米冰激凌"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "李在明转发以色列士兵虐童视频",
-        "detail": "李在明转发以色列士兵虐童视频"
+        "title": "男子追求女技师被拒举报浴场涉黄",
+        "detail": "男子追求女技师被拒举报浴场涉黄"
       },
       {
-        "time": "14:04",
+        "time": "16:25",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "OPPOFindX9sPro今日官宣",
-        "detail": "OPPOFindX9sPro今日官宣"
+        "title": "华为高尔夫手表今日开售",
+        "detail": "华为高尔夫手表今日开售"
       }
     ]
   }
