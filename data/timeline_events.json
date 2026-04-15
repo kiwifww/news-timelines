@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T14:06:09.231993+08:00",
+  "updatedAt": "2026-04-15T16:49:58.585653+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -343,6 +343,44 @@
         "detail": "文丨果脯 编辑丨刘士武 过去几天里，《明末：渊虚之羽》（后称：明末）制作组解散、制作人夏思源离职创业的消息，让不少人感到唏嘘。 这款由灵泽科技开发的国产类魂动作游戏，曾被寄予厚望，后续也取得了不错的成绩。 据统计，2025年上线后，游戏在S"
       }
     ],
+    "75a3ee1f": [
+      {
+        "time": "15:00",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "一日一技｜Liquid Glass 液态变磨砂",
+        "detail": "什么 Liquid Glass？我只喜欢 Windows Aero。查看全文"
+      },
+      {
+        "time": "11:11",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "从一夜无眠到夜夜香甜：睡个好觉并不难",
+        "detail": "我想与你分享AI无法真正共情的人生大事：睡眠。查看全文"
+      },
+      {
+        "time": "08:20",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "派早报：拓竹 X2D 正式发布、微软再次上调 Surface",
+        "detail": "索尼发布发布 Inzone M10S II 游戏显示器及系列音频外设，三星发布 2026 款 Micro RGB 电视等。查看全文"
+      },
+      {
+        "time": "17:04",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "社区速递 137 | 派友挑战不沉迷手机的周末、未来视野显示",
+        "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
+      }
+    ],
     "c6dff4d8": [
       {
         "time": "11:11",
@@ -354,10 +392,19 @@
         "detail": "我想与你分享AI无法真正共情的人生大事：睡眠。查看全文"
       },
       {
-        "time": "08:20",
+        "time": "15:00",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "一日一技｜Liquid Glass 液态变磨砂",
+        "detail": "什么 Liquid Glass？我只喜欢 Windows Aero。查看全文"
+      },
+      {
+        "time": "08:20",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "派早报：拓竹 X2D 正式发布、微软再次上调 Surface",
         "detail": "索尼发布发布 Inzone M10S II 游戏显示器及系列音频外设，三星发布 2026 款 Micro RGB 电视等。查看全文"
@@ -365,20 +412,11 @@
       {
         "time": "17:04",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "社区速递 137 | 派友挑战不沉迷手机的周末、未来视野显示",
-        "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
-      },
-      {
-        "time": "15:38",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修",
-        "detail": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
+        "title": "社区速递 137 | 派友挑战不沉迷手机的周末、未来视野显示",
+        "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
       }
     ],
     "1a0b1792": [
@@ -392,10 +430,19 @@
         "detail": "索尼发布发布 Inzone M10S II 游戏显示器及系列音频外设，三星发布 2026 款 Micro RGB 电视等。查看全文"
       },
       {
-        "time": "11:11",
+        "time": "15:00",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "一日一技｜Liquid Glass 液态变磨砂",
+        "detail": "什么 Liquid Glass？我只喜欢 Windows Aero。查看全文"
+      },
+      {
+        "time": "11:11",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "从一夜无眠到夜夜香甜：睡个好觉并不难",
         "detail": "我想与你分享AI无法真正共情的人生大事：睡眠。查看全文"
@@ -403,63 +450,54 @@
       {
         "time": "17:04",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "社区速递 137 | 派友挑战不沉迷手机的周末、未来视野显示",
-        "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
-      },
-      {
-        "time": "15:38",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修",
-        "detail": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
+        "title": "社区速递 137 | 派友挑战不沉迷手机的周末、未来视野显示",
+        "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
       }
     ],
-    "44bb2548": [
+    "69735552": [
       {
-        "time": "17:04",
-        "timeLabel": "昨日",
+        "time": "16:49",
+        "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "社区速递 137 | 派友挑战不沉迷手机的周末、未来视野显示",
-        "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
+        "title": "第1天入职第2天就出国",
+        "detail": "第1天入职第2天就出国"
       },
       {
-        "time": "11:11",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "从一夜无眠到夜夜香甜：睡个好觉并不难",
-        "detail": "我想与你分享AI无法真正共情的人生大事：睡眠。查看全文"
+        "title": "驻外人员嫖娼遭仙人跳出卖国家秘密",
+        "detail": "驻外人员嫖娼遭仙人跳出卖国家秘密"
       },
       {
-        "time": "08:20",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "派早报：拓竹 X2D 正式发布、微软再次上调 Surface",
-        "detail": "索尼发布发布 Inzone M10S II 游戏显示器及系列音频外设，三星发布 2026 款 Micro RGB 电视等。查看全文"
+        "title": "网民平均每人每天刷视频超200分钟",
+        "detail": "网民平均每人每天刷视频超200分钟"
       },
       {
-        "time": "15:38",
-        "timeLabel": "昨日",
+        "time": "16:49",
+        "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "想在国内折腾全屋 Matter？这可能是一场属于极客的「苦修",
-        "detail": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
+        "title": "孟子义颜选缤果Pro预售价5.88万元起",
+        "detail": "孟子义颜选缤果Pro预售价5.88万元起"
       }
     ],
     "f6921411": [
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -468,107 +506,69 @@
         "detail": "驻外人员嫖娼遭仙人跳出卖国家秘密"
       },
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "画梦录阵容官宣",
-        "detail": "画梦录阵容官宣"
+        "title": "第1天入职第2天就出国",
+        "detail": "第1天入职第2天就出国"
       },
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "全民国家安全教育日",
-        "detail": "全民国家安全教育日"
+        "title": "网民平均每人每天刷视频超200分钟",
+        "detail": "网民平均每人每天刷视频超200分钟"
       },
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "美团会员无限次骑行",
-        "detail": "美团会员无限次骑行"
+        "title": "孟子义颜选缤果Pro预售价5.88万元起",
+        "detail": "孟子义颜选缤果Pro预售价5.88万元起"
       }
     ],
-    "40a5a71d": [
+    "ff4ac54b": [
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "画梦录阵容官宣",
-        "detail": "画梦录阵容官宣"
+        "title": "网民平均每人每天刷视频超200分钟",
+        "detail": "网民平均每人每天刷视频超200分钟"
       },
       {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "第1天入职第2天就出国",
+        "detail": "第1天入职第2天就出国"
+      },
+      {
+        "time": "16:49",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "驻外人员嫖娼遭仙人跳出卖国家秘密",
         "detail": "驻外人员嫖娼遭仙人跳出卖国家秘密"
       },
       {
-        "time": "14:06",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "全民国家安全教育日",
-        "detail": "全民国家安全教育日"
-      },
-      {
-        "time": "14:06",
+        "time": "16:49",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "美团会员无限次骑行",
-        "detail": "美团会员无限次骑行"
-      }
-    ],
-    "5707224d": [
-      {
-        "time": "14:06",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "全民国家安全教育日",
-        "detail": "全民国家安全教育日"
-      },
-      {
-        "time": "14:06",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "驻外人员嫖娼遭仙人跳出卖国家秘密",
-        "detail": "驻外人员嫖娼遭仙人跳出卖国家秘密"
-      },
-      {
-        "time": "14:06",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "画梦录阵容官宣",
-        "detail": "画梦录阵容官宣"
-      },
-      {
-        "time": "14:06",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "美团会员无限次骑行",
-        "detail": "美团会员无限次骑行"
+        "title": "孟子义颜选缤果Pro预售价5.88万元起",
+        "detail": "孟子义颜选缤果Pro预售价5.88万元起"
       }
     ]
   }
