@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-19T18:52:11.326268+08:00",
+  "updatedAt": "2026-04-19T19:43:13.444911+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -457,47 +457,9 @@
         "detail": "三星的 TWS 目前最大的问题（或者在三星的视角看来也可以是「护城河」）仍然在于比较局限的编码支持——你很难把它推荐给三星生态以外的用户。查看全文"
       }
     ],
-    "1d945965": [
-      {
-        "time": "18:52",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "李雨桐被行拘",
-        "detail": "李雨桐被行拘"
-      },
-      {
-        "time": "18:52",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "铁路12306已拒绝出票105.6万张",
-        "detail": "铁路12306已拒绝出票105.6万张"
-      },
-      {
-        "time": "18:52",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "消博会上的硬核科技展现未来趋势",
-        "detail": "消博会上的硬核科技展现未来趋势"
-      },
-      {
-        "time": "18:52",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "李小冉疑回应退出浪姐",
-        "detail": "李小冉疑回应退出浪姐"
-      }
-    ],
     "af28f4d1": [
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -506,16 +468,16 @@
         "detail": "铁路12306已拒绝出票105.6万张"
       },
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "李雨桐被行拘",
-        "detail": "李雨桐被行拘"
+        "title": "张雪机车热身赛再获第一",
+        "detail": "张雪机车热身赛再获第一"
       },
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -524,18 +486,56 @@
         "detail": "消博会上的硬核科技展现未来趋势"
       },
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "李小冉疑回应退出浪姐",
-        "detail": "李小冉疑回应退出浪姐"
+        "title": "宗师 露脸",
+        "detail": "宗师 露脸"
+      }
+    ],
+    "06b79809": [
+      {
+        "time": "19:43",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "张雪机车热身赛再获第一",
+        "detail": "张雪机车热身赛再获第一"
+      },
+      {
+        "time": "19:43",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "铁路12306已拒绝出票105.6万张",
+        "detail": "铁路12306已拒绝出票105.6万张"
+      },
+      {
+        "time": "19:43",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "消博会上的硬核科技展现未来趋势",
+        "detail": "消博会上的硬核科技展现未来趋势"
+      },
+      {
+        "time": "19:43",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "宗师 露脸",
+        "detail": "宗师 露脸"
       }
     ],
     "769a1fd0": [
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -544,31 +544,31 @@
         "detail": "消博会上的硬核科技展现未来趋势"
       },
       {
-        "time": "18:52",
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "李雨桐被行拘",
-        "detail": "李雨桐被行拘"
-      },
-      {
-        "time": "18:52",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "铁路12306已拒绝出票105.6万张",
         "detail": "铁路12306已拒绝出票105.6万张"
       },
       {
-        "time": "18:52",
+        "time": "19:43",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "张雪机车热身赛再获第一",
+        "detail": "张雪机车热身赛再获第一"
+      },
+      {
+        "time": "19:43",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "李小冉疑回应退出浪姐",
-        "detail": "李小冉疑回应退出浪姐"
+        "title": "宗师 露脸",
+        "detail": "宗师 露脸"
       }
     ]
   }
