@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22T16:53:23.820739+08:00",
+  "updatedAt": "2026-04-22T18:25:11.590175+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -343,6 +343,44 @@
         "detail": "今日热点导览 航旅纵横致歉：部分功能出现使用异常，正全力抢修 星巴克中国回应开放加盟传闻：不实信息 微信：韩国、斯里兰卡、泰国、马来西亚、新加坡的国家码接入微信支付 截至3月底，全国5G基站总数已达495.8万个 猪价开启“回暖”模式，5家"
       }
     ],
+    "2aa6dccd": [
+      {
+        "time": "16:10",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "原来你对写作是真爱：少数派 2025 年度征文结果公布",
+        "detail": "我们得到了一个或许没什么代表性的「答案」：真实的体验和细腻的情感，更能打动屏幕前的各位读者。查看全文"
+      },
+      {
+        "time": "14:33",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "把家里的游戏带出门：开源本地串流方案 Sunshine 上手",
+        "detail": "想窝在沙发上拿平板接着打电脑游戏，或者睡前躺床上用手机多玩一会儿，Sunshine 都能帮你实现。查看全文"
+      },
+      {
+        "time": "10:57",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "中年人兼职开车送货，20 天学会的 7 个真相",
+        "detail": "开车送货的 20 天，对我这个中年人来说无疑是一堂姗姗来迟的社会实践课。查看全文"
+      },
+      {
+        "time": "08:21",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "派早报：OPPO Find X9 Ultra 发布等",
+        "detail": "OpenAI 发布 ChatGPT Images 2.0，宁德时代发布神行超充与多款动力电池等。查看全文"
+      }
+    ],
     "198b5f1d": [
       {
         "time": "14:33",
@@ -354,10 +392,19 @@
         "detail": "想窝在沙发上拿平板接着打电脑游戏，或者睡前躺床上用手机多玩一会儿，Sunshine 都能帮你实现。查看全文"
       },
       {
-        "time": "10:57",
+        "time": "16:10",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "原来你对写作是真爱：少数派 2025 年度征文结果公布",
+        "detail": "我们得到了一个或许没什么代表性的「答案」：真实的体验和细腻的情感，更能打动屏幕前的各位读者。查看全文"
+      },
+      {
+        "time": "10:57",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "中年人兼职开车送货，20 天学会的 7 个真相",
         "detail": "开车送货的 20 天，对我这个中年人来说无疑是一堂姗姗来迟的社会实践课。查看全文"
@@ -365,20 +412,11 @@
       {
         "time": "08:21",
         "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派早报：OPPO Find X9 Ultra 发布等",
-        "detail": "OpenAI 发布 ChatGPT Images 2.0，宁德时代发布神行超充与多款动力电池等。查看全文"
-      },
-      {
-        "time": "18:09",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "Tim Cook 将要转任的「执行董事长」是什么职务？",
-        "detail": "4月20日，苹果宣布TimCook将于8月31日卸任CEO，并自9月1日起担任董事会执行董事长（ExecutiveChair）。现任硬件工程高级副总裁JohnTernus将接替Cook担任CEO并加入 ...查看全文"
+        "title": "派早报：OPPO Find X9 Ultra 发布等",
+        "detail": "OpenAI 发布 ChatGPT Images 2.0，宁德时代发布神行超充与多款动力电池等。查看全文"
       }
     ],
     "0bc0d7a5": [
@@ -392,10 +430,19 @@
         "detail": "开车送货的 20 天，对我这个中年人来说无疑是一堂姗姗来迟的社会实践课。查看全文"
       },
       {
-        "time": "14:33",
+        "time": "16:10",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "原来你对写作是真爱：少数派 2025 年度征文结果公布",
+        "detail": "我们得到了一个或许没什么代表性的「答案」：真实的体验和细腻的情感，更能打动屏幕前的各位读者。查看全文"
+      },
+      {
+        "time": "14:33",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "把家里的游戏带出门：开源本地串流方案 Sunshine 上手",
         "detail": "想窝在沙发上拿平板接着打电脑游戏，或者睡前躺床上用手机多玩一会儿，Sunshine 都能帮你实现。查看全文"
@@ -403,81 +450,34 @@
       {
         "time": "08:21",
         "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派早报：OPPO Find X9 Ultra 发布等",
-        "detail": "OpenAI 发布 ChatGPT Images 2.0，宁德时代发布神行超充与多款动力电池等。查看全文"
-      },
-      {
-        "time": "18:09",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "Tim Cook 将要转任的「执行董事长」是什么职务？",
-        "detail": "4月20日，苹果宣布TimCook将于8月31日卸任CEO，并自9月1日起担任董事会执行董事长（ExecutiveChair）。现任硬件工程高级副总裁JohnTernus将接替Cook担任CEO并加入 ...查看全文"
+        "title": "派早报：OPPO Find X9 Ultra 发布等",
+        "detail": "OpenAI 发布 ChatGPT Images 2.0，宁德时代发布神行超充与多款动力电池等。查看全文"
       }
     ],
-    "4ad259cc": [
+    "ad8fb8dd": [
       {
-        "time": "08:21",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "派早报：OPPO Find X9 Ultra 发布等",
-        "detail": "OpenAI 发布 ChatGPT Images 2.0，宁德时代发布神行超充与多款动力电池等。查看全文"
+        "title": "张雪机车补偿",
+        "detail": "张雪机车补偿"
       },
       {
-        "time": "14:33",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "把家里的游戏带出门：开源本地串流方案 Sunshine 上手",
-        "detail": "想窝在沙发上拿平板接着打电脑游戏，或者睡前躺床上用手机多玩一会儿，Sunshine 都能帮你实现。查看全文"
-      },
-      {
-        "time": "10:57",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "中年人兼职开车送货，20 天学会的 7 个真相",
-        "detail": "开车送货的 20 天，对我这个中年人来说无疑是一堂姗姗来迟的社会实践课。查看全文"
-      },
-      {
-        "time": "18:09",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "Tim Cook 将要转任的「执行董事长」是什么职务？",
-        "detail": "4月20日，苹果宣布TimCook将于8月31日卸任CEO，并自9月1日起担任董事会执行董事长（ExecutiveChair）。现任硬件工程高级副总裁JohnTernus将接替Cook担任CEO并加入 ...查看全文"
-      }
-    ],
-    "ce19e120": [
-      {
-        "time": "16:53",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
         "title": "以为库克真加入小米汽车了",
         "detail": "以为库克真加入小米汽车了"
       },
       {
-        "time": "16:53",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "民政局称20岁小伙养6弟妹系人设",
-        "detail": "民政局称20岁小伙养6弟妹系人设"
-      },
-      {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -486,7 +486,7 @@
         "detail": "接英雄回家"
       },
       {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -495,27 +495,27 @@
         "detail": "鸿蒙智行春季新品发布会"
       }
     ],
-    "fcd02bac": [
+    "ce19e120": [
       {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "民政局称20岁小伙养6弟妹系人设",
-        "detail": "民政局称20岁小伙养6弟妹系人设"
-      },
-      {
-        "time": "16:53",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
         "title": "以为库克真加入小米汽车了",
         "detail": "以为库克真加入小米汽车了"
       },
       {
-        "time": "16:53",
+        "time": "18:25",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "张雪机车补偿",
+        "detail": "张雪机车补偿"
+      },
+      {
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -524,7 +524,7 @@
         "detail": "接英雄回家"
       },
       {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -535,7 +535,7 @@
     ],
     "56d397a0": [
       {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -544,25 +544,25 @@
         "detail": "接英雄回家"
       },
       {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "张雪机车补偿",
+        "detail": "张雪机车补偿"
+      },
+      {
+        "time": "18:25",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "以为库克真加入小米汽车了",
         "detail": "以为库克真加入小米汽车了"
       },
       {
-        "time": "16:53",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "民政局称20岁小伙养6弟妹系人设",
-        "detail": "民政局称20岁小伙养6弟妹系人设"
-      },
-      {
-        "time": "16:53",
+        "time": "18:25",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
