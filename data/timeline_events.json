@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T15:37:32.462906+08:00",
+  "updatedAt": "2026-05-17T17:55:16.390772+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,13 +220,51 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
         "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础",
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
+      }
+    ],
+    "390901bd": [
+      {
+        "time": "15:45",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "又诞生一位千亿女富豪",
+        "detail": "示意图 自4月初以来，立讯精密股价上涨超过55%。 5月11日，立讯精密市值创下历史新高，达到了5542亿人民币。立讯精密掌舵者王来春持股18.75%，身价也突破了千亿人民币，成为国内白手起家的又一位千亿女富豪。 如果说4月以来的涨幅，是因"
+      },
+      {
+        "time": "14:08",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "3个人带100个AI程序员，一个月烧掉130万美元！Open",
+        "detail": "Peter Steinberger 编辑：所罗门 【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。 别人晒工资条，他晒账单——一个月130万"
+      },
+      {
+        "time": "13:33",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "28亿，肯德基也要被卖了？",
+        "detail": "肯德基 作者 | 王涛 编辑 | 吾人 来源 |&nbsp;融中财经 路透社报道，怡和集团正打算卖掉自己手里经营了十多年的快餐相关资产，这部分资产里，包含了香港、澳门、台湾、缅甸、越南这五个市场的肯德基和必胜客门店，再加上香港本土的外卖披萨"
+      },
+      {
+        "time": "12:59",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "6.4k Stars！用Claude Code写论文的全套流",
+        "detail": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。 academic-research-skills 项目名叫aca"
       }
     ],
     "58cd61cb": [
@@ -240,10 +278,19 @@
         "detail": "Peter Steinberger 编辑：所罗门 【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。 别人晒工资条，他晒账单——一个月130万"
       },
       {
-        "time": "13:33",
+        "time": "15:45",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "又诞生一位千亿女富豪",
+        "detail": "示意图 自4月初以来，立讯精密股价上涨超过55%。 5月11日，立讯精密市值创下历史新高，达到了5542亿人民币。立讯精密掌舵者王来春持股18.75%，身价也突破了千亿人民币，成为国内白手起家的又一位千亿女富豪。 如果说4月以来的涨幅，是因"
+      },
+      {
+        "time": "13:33",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "28亿，肯德基也要被卖了？",
         "detail": "肯德基 作者 | 王涛 编辑 | 吾人 来源 |&nbsp;融中财经 路透社报道，怡和集团正打算卖掉自己手里经营了十多年的快餐相关资产，这部分资产里，包含了香港、澳门、台湾、缅甸、越南这五个市场的肯德基和必胜客门店，再加上香港本土的外卖披萨"
@@ -251,20 +298,11 @@
       {
         "time": "12:59",
         "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "6.4k Stars！用Claude Code写论文的全套流",
-        "detail": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。 academic-research-skills 项目名叫aca"
-      },
-      {
-        "time": "12:22",
-        "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "史上最大IPO来袭，SpaceX加速驶入纳斯达克",
-        "detail": "SpaceX 5月16日，SpaceX向股东发出内部邮件，宣布普通股“一拆五”的拆股方案已获批并生效，所有C类普通股将同步转换为A类普通股。美股IPO市场正迎来今年最重磅的选手，埃隆·马斯克旗下的太空探索巨头SpaceX，正以史无前例的体量"
+        "title": "6.4k Stars！用Claude Code写论文的全套流",
+        "detail": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。 academic-research-skills 项目名叫aca"
       }
     ],
     "43c79aa9": [
@@ -278,10 +316,19 @@
         "detail": "肯德基 作者 | 王涛 编辑 | 吾人 来源 |&nbsp;融中财经 路透社报道，怡和集团正打算卖掉自己手里经营了十多年的快餐相关资产，这部分资产里，包含了香港、澳门、台湾、缅甸、越南这五个市场的肯德基和必胜客门店，再加上香港本土的外卖披萨"
       },
       {
-        "time": "14:08",
+        "time": "15:45",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "又诞生一位千亿女富豪",
+        "detail": "示意图 自4月初以来，立讯精密股价上涨超过55%。 5月11日，立讯精密市值创下历史新高，达到了5542亿人民币。立讯精密掌舵者王来春持股18.75%，身价也突破了千亿人民币，成为国内白手起家的又一位千亿女富豪。 如果说4月以来的涨幅，是因"
+      },
+      {
+        "time": "14:08",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "3个人带100个AI程序员，一个月烧掉130万美元！Open",
         "detail": "Peter Steinberger 编辑：所罗门 【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。 别人晒工资条，他晒账单——一个月130万"
@@ -289,58 +336,11 @@
       {
         "time": "12:59",
         "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "6.4k Stars！用Claude Code写论文的全套流",
-        "detail": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。 academic-research-skills 项目名叫aca"
-      },
-      {
-        "time": "12:22",
-        "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "史上最大IPO来袭，SpaceX加速驶入纳斯达克",
-        "detail": "SpaceX 5月16日，SpaceX向股东发出内部邮件，宣布普通股“一拆五”的拆股方案已获批并生效，所有C类普通股将同步转换为A类普通股。美股IPO市场正迎来今年最重磅的选手，埃隆·马斯克旗下的太空探索巨头SpaceX，正以史无前例的体量"
-      }
-    ],
-    "d74bf63e": [
-      {
-        "time": "12:59",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
         "title": "6.4k Stars！用Claude Code写论文的全套流",
         "detail": "听雨 发自 凹非寺量子位 | 公众号 QbitAI 用Claude Code写论文的一整套流水线，有人打包开源出来了。 完全戳中了学生党的痛点，github星标直达6.4k。 academic-research-skills 项目名叫aca"
-      },
-      {
-        "time": "14:08",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "3个人带100个AI程序员，一个月烧掉130万美元！Open",
-        "detail": "Peter Steinberger 编辑：所罗门 【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。 别人晒工资条，他晒账单——一个月130万"
-      },
-      {
-        "time": "13:33",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "28亿，肯德基也要被卖了？",
-        "detail": "肯德基 作者 | 王涛 编辑 | 吾人 来源 |&nbsp;融中财经 路透社报道，怡和集团正打算卖掉自己手里经营了十多年的快餐相关资产，这部分资产里，包含了香港、澳门、台湾、缅甸、越南这五个市场的肯德基和必胜客门店，再加上香港本土的外卖披萨"
-      },
-      {
-        "time": "12:22",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "史上最大IPO来袭，SpaceX加速驶入纳斯达克",
-        "detail": "SpaceX 5月16日，SpaceX向股东发出内部邮件，宣布普通股“一拆五”的拆股方案已获批并生效，所有C类普通股将同步转换为A类普通股。美股IPO市场正迎来今年最重磅的选手，埃隆·马斯克旗下的太空探索巨头SpaceX，正以史无前例的体量"
       }
     ],
     "773f5760": [
@@ -459,7 +459,7 @@
     ],
     "9f361ae5": [
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -468,16 +468,16 @@
         "detail": "卢昱晓道歉"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "特朗普警告台独",
-        "detail": "特朗普警告台独"
+        "title": "女游客景区坠亡没有监控",
+        "detail": "女游客景区坠亡没有监控"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -486,27 +486,27 @@
         "detail": "今天全国助残日"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "给阿嬷的情书 屏摄",
-        "detail": "给阿嬷的情书 屏摄"
+        "title": "电脑微信会惩罚每一个恋旧的人",
+        "detail": "电脑微信会惩罚每一个恋旧的人"
       }
     ],
-    "3fbee441": [
+    "b75cd7db": [
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "特朗普警告台独",
-        "detail": "特朗普警告台独"
+        "title": "女游客景区坠亡没有监控",
+        "detail": "女游客景区坠亡没有监控"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -515,7 +515,7 @@
         "detail": "卢昱晓道歉"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -524,18 +524,18 @@
         "detail": "今天全国助残日"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "给阿嬷的情书 屏摄",
-        "detail": "给阿嬷的情书 屏摄"
+        "title": "电脑微信会惩罚每一个恋旧的人",
+        "detail": "电脑微信会惩罚每一个恋旧的人"
       }
     ],
     "e1662451": [
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -544,7 +544,7 @@
         "detail": "今天全国助残日"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -553,22 +553,22 @@
         "detail": "卢昱晓道歉"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "特朗普警告台独",
-        "detail": "特朗普警告台独"
+        "title": "女游客景区坠亡没有监控",
+        "detail": "女游客景区坠亡没有监控"
       },
       {
-        "time": "15:37",
+        "time": "17:55",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "给阿嬷的情书 屏摄",
-        "detail": "给阿嬷的情书 屏摄"
+        "title": "电脑微信会惩罚每一个恋旧的人",
+        "detail": "电脑微信会惩罚每一个恋旧的人"
       }
     ]
   }
