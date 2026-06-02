@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T23:00:19.718408+08:00",
+  "updatedAt": "2026-06-03T02:51:07.088924+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "23:00",
+        "time": "02:50",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "23:00",
+        "time": "02:50",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "23:00",
+        "time": "02:50",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "23:00",
+        "time": "02:50",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "23:00",
+        "time": "02:50",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "23:00",
+        "time": "02:50",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "23:00",
+        "time": "02:50",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "23:00",
+        "time": "02:50",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "23:00",
+        "time": "02:50",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "23:00",
+        "time": "02:50",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "23:00",
+        "time": "02:50",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "23:00",
+        "time": "02:50",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -232,7 +232,7 @@
     "5afa9bdf": [
       {
         "time": "19:50",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -241,7 +241,7 @@
       },
       {
         "time": "17:20",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -250,7 +250,7 @@
       },
       {
         "time": "17:13",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -259,7 +259,7 @@
       },
       {
         "time": "12:23",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -270,7 +270,7 @@
     "fb3e953f": [
       {
         "time": "17:20",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -279,7 +279,7 @@
       },
       {
         "time": "19:50",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -288,7 +288,7 @@
       },
       {
         "time": "17:13",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -297,7 +297,7 @@
       },
       {
         "time": "12:23",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -308,7 +308,7 @@
     "96893bba": [
       {
         "time": "17:13",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -317,7 +317,7 @@
       },
       {
         "time": "19:50",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -326,7 +326,7 @@
       },
       {
         "time": "17:20",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -335,7 +335,7 @@
       },
       {
         "time": "12:23",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -346,7 +346,7 @@
     "f6517d23": [
       {
         "time": "15:39",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -355,7 +355,7 @@
       },
       {
         "time": "14:57",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -364,7 +364,7 @@
       },
       {
         "time": "11:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -373,7 +373,7 @@
       },
       {
         "time": "08:03",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -384,7 +384,7 @@
     "a840877c": [
       {
         "time": "14:57",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -393,7 +393,7 @@
       },
       {
         "time": "15:39",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -402,7 +402,7 @@
       },
       {
         "time": "11:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -411,7 +411,7 @@
       },
       {
         "time": "08:03",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -422,7 +422,7 @@
     "e3d8680b": [
       {
         "time": "11:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -431,7 +431,7 @@
       },
       {
         "time": "15:39",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -440,7 +440,7 @@
       },
       {
         "time": "14:57",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -449,7 +449,7 @@
       },
       {
         "time": "08:03",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -457,27 +457,27 @@
         "detail": "少数派的近期动态少数派×飞傲多功能便携CD音箱一体机BEATBOX预售开启。火速入手可爱又好玩的经典萌物——监工水獭挂件复刻啦！会员点数也可兑换！给獭一个家首款MBTI定制墨水屏「口袋先知」预售进行中 ...查看全文"
       }
     ],
-    "505cc400": [
+    "3bca673a": [
       {
-        "time": "23:00",
+        "time": "02:51",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "演员魏宗万去世",
-        "detail": "演员魏宗万去世"
+        "title": "世界是本巨大的番茄小说",
+        "detail": "世界是本巨大的番茄小说"
       },
       {
-        "time": "23:00",
+        "time": "02:51",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "山西沁源县委书记赵永进被查",
-        "detail": "山西沁源县委书记赵永进被查"
+        "title": "电动车是最伟大的发明",
+        "detail": "电动车是最伟大的发明"
       },
       {
-        "time": "23:00",
+        "time": "02:51",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -486,36 +486,36 @@
         "detail": "美丽中国行"
       },
       {
-        "time": "23:00",
+        "time": "02:51",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "神仙肉",
-        "detail": "神仙肉"
+        "title": "618上京东领刘宇宁红包",
+        "detail": "618上京东领刘宇宁红包"
       }
     ],
-    "78bc6f67": [
+    "4e60d6bb": [
       {
-        "time": "23:00",
+        "time": "02:51",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "山西沁源县委书记赵永进被查",
-        "detail": "山西沁源县委书记赵永进被查"
+        "title": "电动车是最伟大的发明",
+        "detail": "电动车是最伟大的发明"
       },
       {
-        "time": "23:00",
+        "time": "02:51",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "演员魏宗万去世",
-        "detail": "演员魏宗万去世"
+        "title": "世界是本巨大的番茄小说",
+        "detail": "世界是本巨大的番茄小说"
       },
       {
-        "time": "23:00",
+        "time": "02:51",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -524,18 +524,18 @@
         "detail": "美丽中国行"
       },
       {
-        "time": "23:00",
+        "time": "02:51",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "神仙肉",
-        "detail": "神仙肉"
+        "title": "618上京东领刘宇宁红包",
+        "detail": "618上京东领刘宇宁红包"
       }
     ],
     "0d896163": [
       {
-        "time": "23:00",
+        "time": "02:51",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -544,31 +544,31 @@
         "detail": "美丽中国行"
       },
       {
-        "time": "23:00",
+        "time": "02:51",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "演员魏宗万去世",
-        "detail": "演员魏宗万去世"
+        "title": "世界是本巨大的番茄小说",
+        "detail": "世界是本巨大的番茄小说"
       },
       {
-        "time": "23:00",
+        "time": "02:51",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "山西沁源县委书记赵永进被查",
-        "detail": "山西沁源县委书记赵永进被查"
+        "title": "电动车是最伟大的发明",
+        "detail": "电动车是最伟大的发明"
       },
       {
-        "time": "23:00",
+        "time": "02:51",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "神仙肉",
-        "detail": "神仙肉"
+        "title": "618上京东领刘宇宁红包",
+        "detail": "618上京东领刘宇宁红包"
       }
     ]
   }
