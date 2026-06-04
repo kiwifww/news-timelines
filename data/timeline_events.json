@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T20:09:31.210538+08:00",
+  "updatedAt": "2026-06-05T00:26:14.695769+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -232,7 +232,7 @@
     "213dbe8c": [
       {
         "time": "18:12",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -241,7 +241,7 @@
       },
       {
         "time": "18:01",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -250,7 +250,7 @@
       },
       {
         "time": "17:37",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -259,7 +259,7 @@
       },
       {
         "time": "14:06",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -270,7 +270,7 @@
     "e021a225": [
       {
         "time": "18:01",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -279,7 +279,7 @@
       },
       {
         "time": "18:12",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -288,7 +288,7 @@
       },
       {
         "time": "17:37",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -297,7 +297,7 @@
       },
       {
         "time": "14:06",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -308,7 +308,7 @@
     "2aff7362": [
       {
         "time": "17:37",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -317,7 +317,7 @@
       },
       {
         "time": "18:12",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -326,7 +326,7 @@
       },
       {
         "time": "18:01",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -335,7 +335,7 @@
       },
       {
         "time": "14:06",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -343,10 +343,48 @@
         "detail": "文｜周鑫雨 编辑｜张雨忻 杨轩 《智能涌现》从多个信源处独家获悉，2026 年，字节 AI 有四个重要的命题： 加大对世界模型训练的投入，年底前，模型性能达到现阶段世界模型全球 &nbsp;SOTA（最佳）Google Genie 3 的水"
       }
     ],
+    "a34cc7cd": [
+      {
+        "time": "19:15",
+        "timeLabel": "昨日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "新玩意 243｜少数派的编辑们最近买了啥？",
+        "detail": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文"
+      },
+      {
+        "time": "15:00",
+        "timeLabel": "昨日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "它不会是下一场新冠：简单了解汉坦病毒",
+        "detail": "人类研究了这么久流行病，虽说事故总难免，但还是有点本事在的，至少这回肯定控制得住。查看全文"
+      },
+      {
+        "time": "11:02",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "比 ZeroTier 更好的选择：EasyTier 去中心化",
+        "detail": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
+      },
+      {
+        "time": "08:36",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "派早报：豆包确认将推出付费版服务、樱桃发布 UWB 键盘等",
+        "detail": "OpenAI 扩展 Codex 的使用场景、华米推出 Amazfit Balance 3 智能手表等。查看全文"
+      }
+    ],
     "237b8d3a": [
       {
         "time": "15:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -354,37 +392,37 @@
         "detail": "人类研究了这么久流行病，虽说事故总难免，但还是有点本事在的，至少这回肯定控制得住。查看全文"
       },
       {
-        "time": "11:02",
-        "timeLabel": "今日",
+        "time": "19:15",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "新玩意 243｜少数派的编辑们最近买了啥？",
+        "detail": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文"
+      },
+      {
+        "time": "11:02",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "比 ZeroTier 更好的选择：EasyTier 去中心化",
         "detail": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
       },
       {
         "time": "08:36",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派早报：豆包确认将推出付费版服务、樱桃发布 UWB 键盘等",
-        "detail": "OpenAI 扩展 Codex 的使用场景、华米推出 Amazfit Balance 3 智能手表等。查看全文"
-      },
-      {
-        "time": "17:00",
         "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "小车车里的大世界：车模收藏入坑指南",
-        "detail": "从小时候第一台保时捷卡宴车模，到工作后重新入坑小米 SU7，本文的作者把自己这些年收藏车模的经验整理成了一篇新手指南。文章从 1:18、1:43、1:64 等常见的车模比例谈起，涵盖了品牌选择、购买渠道、创意玩法等，很适合新手入坑。车模不只"
+        "title": "派早报：豆包确认将推出付费版服务、樱桃发布 UWB 键盘等",
+        "detail": "OpenAI 扩展 Codex 的使用场景、华米推出 Amazfit Balance 3 智能手表等。查看全文"
       }
     ],
     "16b2e3ba": [
       {
         "time": "11:02",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -392,74 +430,36 @@
         "detail": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
       },
       {
-        "time": "15:00",
-        "timeLabel": "今日",
+        "time": "19:15",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "新玩意 243｜少数派的编辑们最近买了啥？",
+        "detail": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文"
+      },
+      {
+        "time": "15:00",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "它不会是下一场新冠：简单了解汉坦病毒",
         "detail": "人类研究了这么久流行病，虽说事故总难免，但还是有点本事在的，至少这回肯定控制得住。查看全文"
       },
       {
         "time": "08:36",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派早报：豆包确认将推出付费版服务、樱桃发布 UWB 键盘等",
-        "detail": "OpenAI 扩展 Codex 的使用场景、华米推出 Amazfit Balance 3 智能手表等。查看全文"
-      },
-      {
-        "time": "17:00",
         "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "小车车里的大世界：车模收藏入坑指南",
-        "detail": "从小时候第一台保时捷卡宴车模，到工作后重新入坑小米 SU7，本文的作者把自己这些年收藏车模的经验整理成了一篇新手指南。文章从 1:18、1:43、1:64 等常见的车模比例谈起，涵盖了品牌选择、购买渠道、创意玩法等，很适合新手入坑。车模不只"
-      }
-    ],
-    "48b5fe94": [
-      {
-        "time": "08:36",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
         "title": "派早报：豆包确认将推出付费版服务、樱桃发布 UWB 键盘等",
         "detail": "OpenAI 扩展 Codex 的使用场景、华米推出 Amazfit Balance 3 智能手表等。查看全文"
-      },
-      {
-        "time": "15:00",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "它不会是下一场新冠：简单了解汉坦病毒",
-        "detail": "人类研究了这么久流行病，虽说事故总难免，但还是有点本事在的，至少这回肯定控制得住。查看全文"
-      },
-      {
-        "time": "11:02",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "比 ZeroTier 更好的选择：EasyTier 去中心化",
-        "detail": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
-      },
-      {
-        "time": "17:00",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "小车车里的大世界：车模收藏入坑指南",
-        "detail": "从小时候第一台保时捷卡宴车模，到工作后重新入坑小米 SU7，本文的作者把自己这些年收藏车模的经验整理成了一篇新手指南。文章从 1:18、1:43、1:64 等常见的车模比例谈起，涵盖了品牌选择、购买渠道、创意玩法等，很适合新手入坑。车模不只"
       }
     ],
     "e4db43e2": [
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -468,45 +468,45 @@
         "detail": "原价899的耐克降至429消费者仍不买账"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "时代峰峻 电影咖",
-        "detail": "时代峰峻 电影咖"
+        "title": "国企回应保安只让员工孩子进门躲雨",
+        "detail": "国企回应保安只让员工孩子进门躲雨"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "粤港澳大湾区又一座世界之最",
-        "detail": "粤港澳大湾区又一座世界之最"
+        "title": "中国种地技能又有新突破",
+        "detail": "中国种地技能又有新突破"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "吃外卖4年的最好证明",
-        "detail": "吃外卖4年的最好证明"
+        "title": "上京东看爸妈防骗直播",
+        "detail": "上京东看爸妈防骗直播"
       }
     ],
-    "407326d9": [
+    "4ecd3fcd": [
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "时代峰峻 电影咖",
-        "detail": "时代峰峻 电影咖"
+        "title": "国企回应保安只让员工孩子进门躲雨",
+        "detail": "国企回应保安只让员工孩子进门躲雨"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -515,36 +515,36 @@
         "detail": "原价899的耐克降至429消费者仍不买账"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "粤港澳大湾区又一座世界之最",
-        "detail": "粤港澳大湾区又一座世界之最"
+        "title": "中国种地技能又有新突破",
+        "detail": "中国种地技能又有新突破"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "吃外卖4年的最好证明",
-        "detail": "吃外卖4年的最好证明"
+        "title": "上京东看爸妈防骗直播",
+        "detail": "上京东看爸妈防骗直播"
       }
     ],
-    "863798c0": [
+    "48cafa8e": [
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "粤港澳大湾区又一座世界之最",
-        "detail": "粤港澳大湾区又一座世界之最"
+        "title": "中国种地技能又有新突破",
+        "detail": "中国种地技能又有新突破"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -553,22 +553,22 @@
         "detail": "原价899的耐克降至429消费者仍不买账"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "时代峰峻 电影咖",
-        "detail": "时代峰峻 电影咖"
+        "title": "国企回应保安只让员工孩子进门躲雨",
+        "detail": "国企回应保安只让员工孩子进门躲雨"
       },
       {
-        "time": "20:09",
+        "time": "00:26",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "吃外卖4年的最好证明",
-        "detail": "吃外卖4年的最好证明"
+        "title": "上京东看爸妈防骗直播",
+        "detail": "上京东看爸妈防骗直播"
       }
     ]
   }
