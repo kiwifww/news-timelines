@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T05:57:40.107440+08:00",
+  "updatedAt": "2026-06-09T07:19:38.403443+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -343,6 +343,44 @@
         "detail": "2026年，全球平均每小时就有一家新的AI公司诞生。&nbsp; AI行业的竞争已经白热化到如此程度：大模型的参数在卷，推理速度在卷，应用落地的速度在卷，就连融资PPT的故事密度也在卷。一时间，所有人的目光都盯在“前端”——谁的模型更强，谁"
       }
     ],
+    "2d9f5cb3": [
+      {
+        "time": "06:16",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "派早报：WWDC26 全球开发者大会开幕等",
+        "detail": "少数派的近期动态少数派×AKKO联合共创带屏键盘即将上线，6月11日，来直播间一起共创。即刻预约可爱又好玩的经典萌物——监工水獭挂件复刻啦！会员点数也可兑换！给獭一个家首款MBTI定制墨水屏「口袋先知 ...查看全文"
+      },
+      {
+        "time": "04:56",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "一图流 | Apple WWDC26 开幕式回顾",
+        "detail": "WWDC26 开幕式一图流来啦。查看全文"
+      },
+      {
+        "time": "04:47",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "Liquid Glass 精调、Apple 智能大升级：WW",
+        "detail": "Apple 推出 iOS 27、iPadOS 27、watchOS 27 和 macOS Golden Gate，以及全新的 Apple 智能。查看全文"
+      },
+      {
+        "time": "18:16",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "派评｜近期值得关注的 App",
+        "detail": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文"
+      }
+    ],
     "d60436e9": [
       {
         "time": "04:56",
@@ -354,10 +392,19 @@
         "detail": "WWDC26 开幕式一图流来啦。查看全文"
       },
       {
-        "time": "04:47",
+        "time": "06:16",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "派早报：WWDC26 全球开发者大会开幕等",
+        "detail": "少数派的近期动态少数派×AKKO联合共创带屏键盘即将上线，6月11日，来直播间一起共创。即刻预约可爱又好玩的经典萌物——监工水獭挂件复刻啦！会员点数也可兑换！给獭一个家首款MBTI定制墨水屏「口袋先知 ...查看全文"
+      },
+      {
+        "time": "04:47",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "Liquid Glass 精调、Apple 智能大升级：WW",
         "detail": "Apple 推出 iOS 27、iPadOS 27、watchOS 27 和 macOS Golden Gate，以及全新的 Apple 智能。查看全文"
@@ -365,20 +412,11 @@
       {
         "time": "18:16",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派评｜近期值得关注的 App",
-        "detail": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文"
-      },
-      {
-        "time": "16:11",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "少数派正版软件 + 付费教程 618 促销活动限时开启",
-        "detail": "又到了每年的618购物节，少数派照例为大家带来了众多优质正版软件和实用教程的大型活动专场。如果你有心仪的软件或者教程，都可以趁着优惠果断出手。TL;DR:活动时间：2025年6月8日（周一）至6月22 ...查看全文"
+        "title": "派评｜近期值得关注的 App",
+        "detail": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文"
       }
     ],
     "a72dde7a": [
@@ -392,10 +430,19 @@
         "detail": "Apple 推出 iOS 27、iPadOS 27、watchOS 27 和 macOS Golden Gate，以及全新的 Apple 智能。查看全文"
       },
       {
-        "time": "04:56",
+        "time": "06:16",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "派早报：WWDC26 全球开发者大会开幕等",
+        "detail": "少数派的近期动态少数派×AKKO联合共创带屏键盘即将上线，6月11日，来直播间一起共创。即刻预约可爱又好玩的经典萌物——监工水獭挂件复刻啦！会员点数也可兑换！给獭一个家首款MBTI定制墨水屏「口袋先知 ...查看全文"
+      },
+      {
+        "time": "04:56",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "一图流 | Apple WWDC26 开幕式回顾",
         "detail": "WWDC26 开幕式一图流来啦。查看全文"
@@ -403,81 +450,34 @@
       {
         "time": "18:16",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派评｜近期值得关注的 App",
-        "detail": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文"
-      },
-      {
-        "time": "16:11",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "少数派正版软件 + 付费教程 618 促销活动限时开启",
-        "detail": "又到了每年的618购物节，少数派照例为大家带来了众多优质正版软件和实用教程的大型活动专场。如果你有心仪的软件或者教程，都可以趁着优惠果断出手。TL;DR:活动时间：2025年6月8日（周一）至6月22 ...查看全文"
-      }
-    ],
-    "1a949e69": [
-      {
-        "time": "18:16",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
         "title": "派评｜近期值得关注的 App",
         "detail": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文"
-      },
-      {
-        "time": "04:56",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "一图流 | Apple WWDC26 开幕式回顾",
-        "detail": "WWDC26 开幕式一图流来啦。查看全文"
-      },
-      {
-        "time": "04:47",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "Liquid Glass 精调、Apple 智能大升级：WW",
-        "detail": "Apple 推出 iOS 27、iPadOS 27、watchOS 27 和 macOS Golden Gate，以及全新的 Apple 智能。查看全文"
-      },
-      {
-        "time": "16:11",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "少数派正版软件 + 付费教程 618 促销活动限时开启",
-        "detail": "又到了每年的618购物节，少数派照例为大家带来了众多优质正版软件和实用教程的大型活动专场。如果你有心仪的软件或者教程，都可以趁着优惠果断出手。TL;DR:活动时间：2025年6月8日（周一）至6月22 ...查看全文"
       }
     ],
-    "cbf853c0": [
+    "ffcc4db0": [
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "iOS27",
-        "detail": "iOS27"
+        "title": "iOS27 调休闹钟",
+        "detail": "iOS27 调休闹钟"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "为什么面试要填家庭成员信息",
-        "detail": "为什么面试要填家庭成员信息"
+        "title": "郑钦文止步女王杯首轮",
+        "detail": "郑钦文止步女王杯首轮"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -486,7 +486,7 @@
         "detail": "平壤各界群众和少年儿童身着节日盛装"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -495,27 +495,27 @@
         "detail": "papi喊你来京东买超市5折好物"
       }
     ],
-    "518e373c": [
+    "67bf6af8": [
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "为什么面试要填家庭成员信息",
-        "detail": "为什么面试要填家庭成员信息"
+        "title": "郑钦文止步女王杯首轮",
+        "detail": "郑钦文止步女王杯首轮"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "iOS27",
-        "detail": "iOS27"
+        "title": "iOS27 调休闹钟",
+        "detail": "iOS27 调休闹钟"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -524,7 +524,7 @@
         "detail": "平壤各界群众和少年儿童身着节日盛装"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -535,7 +535,7 @@
     ],
     "bf0039c0": [
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -544,25 +544,25 @@
         "detail": "平壤各界群众和少年儿童身着节日盛装"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "iOS27",
-        "detail": "iOS27"
+        "title": "iOS27 调休闹钟",
+        "detail": "iOS27 调休闹钟"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "为什么面试要填家庭成员信息",
-        "detail": "为什么面试要填家庭成员信息"
+        "title": "郑钦文止步女王杯首轮",
+        "detail": "郑钦文止步女王杯首轮"
       },
       {
-        "time": "05:57",
+        "time": "07:19",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
