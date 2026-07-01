@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T21:37:49.908144+08:00",
+  "updatedAt": "2026-07-02T00:32:56.186054+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -232,7 +232,7 @@
     "245a3737": [
       {
         "time": "21:21",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -241,7 +241,7 @@
       },
       {
         "time": "20:30",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -250,7 +250,7 @@
       },
       {
         "time": "20:27",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -259,7 +259,7 @@
       },
       {
         "time": "20:24",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -270,7 +270,7 @@
     "2ed60da3": [
       {
         "time": "20:30",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -279,7 +279,7 @@
       },
       {
         "time": "21:21",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -288,7 +288,7 @@
       },
       {
         "time": "20:27",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -297,7 +297,7 @@
       },
       {
         "time": "20:24",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -308,7 +308,7 @@
     "64cf2322": [
       {
         "time": "20:27",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -317,7 +317,7 @@
       },
       {
         "time": "21:21",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -326,7 +326,7 @@
       },
       {
         "time": "20:30",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -335,7 +335,7 @@
       },
       {
         "time": "20:24",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -346,7 +346,7 @@
     "49c41898": [
       {
         "time": "17:30",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -355,7 +355,7 @@
       },
       {
         "time": "15:03",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -364,7 +364,7 @@
       },
       {
         "time": "10:27",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -373,7 +373,7 @@
       },
       {
         "time": "07:48",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -384,7 +384,7 @@
     "5c3ff4f0": [
       {
         "time": "15:03",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -393,7 +393,7 @@
       },
       {
         "time": "17:30",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -402,7 +402,7 @@
       },
       {
         "time": "10:27",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -411,7 +411,7 @@
       },
       {
         "time": "07:48",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -422,7 +422,7 @@
     "d26d1279": [
       {
         "time": "10:27",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -431,7 +431,7 @@
       },
       {
         "time": "17:30",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -440,7 +440,7 @@
       },
       {
         "time": "15:03",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -449,7 +449,7 @@
       },
       {
         "time": "07:48",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -457,27 +457,27 @@
         "detail": "Anthropic 发布 Claude Sonnet 5 和 Claude Science，Google 发布 Nano Banana 2 Lite 和 Gemini Omni Flash 等。查看全文"
       }
     ],
-    "232de139": [
+    "d406ffd8": [
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "人形机器人",
-        "detail": "人形机器人"
+        "title": "英格兰vs民主刚果",
+        "detail": "英格兰vs民主刚果"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "法国队疑似出现内讧",
-        "detail": "法国队疑似出现内讧"
+        "title": "刚果金进球",
+        "detail": "刚果金进球"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -486,36 +486,36 @@
         "detail": "全国两优一先表彰名单公布"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "折叠大满配vivo X Fold6开售",
-        "detail": "折叠大满配vivo X Fold6开售"
+        "title": "小鹏MONA L03今晚预售",
+        "detail": "小鹏MONA L03今晚预售"
       }
     ],
-    "a7fecaf6": [
+    "73033c45": [
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "法国队疑似出现内讧",
-        "detail": "法国队疑似出现内讧"
+        "title": "刚果金进球",
+        "detail": "刚果金进球"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "人形机器人",
-        "detail": "人形机器人"
+        "title": "英格兰vs民主刚果",
+        "detail": "英格兰vs民主刚果"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -524,18 +524,18 @@
         "detail": "全国两优一先表彰名单公布"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "折叠大满配vivo X Fold6开售",
-        "detail": "折叠大满配vivo X Fold6开售"
+        "title": "小鹏MONA L03今晚预售",
+        "detail": "小鹏MONA L03今晚预售"
       }
     ],
     "3b718e9a": [
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -544,31 +544,31 @@
         "detail": "全国两优一先表彰名单公布"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "人形机器人",
-        "detail": "人形机器人"
+        "title": "英格兰vs民主刚果",
+        "detail": "英格兰vs民主刚果"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "法国队疑似出现内讧",
-        "detail": "法国队疑似出现内讧"
+        "title": "刚果金进球",
+        "detail": "刚果金进球"
       },
       {
-        "time": "21:37",
+        "time": "00:32",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "折叠大满配vivo X Fold6开售",
-        "detail": "折叠大满配vivo X Fold6开售"
+        "title": "小鹏MONA L03今晚预售",
+        "detail": "小鹏MONA L03今晚预售"
       }
     ]
   }
