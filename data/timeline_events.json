@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T23:03:20.191631+08:00",
+  "updatedAt": "2026-07-12T01:06:33.553398+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -232,7 +232,7 @@
     "1276451c": [
       {
         "time": "19:28",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -241,16 +241,16 @@
       },
       {
         "time": "09:24",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
         "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力",
-        "detail": "今日热点导览 “全球首款智能体手机”已备货8万至10万台？知情人士：假的 百亿私募数量达142家，再次刷新历史纪录 三星李在镕拟于7月底赴美会晤英伟达黄仁勋 德国大众拟大裁员，最高或裁减12万个岗位 OpenAI高管层再现变动，首席运营��"
+        "detail": "今日热点导览 “全球首款智能体手机”已备货8万至10万台？知情人士：假的 百亿私募数量达142家，再次刷新历史纪录 三星李在镕拟于7月底赴美会晤英伟达黄仁勋 德国大众拟大裁员，最高或裁减12万个岗位 OpenAI高管层再现变动，首席运营官因"
       },
       {
         "time": "09:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -259,7 +259,7 @@
       },
       {
         "time": "18:23",
-        "timeLabel": "昨日",
+        "timeLabel": "07-10",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -270,16 +270,16 @@
     "f9273b78": [
       {
         "time": "09:24",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
         "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力",
-        "detail": "今日热点导览 “全球首款智能体手机”已备货8万至10万台？知情人士：假的 百亿私募数量达142家，再次刷新历史纪录 三星李在镕拟于7月底赴美会晤英伟达黄仁勋 德国大众拟大裁员，最高或裁减12万个岗位 OpenAI高管层再现变动，首席运营��"
+        "detail": "今日热点导览 “全球首款智能体手机”已备货8万至10万台？知情人士：假的 百亿私募数量达142家，再次刷新历史纪录 三星李在镕拟于7月底赴美会晤英伟达黄仁勋 德国大众拟大裁员，最高或裁减12万个岗位 OpenAI高管层再现变动，首席运营官因"
       },
       {
         "time": "19:28",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -288,7 +288,7 @@
       },
       {
         "time": "09:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -297,7 +297,7 @@
       },
       {
         "time": "18:23",
-        "timeLabel": "昨日",
+        "timeLabel": "07-10",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -308,7 +308,7 @@
     "ae10895d": [
       {
         "time": "09:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -317,7 +317,7 @@
       },
       {
         "time": "19:28",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -326,16 +326,16 @@
       },
       {
         "time": "09:24",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
         "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力",
-        "detail": "今日热点导览 “全球首款智能体手机”已备货8万至10万台？知情人士：假的 百亿私募数量达142家，再次刷新历史纪录 三星李在镕拟于7月底赴美会晤英伟达黄仁勋 德国大众拟大裁员，最高或裁减12万个岗位 OpenAI高管层再现变动，首席运营��"
+        "detail": "今日热点导览 “全球首款智能体手机”已备货8万至10万台？知情人士：假的 百亿私募数量达142家，再次刷新历史纪录 三星李在镕拟于7月底赴美会晤英伟达黄仁勋 德国大众拟大裁员，最高或裁减12万个岗位 OpenAI高管层再现变动，首席运营官因"
       },
       {
         "time": "18:23",
-        "timeLabel": "昨日",
+        "timeLabel": "07-10",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -346,7 +346,7 @@
     "3d56dfbd": [
       {
         "time": "15:05",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -355,7 +355,7 @@
       },
       {
         "time": "17:44",
-        "timeLabel": "昨日",
+        "timeLabel": "07-10",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -364,7 +364,7 @@
       },
       {
         "time": "15:00",
-        "timeLabel": "昨日",
+        "timeLabel": "07-10",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -373,7 +373,7 @@
       },
       {
         "time": "10:50",
-        "timeLabel": "昨日",
+        "timeLabel": "07-10",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -384,7 +384,7 @@
     "e1cb330d": [
       {
         "time": "17:44",
-        "timeLabel": "昨日",
+        "timeLabel": "07-10",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -393,7 +393,7 @@
       },
       {
         "time": "15:05",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -402,7 +402,7 @@
       },
       {
         "time": "15:00",
-        "timeLabel": "昨日",
+        "timeLabel": "07-10",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -411,7 +411,7 @@
       },
       {
         "time": "10:50",
-        "timeLabel": "昨日",
+        "timeLabel": "07-10",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -422,7 +422,7 @@
     "93614321": [
       {
         "time": "15:00",
-        "timeLabel": "昨日",
+        "timeLabel": "07-10",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -431,7 +431,7 @@
       },
       {
         "time": "15:05",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -440,7 +440,7 @@
       },
       {
         "time": "17:44",
-        "timeLabel": "昨日",
+        "timeLabel": "07-10",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -449,7 +449,7 @@
       },
       {
         "time": "10:50",
-        "timeLabel": "昨日",
+        "timeLabel": "07-10",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -457,118 +457,118 @@
         "detail": "Vibe Coding 虽然可以更快地生成代码，但依然不能替我们定义问题、理解用户、设计架构并承担结果。查看全文"
       }
     ],
-    "6c7ac355": [
+    "81f5322e": [
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "抖音崩了",
-        "detail": "抖音崩了"
+        "title": "台风巴威已登陆",
+        "detail": "台风巴威已登陆"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "上海台风",
-        "detail": "上海台风"
+        "title": "广西洪水",
+        "detail": "广西洪水"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "台风来袭科学避险完整指南",
-        "detail": "台风来袭科学避险完整指南"
+        "title": "防汛避险安全指南",
+        "detail": "防汛避险安全指南"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "15万级合资燃油SUV颠覆者NX8上新",
-        "detail": "15万级合资燃油SUV颠覆者NX8上新"
+        "title": "台风巴威二次登陆",
+        "detail": "台风巴威二次登陆"
       }
     ],
-    "91909ce0": [
+    "4a8129f8": [
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "上海台风",
-        "detail": "上海台风"
+        "title": "广西洪水",
+        "detail": "广西洪水"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "抖音崩了",
-        "detail": "抖音崩了"
+        "title": "台风巴威已登陆",
+        "detail": "台风巴威已登陆"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "台风来袭科学避险完整指南",
-        "detail": "台风来袭科学避险完整指南"
+        "title": "防汛避险安全指南",
+        "detail": "防汛避险安全指南"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "15万级合资燃油SUV颠覆者NX8上新",
-        "detail": "15万级合资燃油SUV颠覆者NX8上新"
+        "title": "台风巴威二次登陆",
+        "detail": "台风巴威二次登陆"
       }
     ],
-    "22518917": [
+    "a932eb4d": [
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "台风来袭科学避险完整指南",
-        "detail": "台风来袭科学避险完整指南"
+        "title": "防汛避险安全指南",
+        "detail": "防汛避险安全指南"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "抖音崩了",
-        "detail": "抖音崩了"
+        "title": "台风巴威已登陆",
+        "detail": "台风巴威已登陆"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "上海台风",
-        "detail": "上海台风"
+        "title": "广西洪水",
+        "detail": "广西洪水"
       },
       {
-        "time": "23:03",
+        "time": "01:06",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "15万级合资燃油SUV颠覆者NX8上新",
-        "detail": "15万级合资燃油SUV颠覆者NX8上新"
+        "title": "台风巴威二次登陆",
+        "detail": "台风巴威二次登陆"
       }
     ]
   }
