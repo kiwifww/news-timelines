@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T17:56:57.585718+08:00",
+  "updatedAt": "2026-07-25T19:20:09.291032+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,13 +220,51 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
         "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础",
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
+      }
+    ],
+    "6e9f24ec": [
+      {
+        "time": "19:00",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新",
+        "detail": "文｜温丽虹 编辑｜张雨忻 Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。 从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个"
+      },
+      {
+        "time": "08:57",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈",
+        "detail": "今日热点导览 小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款 TOP3大新闻"
+      },
+      {
+        "time": "19:36",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "AnySearch 面向全球推出 “学生与开发者成长计划”",
+        "detail": "7月24日，在 AnySearch 北京开发者沙龙活动现场，AnySearch 创始人兼CEO 薛冠群正式宣布推出“AnySearch 学生与开发者成长计划”（AnySearch Student &amp; Developer Progra"
+      },
+      {
+        "time": "19:00",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整",
+        "detail": "大公司： 字节跳动在中卫成立朔方星河科技公司，注册资本24亿 36氪获悉，天眼查App显示，近日，中卫朔方星河科技有限公司成立，法定代表人为田凯，注册资本24亿人民币，经营范围包括信息技术咨询服务、软件开发、信息系统集成服务、网络设备销售等"
       }
     ],
     "a119bf4e": [
@@ -240,10 +278,19 @@
         "detail": "今日热点导览 小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款 TOP3大新闻"
       },
       {
-        "time": "19:36",
-        "timeLabel": "昨日",
+        "time": "19:00",
+        "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新",
+        "detail": "文｜温丽虹 编辑｜张雨忻 Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。 从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个"
+      },
+      {
+        "time": "19:36",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "AnySearch 面向全球推出 “学生与开发者成长计划”",
         "detail": "7月24日，在 AnySearch 北京开发者沙龙活动现场，AnySearch 创始人兼CEO 薛冠群正式宣布推出“AnySearch 学生与开发者成长计划”（AnySearch Student &amp; Developer Progra"
@@ -251,20 +298,11 @@
       {
         "time": "19:00",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整",
-        "detail": "大公司： 字节跳动在中卫成立朔方星河科技公司，注册资本24亿 36氪获悉，天眼查App显示，近日，中卫朔方星河科技有限公司成立，法定代表人为田凯，注册资本24亿人民币，经营范围包括信息技术咨询服务、软件开发、信息系统集成服务、网络设备销售等"
-      },
-      {
-        "time": "18:34",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "你的下一位面试官，可能不是人",
-        "detail": "&nbsp; 谁能保证超级数字员工不是下一个AI落地的窗口 &nbsp; 撰文&nbsp;|&nbsp;李嘉星 编辑&nbsp;|&nbsp;张薇 封面来源&nbsp;|&nbsp;元企AI &nbsp; 七月初，秋招开始预热。你投出去的下"
+        "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整",
+        "detail": "大公司： 字节跳动在中卫成立朔方星河科技公司，注册资本24亿 36氪获悉，天眼查App显示，近日，中卫朔方星河科技有限公司成立，法定代表人为田凯，注册资本24亿人民币，经营范围包括信息技术咨询服务、软件开发、信息系统集成服务、网络设备销售等"
       }
     ],
     "cc9b2cb6": [
@@ -278,10 +316,19 @@
         "detail": "7月24日，在 AnySearch 北京开发者沙龙活动现场，AnySearch 创始人兼CEO 薛冠群正式宣布推出“AnySearch 学生与开发者成长计划”（AnySearch Student &amp; Developer Progra"
       },
       {
-        "time": "08:57",
+        "time": "19:00",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新",
+        "detail": "文｜温丽虹 编辑｜张雨忻 Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。 从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个"
+      },
+      {
+        "time": "08:57",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈",
         "detail": "今日热点导览 小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款 TOP3大新闻"
@@ -289,58 +336,11 @@
       {
         "time": "19:00",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整",
-        "detail": "大公司： 字节跳动在中卫成立朔方星河科技公司，注册资本24亿 36氪获悉，天眼查App显示，近日，中卫朔方星河科技有限公司成立，法定代表人为田凯，注册资本24亿人民币，经营范围包括信息技术咨询服务、软件开发、信息系统集成服务、网络设备销售等"
-      },
-      {
-        "time": "18:34",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "你的下一位面试官，可能不是人",
-        "detail": "&nbsp; 谁能保证超级数字员工不是下一个AI落地的窗口 &nbsp; 撰文&nbsp;|&nbsp;李嘉星 编辑&nbsp;|&nbsp;张薇 封面来源&nbsp;|&nbsp;元企AI &nbsp; 七月初，秋招开始预热。你投出去的下"
-      }
-    ],
-    "bb9a4200": [
-      {
-        "time": "19:00",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
         "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整",
         "detail": "大公司： 字节跳动在中卫成立朔方星河科技公司，注册资本24亿 36氪获悉，天眼查App显示，近日，中卫朔方星河科技有限公司成立，法定代表人为田凯，注册资本24亿人民币，经营范围包括信息技术咨询服务、软件开发、信息系统集成服务、网络设备销售等"
-      },
-      {
-        "time": "08:57",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈",
-        "detail": "今日热点导览 小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款 TOP3大新闻"
-      },
-      {
-        "time": "19:36",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "AnySearch 面向全球推出 “学生与开发者成长计划”",
-        "detail": "7月24日，在 AnySearch 北京开发者沙龙活动现场，AnySearch 创始人兼CEO 薛冠群正式宣布推出“AnySearch 学生与开发者成长计划”（AnySearch Student &amp; Developer Progra"
-      },
-      {
-        "time": "18:34",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "你的下一位面试官，可能不是人",
-        "detail": "&nbsp; 谁能保证超级数字员工不是下一个AI落地的窗口 &nbsp; 撰文&nbsp;|&nbsp;李嘉星 编辑&nbsp;|&nbsp;张薇 封面来源&nbsp;|&nbsp;元企AI &nbsp; 七月初，秋招开始预热。你投出去的下"
       }
     ],
     "bb3e49e8": [
@@ -457,47 +457,9 @@
         "detail": "不是说好AI来临人类就解放了吗，怎么我连手机都买不起了？查看全文"
       }
     ],
-    "0363f2e7": [
-      {
-        "time": "17:56",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "王虹",
-        "detail": "王虹"
-      },
-      {
-        "time": "17:56",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "台风红霞",
-        "detail": "台风红霞"
-      },
-      {
-        "time": "17:56",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "共赴亚太数字之约",
-        "detail": "共赴亚太数字之约"
-      },
-      {
-        "time": "17:56",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "孙女的微信状态只有爷爷当真了",
-        "detail": "孙女的微信状态只有爷爷当真了"
-      }
-    ],
     "2202e599": [
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -506,16 +468,16 @@
         "detail": "台风红霞"
       },
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "王虹",
-        "detail": "王虹"
+        "title": "闫闯退赛",
+        "detail": "闫闯退赛"
       },
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -524,18 +486,56 @@
         "detail": "共赴亚太数字之约"
       },
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "孙女的微信状态只有爷爷当真了",
-        "detail": "孙女的微信状态只有爷爷当真了"
+        "title": "携程被罚51.79亿",
+        "detail": "携程被罚51.79亿"
+      }
+    ],
+    "84b4bad6": [
+      {
+        "time": "19:20",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "闫闯退赛",
+        "detail": "闫闯退赛"
+      },
+      {
+        "time": "19:20",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "台风红霞",
+        "detail": "台风红霞"
+      },
+      {
+        "time": "19:20",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "共赴亚太数字之约",
+        "detail": "共赴亚太数字之约"
+      },
+      {
+        "time": "19:20",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "携程被罚51.79亿",
+        "detail": "携程被罚51.79亿"
       }
     ],
     "0d025bd5": [
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -544,31 +544,31 @@
         "detail": "共赴亚太数字之约"
       },
       {
-        "time": "17:56",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "王虹",
-        "detail": "王虹"
-      },
-      {
-        "time": "17:56",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "台风红霞",
         "detail": "台风红霞"
       },
       {
-        "time": "17:56",
+        "time": "19:20",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "闫闯退赛",
+        "detail": "闫闯退赛"
+      },
+      {
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "孙女的微信状态只有爷爷当真了",
-        "detail": "孙女的微信状态只有爷爷当真了"
+        "title": "携程被罚51.79亿",
+        "detail": "携程被罚51.79亿"
       }
     ]
   }
