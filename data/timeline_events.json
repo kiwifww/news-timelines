@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-03T23:48:35.822954+08:00",
+  "updatedAt": "2026-08-04T01:59:00.566666+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -232,7 +232,7 @@
     "d1ebce66": [
       {
         "time": "19:39",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -241,16 +241,16 @@
       },
       {
         "time": "17:44",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号",
+        "title": "德明利今��跌超9%，36氪企业全情报提前捕捉到这一市场信号",
         "detail": "图片1 &nbsp; 今日A股收盘数据 上证指数：3809.66&nbsp;点，-0.59% 深证成指：13448.29&nbsp;点，-0.96% 创业板指：3302.55&nbsp;点，-1.24% &nbsp; 德明利8月3日下跌9."
       },
       {
         "time": "16:12",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -259,7 +259,7 @@
       },
       {
         "time": "13:43",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -267,19 +267,19 @@
         "detail": "硬氪获悉，光芯片企业量引科技近期完成天使轮数千万元融资，由珠海科技产业集团领投，珠海正方集团、险峰跟投。此次融资将用来扩充团队、迭代流片和补充设备。 量引科技成立于2024年，聚焦光子集成电路领域，致力于硅光子传输芯片(PIC)，Optic"
       }
     ],
-    "0e906d59": [
+    "041fa540": [
       {
         "time": "17:44",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号",
+        "title": "德明利今��跌超9%，36氪企业全情报提前捕捉到这一市场信号",
         "detail": "图片1 &nbsp; 今日A股收盘数据 上证指数：3809.66&nbsp;点，-0.59% 深证成指：13448.29&nbsp;点，-0.96% 创业板指：3302.55&nbsp;点，-1.24% &nbsp; 德明利8月3日下跌9."
       },
       {
         "time": "19:39",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -288,7 +288,7 @@
       },
       {
         "time": "16:12",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -297,7 +297,7 @@
       },
       {
         "time": "13:43",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -308,7 +308,7 @@
     "497bd1f0": [
       {
         "time": "16:12",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -317,7 +317,7 @@
       },
       {
         "time": "19:39",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -326,16 +326,16 @@
       },
       {
         "time": "17:44",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "德明利今日跌超9%，36氪企业全情报提前捕捉到这一市场信号",
+        "title": "德明利今��跌超9%，36氪企业全情报提前捕捉到这一市场信号",
         "detail": "图片1 &nbsp; 今日A股收盘数据 上证指数：3809.66&nbsp;点，-0.59% 深证成指：13448.29&nbsp;点，-0.96% 创业板指：3302.55&nbsp;点，-1.24% &nbsp; 德明利8月3日下跌9."
       },
       {
         "time": "13:43",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -346,7 +346,7 @@
     "65bcadd6": [
       {
         "time": "18:09",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -355,7 +355,7 @@
       },
       {
         "time": "15:35",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -364,7 +364,7 @@
       },
       {
         "time": "14:03",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -373,7 +373,7 @@
       },
       {
         "time": "10:52",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -384,7 +384,7 @@
     "65363a8c": [
       {
         "time": "15:35",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -393,7 +393,7 @@
       },
       {
         "time": "18:09",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -402,7 +402,7 @@
       },
       {
         "time": "14:03",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -411,7 +411,7 @@
       },
       {
         "time": "10:52",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -422,7 +422,7 @@
     "9aa535d7": [
       {
         "time": "14:03",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -431,7 +431,7 @@
       },
       {
         "time": "18:09",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -440,7 +440,7 @@
       },
       {
         "time": "15:35",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -449,7 +449,7 @@
       },
       {
         "time": "10:52",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -459,7 +459,7 @@
     ],
     "b9f0d479": [
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -468,16 +468,16 @@
         "detail": "DeepSeek一天消耗了8万亿"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "三名辅警以罚代刑致醉驾司机身亡",
-        "detail": "三名辅警以罚代刑致醉驾司机身亡"
+        "title": "低精力可以去医院查有没有疾病",
+        "detail": "低精力可以去医院查有没有疾病"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -486,27 +486,27 @@
         "detail": "没有BGM的导弹测试原声"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "丁程鑫手流血",
-        "detail": "丁程鑫手流血"
+        "title": "今晚8点超级88年中盛典开卖",
+        "detail": "今晚8点超级88年中盛典开卖"
       }
     ],
-    "6735d337": [
+    "292115c6": [
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "三名辅警以罚代刑致醉驾司机身亡",
-        "detail": "三名辅警以罚代刑致醉驾司机身亡"
+        "title": "低精力可以去医院查有没有疾病",
+        "detail": "低精力可以去医院查有没有疾病"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -515,7 +515,7 @@
         "detail": "DeepSeek一天消耗了8万亿"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -524,18 +524,18 @@
         "detail": "没有BGM的导弹测试原声"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "丁程鑫手流血",
-        "detail": "丁程鑫手流血"
+        "title": "今晚8点超级88年中盛典开卖",
+        "detail": "今晚8点超级88年中盛典开卖"
       }
     ],
     "aa0fa260": [
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -544,7 +544,7 @@
         "detail": "没有BGM的导弹测试原声"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -553,22 +553,22 @@
         "detail": "DeepSeek一天消耗了8万亿"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "三名辅警以罚代刑致醉驾司机身亡",
-        "detail": "三名辅警以罚代刑致醉驾司机身亡"
+        "title": "低精力可以去医院查有没有疾病",
+        "detail": "低精力可以去医院查有没有疾病"
       },
       {
-        "time": "23:48",
+        "time": "01:58",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "丁程鑫手流血",
-        "detail": "丁程鑫手流血"
+        "title": "今晚8点超级88年中盛典开卖",
+        "detail": "今晚8点超级88年中盛典开卖"
       }
     ]
   }
