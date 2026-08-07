@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T19:53:17.981570+08:00",
+  "updatedAt": "2026-08-07T21:20:36.249593+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -343,9 +343,47 @@
         "detail": "Black Forest Labs 正式推出 FLUX 3 视频生成模型，研究人员发现 iCloud Private Relay 存在 IP 泄露风险等。查看全文"
       }
     ],
+    "aa045bf1": [
+      {
+        "time": "21:20",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "歌手总决赛",
+        "detail": "歌手总决赛"
+      },
+      {
+        "time": "21:20",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "台风",
+        "detail": "台风"
+      },
+      {
+        "time": "21:20",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "暑期档票房超80亿",
+        "detail": "暑期档票房超80亿"
+      },
+      {
+        "time": "21:20",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "上美团外卖第一时间喝到秋奶",
+        "detail": "上美团外卖第一时间喝到秋奶"
+      }
+    ],
     "647d33af": [
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -354,25 +392,25 @@
         "detail": "台风"
       },
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "河南三支一扶笔试将重考",
-        "detail": "河南三支一扶笔试将重考"
+        "title": "歌手总决赛",
+        "detail": "歌手总决赛"
       },
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "前7个月货物贸易进出口超30万亿元",
-        "detail": "前7个月货物贸易进出口超30万亿元"
+        "title": "暑期档票房超80亿",
+        "detail": "暑期档票房超80亿"
       },
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -381,74 +419,36 @@
         "detail": "上美团外卖第一时间喝到秋奶"
       }
     ],
-    "66daccc4": [
+    "c4eb0c48": [
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "河南三支一扶笔试将重考",
-        "detail": "河南三支一扶笔试将重考"
+        "title": "暑期档票房超80亿",
+        "detail": "暑期档票房超80亿"
       },
       {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "歌手总决赛",
+        "detail": "歌手总决赛"
+      },
+      {
+        "time": "21:20",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "台风",
         "detail": "台风"
       },
       {
-        "time": "19:53",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "前7个月货物贸易进出口超30万亿元",
-        "detail": "前7个月货物贸易进出口超30万亿元"
-      },
-      {
-        "time": "19:53",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "上美团外卖第一时间喝到秋奶",
-        "detail": "上美团外卖第一时间喝到秋奶"
-      }
-    ],
-    "d2608f0d": [
-      {
-        "time": "19:53",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "前7个月货物贸易进出口超30万亿元",
-        "detail": "前7个月货物贸易进出口超30万亿元"
-      },
-      {
-        "time": "19:53",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "台风",
-        "detail": "台风"
-      },
-      {
-        "time": "19:53",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "河南三支一扶笔试将重考",
-        "detail": "河南三支一扶笔试将重考"
-      },
-      {
-        "time": "19:53",
+        "time": "21:20",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
