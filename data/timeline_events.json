@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T23:21:35.897538+08:00",
+  "updatedAt": "2026-08-07T08:11:18.486471+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "23:21",
+        "time": "08:09",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "23:21",
+        "time": "08:09",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "23:21",
+        "time": "08:09",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "23:21",
+        "time": "08:09",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "23:21",
+        "time": "08:09",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "23:21",
+        "time": "08:09",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "23:21",
+        "time": "08:09",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "23:21",
+        "time": "08:09",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "23:21",
+        "time": "08:09",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "23:21",
+        "time": "08:09",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "23:21",
+        "time": "08:09",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "23:21",
+        "time": "08:09",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -229,150 +229,36 @@
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
       }
     ],
-    "e649d582": [
+    "9e60bbd8": [
       {
-        "time": "17:30",
+        "time": "08:11",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "新玩意 248｜少数派的编辑们最近买了啥？",
-        "detail": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文"
+        "title": "央视网评银行午休",
+        "detail": "央视网评银行午休"
       },
       {
-        "time": "15:00",
+        "time": "08:11",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "TDS REVIEW | vivo TWS 5 Pro 降噪",
-        "detail": "这篇文章是TDSStudio在少数派上的第27篇文章，依然是全平台首发。在去年的年度企划之一「中价位TWS横评」中，vivo/iQOO的TWS5系列表现在多个方面都有优势，尤其是降噪综合能力的表现给人 ...查看全文"
+        "title": "立秋",
+        "detail": "立秋"
       },
       {
-        "time": "10:14",
+        "time": "08:11",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "角落新声｜音乐，刻在时光里的私人地图",
-        "detail": "没什么特别的，但无处不在，刚刚好。查看全文"
+        "title": "买火车票新增新生预约功能",
+        "detail": "买火车票新增新生预约功能"
       },
       {
-        "time": "08:42",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "派早报：华为发布尊界 MPV 及多款新品等",
-        "detail": "英伟达宣布 Alpamayo 2 Super AI 开放商用、NVM Express 发布十一项规范集更新等。查看全文"
-      }
-    ],
-    "3d859433": [
-      {
-        "time": "15:00",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "TDS REVIEW | vivo TWS 5 Pro 降噪",
-        "detail": "这篇文章是TDSStudio在少数派上的第27篇文章，依然是全平台首发。在去年的年度企划之一「中价位TWS横评」中，vivo/iQOO的TWS5系列表现在多个方面都有优势，尤其是降噪综合能力的表现给人 ...查看全文"
-      },
-      {
-        "time": "17:30",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "新玩意 248｜少数派的编辑们最近买了啥？",
-        "detail": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文"
-      },
-      {
-        "time": "10:14",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "角落新声｜音乐，刻在时光里的私人地图",
-        "detail": "没什么特别的，但无处不在，刚刚好。查看全文"
-      },
-      {
-        "time": "08:42",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "派早报：华为发布尊界 MPV 及多款新品等",
-        "detail": "英伟达宣布 Alpamayo 2 Super AI 开放商用、NVM Express 发布十一项规范集更新等。查看全文"
-      }
-    ],
-    "c8ac7665": [
-      {
-        "time": "10:14",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "角落新声｜音乐，刻在时光里的私人地图",
-        "detail": "没什么特别的，但无处不在，刚刚好。查看全文"
-      },
-      {
-        "time": "17:30",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "新玩意 248｜少数派的编辑们最近买了啥？",
-        "detail": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文"
-      },
-      {
-        "time": "15:00",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "TDS REVIEW | vivo TWS 5 Pro 降噪",
-        "detail": "这篇文章是TDSStudio在少数派上的第27篇文章，依然是全平台首发。在去年的年度企划之一「中价位TWS横评」中，vivo/iQOO的TWS5系列表现在多个方面都有优势，尤其是降噪综合能力的表现给人 ...查看全文"
-      },
-      {
-        "time": "08:42",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "派早报：华为发布尊界 MPV 及多款新品等",
-        "detail": "英伟达宣布 Alpamayo 2 Super AI 开放商用、NVM Express 发布十一项规范集更新等。查看全文"
-      }
-    ],
-    "c6f1ef9f": [
-      {
-        "time": "23:21",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "金鹰奖",
-        "detail": "金鹰奖"
-      },
-      {
-        "time": "23:21",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "宇树科技中签率",
-        "detail": "宇树科技中签率"
-      },
-      {
-        "time": "23:21",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "中国AI连续14周霸榜",
-        "detail": "中国AI连续14周霸榜"
-      },
-      {
-        "time": "23:21",
+        "time": "08:11",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -381,36 +267,36 @@
         "detail": "苍兰诀"
       }
     ],
-    "abf3441c": [
+    "586b4c87": [
       {
-        "time": "23:21",
+        "time": "08:11",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "宇树科技中签率",
-        "detail": "宇树科技中签率"
+        "title": "立秋",
+        "detail": "立秋"
       },
       {
-        "time": "23:21",
+        "time": "08:11",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "金鹰奖",
-        "detail": "金鹰奖"
+        "title": "央视网评银行午休",
+        "detail": "央视网评银行午休"
       },
       {
-        "time": "23:21",
+        "time": "08:11",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "中国AI连续14周霸榜",
-        "detail": "中国AI连续14周霸榜"
+        "title": "买火车票新增新生预约功能",
+        "detail": "买火车票新增新生预约功能"
       },
       {
-        "time": "23:21",
+        "time": "08:11",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -419,36 +305,36 @@
         "detail": "苍兰诀"
       }
     ],
-    "708d5c57": [
+    "e1fdd735": [
       {
-        "time": "23:21",
+        "time": "08:11",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "中国AI连续14周霸榜",
-        "detail": "中国AI连续14周霸榜"
+        "title": "买火车票新增新生预约功能",
+        "detail": "买火车票新增新生预约功能"
       },
       {
-        "time": "23:21",
+        "time": "08:11",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "金鹰奖",
-        "detail": "金鹰奖"
+        "title": "央视网评银行午休",
+        "detail": "央视网评银行午休"
       },
       {
-        "time": "23:21",
+        "time": "08:11",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "宇树科技中签率",
-        "detail": "宇树科技中签率"
+        "title": "立秋",
+        "detail": "立秋"
       },
       {
-        "time": "23:21",
+        "time": "08:11",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
