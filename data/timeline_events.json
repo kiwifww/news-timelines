@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T10:33:24.441095+08:00",
+  "updatedAt": "2026-08-14T12:55:26.963851+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,13 +220,89 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
         "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础",
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
+      }
+    ],
+    "9e5454da": [
+      {
+        "time": "11:44",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "声擎×少数派｜「角落新声」征文活动获奖结果公布",
+        "detail": "那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅，是如何被你切片、重排并注入新生的？查看全文"
+      },
+      {
+        "time": "10:54",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有",
+        "detail": "DeskBox 让 Windows 桌面上散落的文件、待办和临时信息，都有一个顺手的位置。查看全文"
+      },
+      {
+        "time": "08:52",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "派早报：深度求索推出开源 Agent 框架 DeepSeek",
+        "detail": "阿里千问开放平台上线菜鸟智能体，Brave 和 Firefox 浏览器宣布将继续支持 uBlock Origin 扩展程序等。查看全文"
+      },
+      {
+        "time": "17:30",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
+        "detail": "对长期把 Mac 放在固定位置、外置硬盘常年连接的用户来说，它可以让体积庞大的聊天记录不再挤占有限的内置存储。查看全文"
+      }
+    ],
+    "cdffbd62": [
+      {
+        "time": "10:54",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有",
+        "detail": "DeskBox 让 Windows 桌面上散落的文件、待办和临时信息，都有一个顺手的位置。查看全文"
+      },
+      {
+        "time": "11:44",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "声擎×少数派｜「角落新声」征文活动获奖结果公布",
+        "detail": "那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅，是如何被你切片、重排并注入新生的？查看全文"
+      },
+      {
+        "time": "08:52",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "派早报：深度求索推出开源 Agent 框架 DeepSeek",
+        "detail": "阿里千问开放平台上线菜鸟智能体，Brave 和 Firefox 浏览器宣布将继续支持 uBlock Origin 扩展程序等。查看全文"
+      },
+      {
+        "time": "17:30",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
+        "detail": "对长期把 Mac 放在固定位置、外置硬盘常年连接的用户来说，它可以让体积庞大的聊天记录不再挤占有限的内置存储。查看全文"
       }
     ],
     "3ed8f761": [
@@ -240,150 +316,36 @@
         "detail": "阿里千问开放平台上线菜鸟智能体，Brave 和 Firefox 浏览器宣布将继续支持 uBlock Origin 扩展程序等。查看全文"
       },
       {
-        "time": "17:30",
-        "timeLabel": "昨日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
-        "detail": "对长期把 Mac 放在固定位置、外置硬盘常年连接的用户来说，它可以让体积庞大的聊天记录不再挤占有限的内置存储。查看全文"
-      },
-      {
-        "time": "16:01",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "从原理出发，高效搞定夏日营养冷食",
-        "detail": "不知道多少人和我一样，夏天吃饭的纠结项往往从「今晚到底吃什么」，变成了「太热了到底要不要吃呢」。天气太闷太热、厨房又没有空调，在想到开火的那一刻又心生畏惧，最后还是点外卖或者随便吃点东西凑合了事。但也 ...查看全文本文为会员文章，出自《单"
-      },
-      {
-        "time": "15:01",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC ",
-        "detail": "SQ1TW2NC 的声音素质、编码配置和降噪综合能力，应该都算是在国内同价位甚至更低价位主流新产品面前不太拿得出手的水平，没有特别明显的功能层面的长板，但你会发现即使如此，它依然有一些点值得国内品牌学习。查看全文"
-      }
-    ],
-    "057dbe4a": [
-      {
-        "time": "17:30",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
-        "detail": "对长期把 Mac 放在固定位置、外置硬盘常年连接的用户来说，它可以让体积庞大的聊天记录不再挤占有限的内置存储。查看全文"
-      },
-      {
-        "time": "08:52",
+        "time": "11:44",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "派早报：深度求索推出开源 Agent 框架 DeepSeek",
-        "detail": "阿里千问开放平台上线菜鸟智能体，Brave 和 Firefox 浏览器宣布将继续支持 uBlock Origin 扩展程序等。查看全文"
+        "title": "声擎×少数派｜「角落新声」征文活动获奖结果公布",
+        "detail": "那个让你放松娱乐、拥抱汩汩心流、逃离尘世纷扰、找回本真自我的理想一隅，是如何被你切片、重排并注入新生的？查看全文"
       },
       {
-        "time": "16:01",
-        "timeLabel": "昨日",
+        "time": "10:54",
+        "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "从原理出发，高效搞定夏日营养冷食",
-        "detail": "不知道多少人和我一样，夏天吃饭的纠结项往往从「今晚到底吃什么」，变成了「太热了到底要不要吃呢」。天气太闷太热、厨房又没有空调，在想到开火的那一刻又心生畏惧，最后还是点外卖或者随便吃点东西凑合了事。但也 ...查看全文本文为会员文章，出自《单"
-      },
-      {
-        "time": "15:01",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC ",
-        "detail": "SQ1TW2NC 的声音素质、编码配置和降噪综合能力，应该都算是在国内同价位甚至更低价位主流新产品面前不太拿得出手的水平，没有特别明显的功能层面的长板，但你会发现即使如此，它依然有一些点值得国内品牌学习。查看全文"
-      }
-    ],
-    "71ef71bd": [
-      {
-        "time": "16:01",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "从原理出发，高效搞定夏日营养冷食",
-        "detail": "不知道多少人和我一样，夏天吃饭的纠结项往往从「今晚到底吃什么」，变成了「太热了到底要不要吃呢」。天气太闷太热、厨房又没有空调，在想到开火的那一刻又心生畏惧，最后还是点外卖或者随便吃点东西凑合了事。但也 ...查看全文本文为会员文章，出自《单"
-      },
-      {
-        "time": "08:52",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "派早报：深度求索推出开源 Agent 框架 DeepSeek",
-        "detail": "阿里千问开放平台上线菜鸟智能体，Brave 和 Firefox 浏览器宣布将继续支持 uBlock Origin 扩展程序等。查看全文"
+        "title": "App+1 | 把图标收进格子，DeskBox 让桌面整洁有",
+        "detail": "DeskBox 让 Windows 桌面上散落的文件、待办和临时信息，都有一个顺手的位置。查看全文"
       },
       {
         "time": "17:30",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
+        "type": "背景",
+        "typeColor": "#8a8794",
         "isLatest": false,
         "title": "不用改签名，给 Mac 微信聊天记录「搬个家」",
         "detail": "对长期把 Mac 放在固定位置、外置硬盘常年连接的用户来说，它可以让体积庞大的聊天记录不再挤占有限的内置存储。查看全文"
-      },
-      {
-        "time": "15:01",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "TDS REVIEW | 铁三角 ATH-SQ1TW2NC ",
-        "detail": "SQ1TW2NC 的声音素质、编码配置和降噪综合能力，应该都算是在国内同价位甚至更低价位主流新产品面前不太拿得出手的水平，没有特别明显的功能层面的长板，但你会发现即使如此，它依然有一些点值得国内品牌学习。查看全文"
-      }
-    ],
-    "3eb61e78": [
-      {
-        "time": "10:33",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "胖东来闭店一天整条街都没人出摊",
-        "detail": "胖东来闭店一天整条街都没人出摊"
-      },
-      {
-        "time": "10:33",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "银行能办结婚证了",
-        "detail": "银行能办结婚证了"
-      },
-      {
-        "time": "10:33",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "工业旅游市场有望突破3000亿元",
-        "detail": "工业旅游市场有望突破3000亿元"
-      },
-      {
-        "time": "10:33",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "比亚迪秦MAX上市9.99万起",
-        "detail": "比亚迪秦MAX上市9.99万起"
       }
     ],
     "9c1d909b": [
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -392,7 +354,7 @@
         "detail": "银行能办结婚证了"
       },
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -401,60 +363,98 @@
         "detail": "胖东来闭店一天整条街都没人出摊"
       },
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "工业旅游市场有望突破3000亿元",
-        "detail": "工业旅游市场有望突破3000亿元"
+        "title": "中国这张生态成绩单很美丽",
+        "detail": "中国这张生态成绩单很美丽"
       },
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "比亚迪秦MAX上市9.99万起",
-        "detail": "比亚迪秦MAX上市9.99万起"
+        "title": "林一新歌七夕首发",
+        "detail": "林一新歌七夕首发"
       }
     ],
-    "0ff85fa0": [
+    "3eb61e78": [
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "工业旅游市场有望突破3000亿元",
-        "detail": "工业旅游市场有望突破3000亿元"
-      },
-      {
-        "time": "10:33",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
         "title": "胖东来闭店一天整条街都没人出摊",
         "detail": "胖东来闭店一天整条街都没人出摊"
       },
       {
-        "time": "10:33",
+        "time": "12:55",
         "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
+        "type": "进展",
+        "typeColor": "#f07030",
         "isLatest": false,
         "title": "银行能办结婚证了",
         "detail": "银行能办结婚证了"
       },
       {
-        "time": "10:33",
+        "time": "12:55",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "中国这张生态成绩单很美丽",
+        "detail": "中国这张生态成绩单很美丽"
+      },
+      {
+        "time": "12:55",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "比亚迪秦MAX上市9.99万起",
-        "detail": "比亚迪秦MAX上市9.99万起"
+        "title": "林一新歌七夕首发",
+        "detail": "林一新歌七夕首发"
+      }
+    ],
+    "55984255": [
+      {
+        "time": "12:55",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "中国这张生态成绩单很美丽",
+        "detail": "中国这张生态成绩单很美丽"
+      },
+      {
+        "time": "12:55",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "银行能办结婚证了",
+        "detail": "银行能办结婚证了"
+      },
+      {
+        "time": "12:55",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "胖东来闭店一天整条街都没人出摊",
+        "detail": "胖东来闭店一天整条街都没人出摊"
+      },
+      {
+        "time": "12:55",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "林一新歌七夕首发",
+        "detail": "林一新歌七夕首发"
       }
     ]
   }
