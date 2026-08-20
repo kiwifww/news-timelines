@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T22:43:18.657892+08:00",
+  "updatedAt": "2026-08-20T23:40:37.145047+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -343,47 +343,9 @@
         "detail": "哈浮 VERSA 飞行口袋云台相机发布，OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题等。查看全文"
       }
     ],
-    "5b57edfb": [
-      {
-        "time": "22:43",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "致孕妇误服液体医生被停职",
-        "detail": "致孕妇误服液体医生被停职"
-      },
-      {
-        "time": "22:43",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "医院能办结婚证了",
-        "detail": "医院能办结婚证了"
-      },
-      {
-        "time": "22:43",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "县域消费跑出加速度",
-        "detail": "县域消费跑出加速度"
-      },
-      {
-        "time": "22:43",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "享界G9发布会",
-        "detail": "享界G9发布会"
-      }
-    ],
     "875e20f7": [
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -392,7 +354,7 @@
         "detail": "医院能办结婚证了"
       },
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -401,7 +363,7 @@
         "detail": "致孕妇误服液体医生被停职"
       },
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -410,18 +372,56 @@
         "detail": "县域消费跑出加速度"
       },
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "享界G9发布会",
-        "detail": "享界G9发布会"
+        "title": "癌症疫苗",
+        "detail": "癌症疫苗"
+      }
+    ],
+    "5b57edfb": [
+      {
+        "time": "23:40",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "致孕妇误服液体医生被停职",
+        "detail": "致孕妇误服液体医生被停职"
+      },
+      {
+        "time": "23:40",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "医院能办结婚证了",
+        "detail": "医院能办结婚证了"
+      },
+      {
+        "time": "23:40",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "县域消费跑出加速度",
+        "detail": "县域消费跑出加速度"
+      },
+      {
+        "time": "23:40",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "癌症疫苗",
+        "detail": "癌症疫苗"
       }
     ],
     "45dc48ff": [
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -430,31 +430,31 @@
         "detail": "县域消费跑出加速度"
       },
       {
-        "time": "22:43",
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "致孕妇误服液体医生被停职",
-        "detail": "致孕妇误服液体医生被停职"
-      },
-      {
-        "time": "22:43",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "医院能办结婚证了",
         "detail": "医院能办结婚证了"
       },
       {
-        "time": "22:43",
+        "time": "23:40",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "致孕妇误服液体医生被停职",
+        "detail": "致孕妇误服液体医生被停职"
+      },
+      {
+        "time": "23:40",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "享界G9发布会",
-        "detail": "享界G9发布会"
+        "title": "癌症疫苗",
+        "detail": "癌症疫苗"
       }
     ]
   }
