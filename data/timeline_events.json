@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T13:11:35.821108+08:00",
+  "updatedAt": "2026-08-29T02:31:53.501860+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -229,10 +229,86 @@
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
       }
     ],
+    "a3475914": [
+      {
+        "time": "17:44",
+        "timeLabel": "昨日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "本周看什么 | 最近值得一看的 10 部作品",
+        "detail": "📅本周新预告《社交清算》新预告8月27日，电影《社交清算》发布了新预告，将于10月9日在北美上映。凭借《社交网络》斩获奥斯卡金像奖的艾伦・索金带来全新姐妹篇，当科技巨头以「言论自由」为名逃避责任，当算 ...查看全文"
+      },
+      {
+        "time": "15:04",
+        "timeLabel": "昨日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
+        "detail": "这些内容，即使毕了业也能有所帮助。查看全文"
+      },
+      {
+        "time": "12:00",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "全球首款阔直板探索计划：华为 Pura X View 新品有",
+        "detail": "继创新形态的阔折叠手机取得了市场的广泛好评后，华为延续阔屏设计，带来全球首款阔直板旗舰HUAWEIPuraXView。HUAWEIPuraXView薄至6.68mm，轻至201g，拥有7000mAh超 ...查看全文"
+      },
+      {
+        "time": "09:56",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 S",
+        "detail": "2017年，明基推出第一代ScreenBar，把原本占据桌面的灯座挪到屏幕上方，再用非对称光路照亮桌面、避开屏幕，由此创造了世界上第一盏屏幕挂灯。此后近十年的产品迭代，大致沿着物理结构和智能体验两个方 ...查看全文"
+      }
+    ],
+    "f986b36d": [
+      {
+        "time": "15:04",
+        "timeLabel": "昨日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
+        "detail": "这些内容，即使毕了业也能有所帮助。查看全文"
+      },
+      {
+        "time": "17:44",
+        "timeLabel": "昨日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "本周看什么 | 最近值得一看的 10 部作品",
+        "detail": "📅本周新预告《社交清算》新预告8月27日，电影《社交清算》发布了新预告，将于10月9日在北美上映。凭借《社交网络》斩获奥斯卡金像奖的艾伦・索金带来全新姐妹篇，当科技巨头以「言论自由」为名逃避责任，当算 ...查看全文"
+      },
+      {
+        "time": "12:00",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "全球首款阔直板探索计划：华为 Pura X View 新品有",
+        "detail": "继创新形态的阔折叠手机取得了市场的广泛好评后，华为延续阔屏设计，带来全球首款阔直板旗舰HUAWEIPuraXView。HUAWEIPuraXView薄至6.68mm，轻至201g，拥有7000mAh超 ...查看全文"
+      },
+      {
+        "time": "09:56",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 S",
+        "detail": "2017年，明基推出第一代ScreenBar，把原本占据桌面的灯座挪到屏幕上方，再用非对称光路照亮桌面、避开屏幕，由此创造了世界上第一盏屏幕挂灯。此后近十年的产品迭代，大致沿着物理结构和智能体验两个方 ...查看全文"
+      }
+    ],
     "f7ca4919": [
       {
         "time": "12:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -240,221 +316,145 @@
         "detail": "继创新形态的阔折叠手机取得了市场的广泛好评后，华为延续阔屏设计，带来全球首款阔直板旗舰HUAWEIPuraXView。HUAWEIPuraXView薄至6.68mm，轻至201g，拥有7000mAh超 ...查看全文"
       },
       {
-        "time": "09:56",
-        "timeLabel": "今日",
+        "time": "17:44",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 S",
-        "detail": "2017年，明基推出第一代ScreenBar，把原本占据桌面的灯座挪到屏幕上方，再用非对称光路照亮桌面、避开屏幕，由此创造了世界上第一盏屏幕挂灯。此后近十年的产品迭代，大致沿着物理结构和智能体验两个方 ...查看全文"
+        "title": "本周看什么 | 最近值得一看的 10 部作品",
+        "detail": "📅本周新预告《社交清算》新预告8月27日，电影《社交清算》发布了新预告，将于10月9日在北美上映。凭借《社交网络》斩获奥斯卡金像奖的艾伦・索金带来全新姐妹篇，当科技巨头以「言论自由」为名逃避责任，当算 ...查看全文"
       },
       {
-        "time": "08:29",
-        "timeLabel": "今日",
+        "time": "15:04",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型",
-        "detail": "Perplexity AI 推出 Portable Computer，明基推出 Creative Pro PV50 系列专业显示器。查看全文"
+        "title": "开学季 | 学习不止在课堂：这些方法和技巧帮你做好知识管理",
+        "detail": "这些内容，即使毕了业也能有所帮助。查看全文"
       },
       {
-        "time": "18:00",
+        "time": "09:56",
         "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "新玩意 250｜少数派的编辑们最近买了啥？",
-        "detail": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@小葵：超大号封闭式猫砂盆参 ...查看全文"
-      }
-    ],
-    "57aa630e": [
-      {
-        "time": "09:56",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
         "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 S",
         "detail": "2017年，明基推出第一代ScreenBar，把原本占据桌面的灯座挪到屏幕上方，再用非对称光路照亮桌面、避开屏幕，由此创造了世界上第一盏屏幕挂灯。此后近十年的产品迭代，大致沿着物理结构和智能体验两个方 ...查看全文"
-      },
-      {
-        "time": "12:00",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "全球首款阔直板探索计划：华为 Pura X View 新品有",
-        "detail": "继创新形态的阔折叠手机取得了市场的广泛好评后，华为延续阔屏设计，带来全球首款阔直板旗舰HUAWEIPuraXView。HUAWEIPuraXView薄至6.68mm，轻至201g，拥有7000mAh超 ...查看全文"
-      },
-      {
-        "time": "08:29",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型",
-        "detail": "Perplexity AI 推出 Portable Computer，明基推出 Creative Pro PV50 系列专业显示器。查看全文"
-      },
-      {
-        "time": "18:00",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "新玩意 250｜少数派的编辑们最近买了啥？",
-        "detail": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@小葵：超大号封闭式猫砂盆参 ...查看全文"
       }
     ],
-    "542e9449": [
+    "194332b5": [
       {
-        "time": "08:29",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "派早报：智谱开源 GLM-5.3-Flash 原生多模态模型",
-        "detail": "Perplexity AI 推出 Portable Computer，明基推出 Creative Pro PV50 系列专业显示器。查看全文"
+        "title": "房贷",
+        "detail": "房贷"
       },
       {
-        "time": "12:00",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "全球首款阔直板探索计划：华为 Pura X View 新品有",
-        "detail": "继创新形态的阔折叠手机取得了市场的广泛好评后，华为延续阔屏设计，带来全球首款阔直板旗舰HUAWEIPuraXView。HUAWEIPuraXView薄至6.68mm，轻至201g，拥有7000mAh超 ...查看全文"
+        "title": "青簪行",
+        "detail": "青簪行"
       },
       {
-        "time": "09:56",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "桌面升级，灯也要跟着进化：明基 iScreenBar 与 S",
-        "detail": "2017年，明基推出第一代ScreenBar，把原本占据桌面的灯座挪到屏幕上方，再用非对称光路照亮桌面、避开屏幕，由此创造了世界上第一盏屏幕挂灯。此后近十年的产品迭代，大致沿着物理结构和智能体验两个方 ...查看全文"
+        "title": "消防救援队已抵达受灾核心区",
+        "detail": "消防救援队已抵达受灾核心区"
       },
       {
-        "time": "18:00",
-        "timeLabel": "昨日",
+        "time": "02:31",
+        "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "新玩意 250｜少数派的编辑们最近买了啥？",
-        "detail": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@小葵：超大号封闭式猫砂盆参 ...查看全文"
+        "title": "白敬亭P图为井柏然剧宣",
+        "detail": "白敬亭P图为井柏然剧宣"
       }
     ],
-    "dcc9a873": [
+    "9d5d7377": [
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "教体局回应将低分班级教师称为耻辱",
-        "detail": "教体局回应将低分班级教师称为耻辱"
+        "title": "青簪行",
+        "detail": "青簪行"
       },
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "樊振东进4强需击败所有对手",
-        "detail": "樊振东进4强需击败所有对手"
+        "title": "房贷",
+        "detail": "房贷"
       },
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "消防救援力量向受灾核心区挺进",
-        "detail": "消防救援力量向受灾核心区挺进"
+        "title": "消防救援队已抵达受灾核心区",
+        "detail": "消防救援队已抵达受灾核心区"
       },
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "这才是外貌红利",
-        "detail": "这才是外貌红利"
+        "title": "白敬亭P图为井柏然剧宣",
+        "detail": "白敬亭P图为井柏然剧宣"
       }
     ],
-    "a2422d9b": [
+    "20346e4b": [
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "樊振东进4强需击败所有对手",
-        "detail": "樊振东进4强需击败所有对手"
+        "title": "消防救援队已抵达受灾核心区",
+        "detail": "消防救援队已抵达受灾核心区"
       },
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "教体局回应将低分班级教师称为耻辱",
-        "detail": "教体局回应将低分班级教师称为耻辱"
+        "title": "房贷",
+        "detail": "房贷"
       },
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "消防救援力量向受灾核心区挺进",
-        "detail": "消防救援力量向受灾核心区挺进"
+        "title": "青簪行",
+        "detail": "青簪行"
       },
       {
-        "time": "13:11",
+        "time": "02:31",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "这才是外貌红利",
-        "detail": "这才是外貌红利"
-      }
-    ],
-    "ba1077e3": [
-      {
-        "time": "13:11",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "消防救援力量向受灾核心区挺进",
-        "detail": "消防救援力量向受灾核心区挺进"
-      },
-      {
-        "time": "13:11",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "教体局回应将低分班级教师称为耻辱",
-        "detail": "教体局回应将低分班级教师称为耻辱"
-      },
-      {
-        "time": "13:11",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "樊振东进4强需击败所有对手",
-        "detail": "樊振东进4强需击败所有对手"
-      },
-      {
-        "time": "13:11",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "这才是外貌红利",
-        "detail": "这才是外貌红利"
+        "title": "白敬亭P图为井柏然剧宣",
+        "detail": "白敬亭P图为井柏然剧宣"
       }
     ]
   }
