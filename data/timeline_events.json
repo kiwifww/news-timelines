@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T13:43:35.023849+08:00",
+  "updatedAt": "2026-09-04T19:05:29.491072+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -229,232 +229,232 @@
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
       }
     ],
-    "51589988": [
+    "e1cb330d": [
       {
-        "time": "11:25",
+        "time": "17:32",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ",
-        "detail": "在 2026 年用一台 4:3 屏幕的 ThinkPad 是一种什么体验？查看全文"
+        "title": "本周看什么 | 最近值得一看的 8 部作品",
+        "detail": "📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...查看全文"
       },
       {
-        "time": "08:47",
+        "time": "15:11",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、M",
-        "detail": "Anthropic 升级 Claude Code 及 Cowork，微软调整 Xbox Cloud Gaming 商业模式等。查看全文"
+        "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
+        "detail": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文"
       },
       {
-        "time": "18:18",
-        "timeLabel": "昨日",
+        "time": "15:01",
+        "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "新玩意 251｜少数派的编辑们最近买了啥？",
-        "detail": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@什么陈：洗手间置物架参考价 ...查看全文"
-      },
-      {
-        "time": "15:00",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪",
-        "detail": "经过一个季度的使用，聊聊这个此前不会考虑其数码产品的品牌。查看全文"
-      }
-    ],
-    "6d9c5ecb": [
-      {
-        "time": "08:47",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、M",
-        "detail": "Anthropic 升级 Claude Code 及 Cowork，微软调整 Xbox Cloud Gaming 商业模式等。查看全文"
+        "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校",
+        "detail": "研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。查看全文"
       },
       {
         "time": "11:25",
         "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ",
-        "detail": "在 2026 年用一台 4:3 屏幕的 ThinkPad 是一种什么体验？查看全文"
-      },
-      {
-        "time": "18:18",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "新玩意 251｜少数派的编辑们最近买了啥？",
-        "detail": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@什么陈：洗手间置物架参考价 ...查看全文"
-      },
-      {
-        "time": "15:00",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪",
-        "detail": "经过一个季度的使用，聊聊这个此前不会考虑其数码产品的品牌。查看全文"
+        "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ",
+        "detail": "在 2026 年用一台 4:3 屏幕的 ThinkPad 是一种什么体验？查看全文"
       }
     ],
-    "0701c956": [
+    "4d5816cd": [
       {
-        "time": "18:18",
-        "timeLabel": "昨日",
+        "time": "15:11",
+        "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "新玩意 251｜少数派的编辑们最近买了啥？",
-        "detail": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@什么陈：洗手间置物架参考价 ...查看全文"
+        "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
+        "detail": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文"
+      },
+      {
+        "time": "17:32",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "本周看什么 | 最近值得一看的 8 部作品",
+        "detail": "📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...查看全文"
+      },
+      {
+        "time": "15:01",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校",
+        "detail": "研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。查看全文"
       },
       {
         "time": "11:25",
         "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
+        "type": "背景",
+        "typeColor": "#8a8794",
         "isLatest": false,
         "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ",
         "detail": "在 2026 年用一台 4:3 屏幕的 ThinkPad 是一种什么体验？查看全文"
-      },
-      {
-        "time": "08:47",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派早报：OpenAI 发布 GPT-6 Astra 模型、M",
-        "detail": "Anthropic 升级 Claude Code 及 Cowork，微软调整 Xbox Cloud Gaming 商业模式等。查看全文"
-      },
-      {
-        "time": "15:00",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪",
-        "detail": "经过一个季度的使用，聊聊这个此前不会考虑其数码产品的品牌。查看全文"
       }
     ],
-    "cb599deb": [
+    "4b20ee62": [
       {
-        "time": "13:43",
+        "time": "15:01",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "安徽大学回应副校长涉武大举报事件",
-        "detail": "安徽大学回应副校长涉武大举报事件"
+        "title": "开学季 | 超级闹钟、算教学周、统计作业：三条快捷指令让学校",
+        "detail": "研究一下iOS自带的快捷指令，可能会让你的学习生活也轻松不少。查看全文"
       },
       {
-        "time": "13:43",
+        "time": "17:32",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "男子欠债想轻生学胖东来还清105万",
-        "detail": "男子欠债想轻生学胖东来还清105万"
+        "title": "本周看什么 | 最近值得一看的 8 部作品",
+        "detail": "📅本周新预告《哈利·波特》剧集先导预告9月2日，剧集《哈利·波特与魔法石》发布了先导预告，第一季共8集，将于12月25日上线HBOMax。原作者J·K·罗琳担任执行制片人，多米尼克·麦克劳克林、阿拉贝 ...查看全文"
       },
       {
-        "time": "13:43",
+        "time": "15:11",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "吉隆泥石流灾害核心区恢复供电",
-        "detail": "吉隆泥石流灾害核心区恢复供电"
+        "title": "新学期，新气象：正版软件 & 付费栏目限时优惠",
+        "detail": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文"
       },
       {
-        "time": "13:43",
+        "time": "11:25",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "问界M9Ultimate展车进店",
-        "detail": "问界M9Ultimate展车进店"
+        "title": "在 16:10 屏幕普及的当下，聊聊那台最后的 4:3 版 ",
+        "detail": "在 2026 年用一台 4:3 屏幕的 ThinkPad 是一种什么体验？查看全文"
       }
     ],
-    "9123e9ea": [
+    "57b700f5": [
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "男子欠债想轻生学胖东来还清105万",
-        "detail": "男子欠债想轻生学胖东来还清105万"
+        "title": "福建受灾严重",
+        "detail": "福建受灾严重"
       },
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "安徽大学回应副校长涉武大举报事件",
-        "detail": "安徽大学回应副校长涉武大举报事件"
+        "title": "外交部回应52名新加坡人涉嫌在华传销",
+        "detail": "外交部回应52名新加坡人涉嫌在华传销"
       },
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "吉隆泥石流灾害核心区恢复供电",
-        "detail": "吉隆泥石流灾害核心区恢复供电"
+        "title": "吉隆口岸临时供电线路已抢通",
+        "detail": "吉隆口岸临时供电线路已抢通"
       },
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "问界M9Ultimate展车进店",
-        "detail": "问界M9Ultimate展车进店"
+        "title": "Pro Max大乱斗",
+        "detail": "Pro Max大乱斗"
       }
     ],
-    "efffc242": [
+    "c4e3e5af": [
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "吉隆泥石流灾害核心区恢复供电",
-        "detail": "吉隆泥石流灾害核心区恢复供电"
+        "title": "外交部回应52名新加坡人涉嫌在华传销",
+        "detail": "外交部回应52名新加坡人涉嫌在华传销"
       },
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "安徽大学回应副校长涉武大举报事件",
-        "detail": "安徽大学回应副校长涉武大举报事件"
+        "title": "福建受灾严重",
+        "detail": "福建受灾严重"
       },
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "男子欠债想轻生学胖东来还清105万",
-        "detail": "男子欠债想轻生学胖东来还清105万"
+        "title": "吉隆口岸临时供电线路已抢通",
+        "detail": "吉隆口岸临时供电线路已抢通"
       },
       {
-        "time": "13:43",
+        "time": "19:05",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "问界M9Ultimate展车进店",
-        "detail": "问界M9Ultimate展车进店"
+        "title": "Pro Max大乱斗",
+        "detail": "Pro Max大乱斗"
+      }
+    ],
+    "555d4fae": [
+      {
+        "time": "19:05",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "吉隆口岸临时供电线路已抢通",
+        "detail": "吉隆口岸临时供电线路已抢通"
+      },
+      {
+        "time": "19:05",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "福建受灾严重",
+        "detail": "福建受灾严重"
+      },
+      {
+        "time": "19:05",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "外交部回应52名新加坡人涉嫌在华传销",
+        "detail": "外交部回应52名新加坡人涉嫌在华传销"
+      },
+      {
+        "time": "19:05",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "Pro Max大乱斗",
+        "detail": "Pro Max大乱斗"
       }
     ]
   }
