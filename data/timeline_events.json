@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T19:05:55.130319+08:00",
+  "updatedAt": "2026-09-09T00:31:38.990652+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -229,10 +229,48 @@
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
       }
     ],
+    "f6a56afc": [
+      {
+        "time": "18:14",
+        "timeLabel": "昨日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
+        "detail": "相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。"
+      },
+      {
+        "time": "17:00",
+        "timeLabel": "昨日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法",
+        "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
+      },
+      {
+        "time": "15:00",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "一日一技｜我的 Windows 11 头像会动，你也可以",
+        "detail": "Where's everyone going? Bingo?查看全文"
+      },
+      {
+        "time": "11:06",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日",
+        "detail": "浪还在继续往岸边来，天色也一点一点暗下去。就让奄美大岛和我的这个夏天，停留在这里吧。查看全文"
+      }
+    ],
     "7ccca1f0": [
       {
         "time": "17:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -240,37 +278,37 @@
         "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
       },
       {
-        "time": "15:00",
-        "timeLabel": "今日",
+        "time": "18:14",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
+        "detail": "相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。"
+      },
+      {
+        "time": "15:00",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "一日一技｜我的 Windows 11 头像会动，你也可以",
         "detail": "Where's everyone going? Bingo?查看全文"
       },
       {
         "time": "11:06",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日",
-        "detail": "浪还在继续往岸边来，天色也一点一点暗下去。就让奄美大岛和我的这个夏天，停留在这里吧。查看全文"
-      },
-      {
-        "time": "08:07",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI ",
-        "detail": "少数派的近期动态全新iPhone发布在即，来与少数派一起看Apple发布会口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0 ...查看全文"
+        "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日",
+        "detail": "浪还在继续往岸边来，天色也一点一点暗下去。就让奄美大岛和我的这个夏天，停留在这里吧。查看全文"
       }
     ],
     "f6587cf5": [
       {
         "time": "15:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -278,74 +316,74 @@
         "detail": "Where's everyone going? Bingo?查看全文"
       },
       {
-        "time": "17:00",
-        "timeLabel": "今日",
+        "time": "18:14",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "Apple「随航」的无感体验里，藏着多少流畅的秘密？",
+        "detail": "相较于 Jobs 时代令人惊叹的「iPhone 时刻」，过去十五年的 Apple 或许少了一些足以重新定义一个品类的震撼——但围绕「体验」本身展开的技术革新却从未停止。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。"
+      },
+      {
+        "time": "17:00",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法",
         "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
       },
       {
         "time": "11:06",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日",
-        "detail": "浪还在继续往岸边来，天色也一点一点暗下去。就让奄美大岛和我的这个夏天，停留在这里吧。查看全文"
-      },
-      {
-        "time": "08:07",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI ",
-        "detail": "少数派的近期动态全新iPhone发布在即，来与少数派一起看Apple发布会口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0 ...查看全文"
+        "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日",
+        "detail": "浪还在继续往岸边来，天色也一点一点暗下去。就让奄美大岛和我的这个夏天，停留在这里吧。查看全文"
       }
     ],
-    "007efa4e": [
+    "7fe49639": [
       {
-        "time": "11:06",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日",
-        "detail": "浪还在继续往岸边来，天色也一点一点暗下去。就让奄美大岛和我的这个夏天，停留在这里吧。查看全文"
+        "title": "金球奖",
+        "detail": "金球奖"
       },
       {
-        "time": "17:00",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "社区速递 157 | NuPhy 全铝磁轴键盘与派友拒绝算法",
-        "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
+        "title": "苹果用户换华为",
+        "detail": "苹果用户换华为"
       },
       {
-        "time": "15:00",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "一日一技｜我的 Windows 11 头像会动，你也可以",
-        "detail": "Where's everyone going? Bingo?查看全文"
+        "title": "我国进出口连续4个月保持两位数增长",
+        "detail": "我国进出口连续4个月保持两位数增长"
       },
       {
-        "time": "08:07",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI ",
-        "detail": "少数派的近期动态全新iPhone发布在即，来与少数派一起看Apple发布会口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0 ...查看全文"
+        "title": "这段话杀死了内耗型人格",
+        "detail": "这段话杀死了内耗型人格"
       }
     ],
     "413a3479": [
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -354,107 +392,69 @@
         "detail": "苹果用户换华为"
       },
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "金湘军受贿1.48亿余元",
-        "detail": "金湘军受贿1.48亿余元"
+        "title": "金球奖",
+        "detail": "金球奖"
       },
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "一代代科技工作者回答中国人为何行",
-        "detail": "一代代科技工作者回答中国人为何行"
+        "title": "我国进出口连续4个月保持两位数增长",
+        "detail": "我国进出口连续4个月保持两位数增长"
       },
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "梅姨有自己的孩子",
-        "detail": "梅姨有自己的孩子"
+        "title": "这段话杀死了内耗型人格",
+        "detail": "这段话杀死了内耗型人格"
       }
     ],
-    "efb91c52": [
+    "326a9a1b": [
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "金湘军受贿1.48亿余元",
-        "detail": "金湘军受贿1.48亿余元"
+        "title": "我国进出口连续4个月保持两位数增长",
+        "detail": "我国进出口连续4个月保持两位数增长"
       },
       {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "金球奖",
+        "detail": "金球奖"
+      },
+      {
+        "time": "00:31",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "苹果用户换华为",
         "detail": "苹果用户换华为"
       },
       {
-        "time": "19:05",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "一代代科技工作者回答中国人为何行",
-        "detail": "一代代科技工作者回答中国人为何行"
-      },
-      {
-        "time": "19:05",
+        "time": "00:31",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "梅姨有自己的孩子",
-        "detail": "梅姨有自己的孩子"
-      }
-    ],
-    "f05d346d": [
-      {
-        "time": "19:05",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "一代代科技工作者回答中国人为何行",
-        "detail": "一代代科技工作者回答中国人为何行"
-      },
-      {
-        "time": "19:05",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "苹果用户换华为",
-        "detail": "苹果用户换华为"
-      },
-      {
-        "time": "19:05",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "金湘军受贿1.48亿余元",
-        "detail": "金湘军受贿1.48亿余元"
-      },
-      {
-        "time": "19:05",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "梅姨有自己的孩子",
-        "detail": "梅姨有自己的孩子"
+        "title": "这段话杀死了内耗型人格",
+        "detail": "这段话杀死了内耗型人格"
       }
     ]
   }
