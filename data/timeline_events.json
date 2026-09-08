@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T08:11:53.111169+08:00",
+  "updatedAt": "2026-09-08T13:49:01.263396+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,13 +220,89 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
         "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础",
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
+      }
+    ],
+    "007efa4e": [
+      {
+        "time": "11:06",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日",
+        "detail": "浪还在继续往岸边来，天色也一点一点暗下去。就让奄美大岛和我的这个夏天，停留在这里吧。查看全文"
+      },
+      {
+        "time": "08:07",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI ",
+        "detail": "少数派的近期动态全新iPhone发布在即，来与少数派一起看Apple发布会口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0 ...查看全文"
+      },
+      {
+        "time": "18:08",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "派评｜近期值得关注的 App",
+        "detail": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文"
+      },
+      {
+        "time": "15:00",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢",
+        "detail": "一辆远没有 F1 赛车快的车，凭什么让各路豪强乖乖排在后面，甚至左右冠军归属？查看全文"
+      }
+    ],
+    "bc6699a1": [
+      {
+        "time": "08:07",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI ",
+        "detail": "少数派的近期动态全新iPhone发布在即，来与少数派一起看Apple发布会口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0 ...查看全文"
+      },
+      {
+        "time": "11:06",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日",
+        "detail": "浪还在继续往岸边来，天色也一点一点暗下去。就让奄美大岛和我的这个夏天，停留在这里吧。查看全文"
+      },
+      {
+        "time": "18:08",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "派评｜近期值得关注的 App",
+        "detail": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文"
+      },
+      {
+        "time": "15:00",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢",
+        "detail": "一辆远没有 F1 赛车快的车，凭什么让各路豪强乖乖排在后面，甚至左右冠军归属？查看全文"
       }
     ],
     "1a949e69": [
@@ -240,221 +316,145 @@
         "detail": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文"
       },
       {
-        "time": "15:00",
-        "timeLabel": "昨日",
+        "time": "11:06",
+        "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢",
-        "detail": "一辆远没有 F1 赛车快的车，凭什么让各路豪强乖乖排在后面，甚至左右冠军归属？查看全文"
+        "title": "日本浮生录 11｜越过九州，走进奄美大岛的山海夏日",
+        "detail": "浪还在继续往岸边来，天色也一点一点暗下去。就让奄美大岛和我的这个夏天，停留在这里吧。查看全文"
       },
       {
-        "time": "11:10",
-        "timeLabel": "昨日",
+        "time": "08:07",
+        "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "定义了 Apple 10 年的白色产品：iBook G3 S",
-        "detail": "在金属机身成为 Mac 产品线标配的今天，让我们重温这台 2001 年的 iBook G3，找回属于聚碳酸酯时代的风格。查看全文"
-      },
-      {
-        "time": "08:20",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "派早报：微软公布 Project Zenith 计划、F-D",
-        "detail": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。查看全文"
-      }
-    ],
-    "1698f163": [
-      {
-        "time": "15:00",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢",
-        "detail": "一辆远没有 F1 赛车快的车，凭什么让各路豪强乖乖排在后面，甚至左右冠军归属？查看全文"
-      },
-      {
-        "time": "18:08",
-        "timeLabel": "昨日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "派评｜近期值得关注的 App",
-        "detail": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文"
-      },
-      {
-        "time": "11:10",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "定义了 Apple 10 年的白色产品：iBook G3 S",
-        "detail": "在金属机身成为 Mac 产品线标配的今天，让我们重温这台 2001 年的 iBook G3，找回属于聚碳酸酯时代的风格。查看全文"
-      },
-      {
-        "time": "08:20",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "派早报：微软公布 Project Zenith 计划、F-D",
-        "detail": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。查看全文"
-      }
-    ],
-    "f4a20f89": [
-      {
-        "time": "11:10",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "定义了 Apple 10 年的白色产品：iBook G3 S",
-        "detail": "在金属机身成为 Mac 产品线标配的今天，让我们重温这台 2001 年的 iBook G3，找回属于聚碳酸酯时代的风格。查看全文"
-      },
-      {
-        "time": "18:08",
-        "timeLabel": "昨日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "派评｜近期值得关注的 App",
-        "detail": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文"
+        "title": "派早报：华为举办 HarmonyOS 7 | HUAWEI ",
+        "detail": "少数派的近期动态全新iPhone发布在即，来与少数派一起看Apple发布会口袋先知新版本1.3.3上线，你可以自定义任何你想展示的屏幕效果。了解更多能让AI助手通过自然语言指令直接与您的Quote/0 ...查看全文"
       },
       {
         "time": "15:00",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
+        "type": "背景",
+        "typeColor": "#8a8794",
         "isLatest": false,
         "title": "「弯道超车」赛车入门指北 04：全场最快的车，为什么听一辆慢",
         "detail": "一辆远没有 F1 赛车快的车，凭什么让各路豪强乖乖排在后面，甚至左右冠军归属？查看全文"
-      },
-      {
-        "time": "08:20",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "派早报：微软公布 Project Zenith 计划、F-D",
-        "detail": "美国 CD 销量大幅反弹，公安部上线反诈智能助手「国家反诈 AI」等。查看全文"
       }
     ],
-    "530bf94a": [
+    "32a83557": [
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "郑钦文逆转震惊美网",
-        "detail": "郑钦文逆转震惊美网"
+        "title": "早春晴朗",
+        "detail": "早春晴朗"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "郑钦文实现千万分之一概率事件",
-        "detail": "郑钦文实现千万分之一概率事件"
+        "title": "22岁男子看望生病奶奶过桥时坠亡",
+        "detail": "22岁男子看望生病奶奶过桥时坠亡"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "时代楷模王戟最想对年轻人说",
-        "detail": "时代楷模王戟最想对年轻人说"
+        "title": "王戟说与其内耗不如放手去干",
+        "detail": "王戟说与其内耗不如放手去干"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "小米18Fold首发评测",
-        "detail": "小米18Fold首发评测"
+        "title": "霸王茶姬 茶叶蛋",
+        "detail": "霸王茶姬 茶叶蛋"
       }
     ],
-    "6b0c5a96": [
+    "57b613f7": [
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "郑钦文实现千万分之一概率事件",
-        "detail": "郑钦文实现千万分之一概率事件"
+        "title": "22岁男子看望生病奶奶过桥时坠亡",
+        "detail": "22岁男子看望生病奶奶过桥时坠亡"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "郑钦文逆转震惊美网",
-        "detail": "郑钦文逆转震惊美网"
+        "title": "早春晴朗",
+        "detail": "早春晴朗"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "时代楷模王戟最想对年轻人说",
-        "detail": "时代楷模王戟最想对年轻人说"
+        "title": "王戟说与其内耗不如放手去干",
+        "detail": "王戟说与其内耗不如放手去干"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "小米18Fold首发评测",
-        "detail": "小米18Fold首发评测"
+        "title": "霸王茶姬 茶叶蛋",
+        "detail": "霸王茶姬 茶叶蛋"
       }
     ],
-    "79f4dd1c": [
+    "4dc13f60": [
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "时代楷模王戟最想对年轻人说",
-        "detail": "时代楷模王戟最想对年轻人说"
+        "title": "王戟说与其内耗不如放手去干",
+        "detail": "王戟说与其内耗不如放手去干"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "郑钦文逆转震惊美网",
-        "detail": "郑钦文逆转震惊美网"
+        "title": "早春晴朗",
+        "detail": "早春晴朗"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "郑钦文实现千万分之一概率事件",
-        "detail": "郑钦文实现千万分之一概率事件"
+        "title": "22岁男子看望生病奶奶过桥时坠亡",
+        "detail": "22岁男子看望生病奶奶过桥时坠亡"
       },
       {
-        "time": "08:11",
+        "time": "13:48",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "小米18Fold首发评测",
-        "detail": "小米18Fold首发评测"
+        "title": "霸王茶姬 茶叶蛋",
+        "detail": "霸王茶姬 茶叶蛋"
       }
     ]
   }
