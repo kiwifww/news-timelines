@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T12:30:39.750706+08:00",
+  "updatedAt": "2026-09-24T17:52:10.946745+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -229,232 +229,232 @@
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
       }
     ],
-    "43aaec07": [
+    "e2269545": [
       {
-        "time": "08:19",
+        "time": "16:20",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audi",
-        "detail": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。查看全文"
+        "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
+        "detail": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...查看全文本文为会员文章，出自《单"
       },
       {
-        "time": "17:02",
-        "timeLabel": "昨日",
+        "time": "15:06",
+        "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产",
-        "detail": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。查看全文"
+        "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
+        "detail": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
       },
       {
-        "time": "15:30",
-        "timeLabel": "昨日",
+        "time": "12:15",
+        "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "具透 | 新「环境」、新变化，visionOS 27 值得关",
-        "detail": "Apple于9月15日凌晨正式发布了iOS27、iPadOS27、macOS27GoldenGate和watchOS27、visionOS27等系统的正式版本。其中，visionOS27加入了Siri ...查看全文"
-      },
-      {
-        "time": "10:19",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "Here Wallpaper：把喜欢的地图做成壁纸",
-        "detail": "家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。查看全文"
-      }
-    ],
-    "f9c14400": [
-      {
-        "time": "17:02",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产",
-        "detail": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。查看全文"
+        "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
+        "detail": "站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」的创业实验，在随后的十年里，撞上了中国独特的社群生态与商业现"
       },
       {
         "time": "08:19",
         "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audi",
-        "detail": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。查看全文"
-      },
-      {
-        "time": "15:30",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "具透 | 新「环境」、新变化，visionOS 27 值得关",
-        "detail": "Apple于9月15日凌晨正式发布了iOS27、iPadOS27、macOS27GoldenGate和watchOS27、visionOS27等系统的正式版本。其中，visionOS27加入了Siri ...查看全文"
-      },
-      {
-        "time": "10:19",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "Here Wallpaper：把喜欢的地图做成壁纸",
-        "detail": "家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。查看全文"
+        "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audi",
+        "detail": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。查看全文"
       }
     ],
-    "860123b3": [
+    "1a06c852": [
       {
-        "time": "15:30",
-        "timeLabel": "昨日",
+        "time": "15:06",
+        "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "具透 | 新「环境」、新变化，visionOS 27 值得关",
-        "detail": "Apple于9月15日凌晨正式发布了iOS27、iPadOS27、macOS27GoldenGate和watchOS27、visionOS27等系统的正式版本。其中，visionOS27加入了Siri ...查看全文"
+        "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
+        "detail": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
+      },
+      {
+        "time": "16:20",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
+        "detail": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...查看全文本文为会员文章，出自《单"
+      },
+      {
+        "time": "12:15",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
+        "detail": "站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」的创业实验，在随后的十年里，撞上了中国独特的社群生态与商业现"
       },
       {
         "time": "08:19",
         "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
+        "type": "背景",
+        "typeColor": "#8a8794",
         "isLatest": false,
         "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audi",
         "detail": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。查看全文"
-      },
-      {
-        "time": "17:02",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产",
-        "detail": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。查看全文"
-      },
-      {
-        "time": "10:19",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "Here Wallpaper：把喜欢的地图做成壁纸",
-        "detail": "家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。查看全文"
       }
     ],
-    "a28534fa": [
+    "16dd129f": [
       {
-        "time": "12:30",
+        "time": "12:15",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "中美元首半年内实现国事互访",
-        "detail": "中美元首半年内实现国事互访"
+        "title": "古董电脑室十周年记：为什么我不再是收藏家（上）",
+        "detail": "站在十年的时间节点回望，2016 年知乎专栏「古董电脑室」的起点，其实并非一个怀旧的「博物馆」，而是一个试图在商业上寻找切口的「最小可行产品」（MVP）。然而，这场始于「市场验证」的创业实验，在随后的十年里，撞上了中国独特的社群生态与商业现"
       },
       {
-        "time": "12:30",
+        "time": "16:20",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "众星悼念游本昌",
-        "detail": "众星悼念游本昌"
+        "title": "家庭饮品 DIY 指南（五）：特调咖啡及其他饮品",
+        "detail": "往期文章：（一）工欲善其事，必先利其器（二）常用液体物料推荐（三）常用固体物料推荐（四）奶昔、柠檬和茶系列配方这一篇的配方主要是特调咖啡和其他类饮品，特调咖啡中的咖啡液按照固定比例萃取Espresso ...查看全文本文为会员文章，出自《单"
       },
       {
-        "time": "12:30",
+        "time": "15:06",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "卫星互联网低轨26组卫星成功发射",
-        "detail": "卫星互联网低轨26组卫星成功发射"
+        "title": "微软在游戏行业的早期试水：一段与梦工厂的「梦幻联动」",
+        "detail": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
       },
       {
-        "time": "12:30",
+        "time": "08:19",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "OPPOFindX10系列今日开售",
-        "detail": "OPPOFindX10系列今日开售"
+        "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audi",
+        "detail": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。查看全文"
       }
     ],
-    "f1ff261a": [
+    "4bdddd54": [
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "众星悼念游本昌",
-        "detail": "众星悼念游本昌"
+        "title": "中国人民和美国人民都是伟大的人民",
+        "detail": "中国人民和美国人民都是伟大的人民"
       },
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "中美元首半年内实现国事互访",
-        "detail": "中美元首半年内实现国事互访"
+        "title": "王楚钦vs松岛辉空",
+        "detail": "王楚钦vs松岛辉空"
       },
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "卫星互联网低轨26组卫星成功发射",
-        "detail": "卫星互联网低轨26组卫星成功发射"
+        "title": "美国青年读懂真实立体的中国",
+        "detail": "美国青年读懂真实立体的中国"
       },
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "OPPOFindX10系列今日开售",
-        "detail": "OPPOFindX10系列今日开售"
+        "title": "腾势Z9S上市",
+        "detail": "腾势Z9S上市"
       }
     ],
-    "c34b6217": [
+    "c1e8ae70": [
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "卫星互联网低轨26组卫星成功发射",
-        "detail": "卫星互联网低轨26组卫星成功发射"
+        "title": "王楚钦vs松岛辉空",
+        "detail": "王楚钦vs松岛辉空"
       },
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "中美元首半年内实现国事互访",
-        "detail": "中美元首半年内实现国事互访"
+        "title": "中国人民和美国人民都是伟大的人民",
+        "detail": "中国人民和美国人民都是伟大的人民"
       },
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "众星悼念游本昌",
-        "detail": "众星悼念游本昌"
+        "title": "美国青年读懂真实立体的中国",
+        "detail": "美国青年读懂真实立体的中国"
       },
       {
-        "time": "12:30",
+        "time": "17:52",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "OPPOFindX10系列今日开售",
-        "detail": "OPPOFindX10系列今日开售"
+        "title": "腾势Z9S上市",
+        "detail": "腾势Z9S上市"
+      }
+    ],
+    "8f58af55": [
+      {
+        "time": "17:52",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "美国青年读懂真实立体的中国",
+        "detail": "美国青年读懂真实立体的中国"
+      },
+      {
+        "time": "17:52",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "中国人民和美国人民都是伟大的人民",
+        "detail": "中国人民和美国人民都是伟大的人民"
+      },
+      {
+        "time": "17:52",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "王楚钦vs松岛辉空",
+        "detail": "王楚钦vs松岛辉空"
+      },
+      {
+        "time": "17:52",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "腾势Z9S上市",
+        "detail": "腾势Z9S上市"
       }
     ]
   }
