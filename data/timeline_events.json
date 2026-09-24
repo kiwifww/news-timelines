@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T07:34:33.093385+08:00",
+  "updatedAt": "2026-09-24T12:30:39.750706+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,13 +220,51 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
         "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础",
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
+      }
+    ],
+    "43aaec07": [
+      {
+        "time": "08:19",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audi",
+        "detail": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。查看全文"
+      },
+      {
+        "time": "17:02",
+        "timeLabel": "昨日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产",
+        "detail": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。查看全文"
+      },
+      {
+        "time": "15:30",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "具透 | 新「环境」、新变化，visionOS 27 值得关",
+        "detail": "Apple于9月15日凌晨正式发布了iOS27、iPadOS27、macOS27GoldenGate和watchOS27、visionOS27等系统的正式版本。其中，visionOS27加入了Siri ...查看全文"
+      },
+      {
+        "time": "10:19",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "Here Wallpaper：把喜欢的地图做成壁纸",
+        "detail": "家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。查看全文"
       }
     ],
     "f9c14400": [
@@ -240,10 +278,19 @@
         "detail": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。查看全文"
       },
       {
-        "time": "15:30",
-        "timeLabel": "昨日",
+        "time": "08:19",
+        "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audi",
+        "detail": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。查看全文"
+      },
+      {
+        "time": "15:30",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "具透 | 新「环境」、新变化，visionOS 27 值得关",
         "detail": "Apple于9月15日凌晨正式发布了iOS27、iPadOS27、macOS27GoldenGate和watchOS27、visionOS27等系统的正式版本。其中，visionOS27加入了Siri ...查看全文"
@@ -251,20 +298,11 @@
       {
         "time": "10:19",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "Here Wallpaper：把喜欢的地图做成壁纸",
-        "detail": "家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。查看全文"
-      },
-      {
-        "time": "07:30",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "派早报：OPPO Find X10 系列发布、Beats 3",
-        "detail": "高通发布两款第六代骁龙 8 旗舰芯片，Claude Opus 5.5 与 GPT-6 Sol/Luna 发布等。查看全文"
+        "title": "Here Wallpaper：把喜欢的地图做成壁纸",
+        "detail": "家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。查看全文"
       }
     ],
     "860123b3": [
@@ -278,10 +316,19 @@
         "detail": "Apple于9月15日凌晨正式发布了iOS27、iPadOS27、macOS27GoldenGate和watchOS27、visionOS27等系统的正式版本。其中，visionOS27加入了Siri ...查看全文"
       },
       {
-        "time": "17:02",
-        "timeLabel": "昨日",
+        "time": "08:19",
+        "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "派早报：小米召开秋季新品发布会、千问发布 Qwen-Audi",
+        "detail": "Amazfit 推出智能手表 T-Rex Dual Solar、雷蛇推出灰鲭鲨 X 游戏音箱等。查看全文"
+      },
+      {
+        "time": "17:02",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产",
         "detail": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。查看全文"
@@ -289,63 +336,16 @@
       {
         "time": "10:19",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "Here Wallpaper：把喜欢的地图做成壁纸",
-        "detail": "家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。查看全文"
-      },
-      {
-        "time": "07:30",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "派早报：OPPO Find X10 系列发布、Beats 3",
-        "detail": "高通发布两款第六代骁龙 8 旗舰芯片，Claude Opus 5.5 与 GPT-6 Sol/Luna 发布等。查看全文"
-      }
-    ],
-    "20aa3372": [
-      {
-        "time": "10:19",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
         "title": "Here Wallpaper：把喜欢的地图做成壁纸",
         "detail": "家附近的街道、旅行时喜欢上的一座城市、或者喜欢的海岸线和岛屿，都可以拿来做壁纸。查看全文"
-      },
-      {
-        "time": "17:02",
-        "timeLabel": "昨日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "社区速递 159 | 便携卡片充电器与库克十五年改变生活的产",
-        "detail": "除了首页时间流和侧栏的精选展位，少数派 Matrix 社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启 Matrix 周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。查看全文"
-      },
-      {
-        "time": "15:30",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "具透 | 新「环境」、新变化，visionOS 27 值得关",
-        "detail": "Apple于9月15日凌晨正式发布了iOS27、iPadOS27、macOS27GoldenGate和watchOS27、visionOS27等系统的正式版本。其中，visionOS27加入了Siri ...查看全文"
-      },
-      {
-        "time": "07:30",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "派早报：OPPO Find X10 系列发布、Beats 3",
-        "detail": "高通发布两款第六代骁龙 8 旗舰芯片，Claude Opus 5.5 与 GPT-6 Sol/Luna 发布等。查看全文"
       }
     ],
     "a28534fa": [
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -354,45 +354,45 @@
         "detail": "中美元首半年内实现国事互访"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "中美元首华盛顿会晤",
-        "detail": "中美元首华盛顿会晤"
+        "title": "众星悼念游本昌",
+        "detail": "众星悼念游本昌"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "一张物流网跑出中国加速度",
-        "detail": "一张物流网跑出中国加速度"
+        "title": "卫星互联网低轨26组卫星成功发射",
+        "detail": "卫星互联网低轨26组卫星成功发射"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "腾势Z9S上市",
-        "detail": "腾势Z9S上市"
+        "title": "OPPOFindX10系列今日开售",
+        "detail": "OPPOFindX10系列今日开售"
       }
     ],
-    "d7799ead": [
+    "f1ff261a": [
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "中美元首华盛顿会晤",
-        "detail": "中美元首华盛顿会晤"
+        "title": "众星悼念游本昌",
+        "detail": "众星悼念游本昌"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -401,36 +401,36 @@
         "detail": "中美元首半年内实现国事互访"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "一张物流网跑出中国加速度",
-        "detail": "一张物流网跑出中国加速度"
+        "title": "卫星互联网低轨26组卫星成功发射",
+        "detail": "卫星互联网低轨26组卫星成功发射"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "腾势Z9S上市",
-        "detail": "腾势Z9S上市"
+        "title": "OPPOFindX10系列今日开售",
+        "detail": "OPPOFindX10系列今日开售"
       }
     ],
-    "b6a41415": [
+    "c34b6217": [
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "一张物流网跑出中国加速度",
-        "detail": "一张物流网跑出中国加速度"
+        "title": "卫星互联网低轨26组卫星成功发射",
+        "detail": "卫星互联网低轨26组卫星成功发射"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -439,22 +439,22 @@
         "detail": "中美元首半年内实现国事互访"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "中美元首华盛顿会晤",
-        "detail": "中美元首华盛顿会晤"
+        "title": "众星悼念游本昌",
+        "detail": "众星悼念游本昌"
       },
       {
-        "time": "07:34",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "腾势Z9S上市",
-        "detail": "腾势Z9S上市"
+        "title": "OPPOFindX10系列今日开售",
+        "detail": "OPPOFindX10系列今日开售"
       }
     ]
   }
