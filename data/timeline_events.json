@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T12:39:23.421047+08:00",
+  "updatedAt": "2026-10-14T18:02:25.730235+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -229,232 +229,232 @@
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
       }
     ],
-    "57ace952": [
+    "5f011449": [
       {
-        "time": "10:00",
+        "time": "15:00",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个",
-        "detail": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文"
+        "title": "带给摄影师更多自由：Austin Mann 评 iPhone",
+        "detail": "这些新技术将如何让我们的照片和视频更好？查看全文"
       },
       {
-        "time": "08:40",
+        "time": "12:10",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "派早报：Apple 发布 HomePod mini 2、Ho",
-        "detail": "Apple Watch 在中国大陆推出睡眠呼吸暂停迹象提示功能、Google 发布 Gemini 4 Argon 等。查看全文"
+        "title": "家中、这里、那里——Sonos Play 体验",
+        "detail": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...查看全文"
       },
       {
-        "time": "17:00",
-        "timeLabel": "昨日",
+        "time": "11:57",
+        "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机",
-        "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
-      },
-      {
-        "time": "15:00",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的",
-        "detail": "在2018、2019年左右的少数派，大家曾有一段时间痴迷于折腾各种任务管理软件，我也是其中之一。经过这么多年，我尝试过世面上几乎所有知名的任务管理工具，从小而美的Things、Sorted到大而全的O ...查看全文"
-      }
-    ],
-    "26808579": [
-      {
-        "time": "08:40",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "派早报：Apple 发布 HomePod mini 2、Ho",
-        "detail": "Apple Watch 在中国大陆推出睡眠呼吸暂停迹象提示功能、Google 发布 Gemini 4 Argon 等。查看全文"
+        "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam U",
+        "detail": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...查看全文"
       },
       {
         "time": "10:00",
         "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个",
-        "detail": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文"
-      },
-      {
-        "time": "17:00",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机",
-        "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
-      },
-      {
-        "time": "15:00",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的",
-        "detail": "在2018、2019年左右的少数派，大家曾有一段时间痴迷于折腾各种任务管理软件，我也是其中之一。经过这么多年，我尝试过世面上几乎所有知名的任务管理工具，从小而美的Things、Sorted到大而全的O ...查看全文"
+        "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个",
+        "detail": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文"
       }
     ],
-    "58cb66a4": [
+    "3652b812": [
       {
-        "time": "17:00",
-        "timeLabel": "昨日",
+        "time": "12:10",
+        "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机",
-        "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
+        "title": "家中、这里、那里——Sonos Play 体验",
+        "detail": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...查看全文"
+      },
+      {
+        "time": "15:00",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "带给摄影师更多自由：Austin Mann 评 iPhone",
+        "detail": "这些新技术将如何让我们的照片和视频更好？查看全文"
+      },
+      {
+        "time": "11:57",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam U",
+        "detail": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...查看全文"
       },
       {
         "time": "10:00",
         "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
+        "type": "背景",
+        "typeColor": "#8a8794",
         "isLatest": false,
         "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个",
         "detail": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文"
-      },
+      }
+    ],
+    "85418b49": [
       {
-        "time": "08:40",
+        "time": "11:57",
         "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派早报：Apple 发布 HomePod mini 2、Ho",
-        "detail": "Apple Watch 在中国大陆推出睡眠呼吸暂停迹象提示功能、Google 发布 Gemini 4 Argon 等。查看全文"
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam U",
+        "detail": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...查看全文"
       },
       {
         "time": "15:00",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的",
-        "detail": "在2018、2019年左右的少数派，大家曾有一段时间痴迷于折腾各种任务管理软件，我也是其中之一。经过这么多年，我尝试过世面上几乎所有知名的任务管理工具，从小而美的Things、Sorted到大而全的O ...查看全文"
-      }
-    ],
-    "6aa1934b": [
-      {
-        "time": "12:39",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "熬夜对人最直观的影响",
-        "detail": "熬夜对人最直观的影响"
-      },
-      {
-        "time": "12:39",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "腾讯打算拿什么撬动红果近2亿日活",
-        "detail": "腾讯打算拿什么撬动红果近2亿日活"
+        "title": "带给摄影师更多自由：Austin Mann 评 iPhone",
+        "detail": "这些新技术将如何让我们的照片和视频更好？查看全文"
       },
       {
-        "time": "12:39",
+        "time": "12:10",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "红星照耀中国",
-        "detail": "红星照耀中国"
+        "title": "家中、这里、那里——Sonos Play 体验",
+        "detail": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...查看全文"
       },
       {
-        "time": "12:39",
+        "time": "10:00",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "拼多多双11美妆尖货节不用蹲机制",
-        "detail": "拼多多双11美妆尖货节不用蹲机制"
+        "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个",
+        "detail": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文"
       }
     ],
-    "bad69afd": [
+    "28f73f8e": [
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "腾讯打算拿什么撬动红果近2亿日活",
-        "detail": "腾讯打算拿什么撬动红果近2亿日活"
+        "title": "原来这才是正确的消费观",
+        "detail": "原来这才是正确的消费观"
       },
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "熬夜对人最直观的影响",
-        "detail": "熬夜对人最直观的影响"
+        "title": "霸王茶姬格局",
+        "detail": "霸王茶姬格局"
       },
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "红星照耀中国",
-        "detail": "红星照耀中国"
+        "title": "前三季度我国外贸增长18.8%",
+        "detail": "前三季度我国外贸增长18.8%"
       },
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "拼多多双11美妆尖货节不用蹲机制",
-        "detail": "拼多多双11美妆尖货节不用蹲机制"
+        "title": "徐良能抢到肖战的票吗",
+        "detail": "徐良能抢到肖战的票吗"
       }
     ],
-    "3d27ff94": [
+    "604e91d9": [
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "红星照耀中国",
-        "detail": "红星照耀中国"
+        "title": "霸王茶姬格局",
+        "detail": "霸王茶姬格局"
       },
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "熬夜对人最直观的影响",
-        "detail": "熬夜对人最直观的影响"
+        "title": "原来这才是正确的消费观",
+        "detail": "原来这才是正确的消费观"
       },
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "腾讯打算拿什么撬动红果近2亿日活",
-        "detail": "腾讯打算拿什么撬动红果近2亿日活"
+        "title": "前三季度我国外贸增长18.8%",
+        "detail": "前三季度我国外贸增长18.8%"
       },
       {
-        "time": "12:39",
+        "time": "18:02",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "拼多多双11美妆尖货节不用蹲机制",
-        "detail": "拼多多双11美妆尖货节不用蹲机制"
+        "title": "徐良能抢到肖战的票吗",
+        "detail": "徐良能抢到肖战的票吗"
+      }
+    ],
+    "4a7dc7d8": [
+      {
+        "time": "18:02",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "前三季度我国外贸增长18.8%",
+        "detail": "前三季度我国外贸增长18.8%"
+      },
+      {
+        "time": "18:02",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "原来这才是正确的消费观",
+        "detail": "原来这才是正确的消费观"
+      },
+      {
+        "time": "18:02",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "霸王茶姬格局",
+        "detail": "霸王茶姬格局"
+      },
+      {
+        "time": "18:02",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "徐良能抢到肖战的票吗",
+        "detail": "徐良能抢到肖战的票吗"
       }
     ]
   }
