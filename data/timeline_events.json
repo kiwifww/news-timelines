@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T18:02:25.730235+08:00",
+  "updatedAt": "2026-10-14T23:47:00.083927+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,13 +220,51 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
         "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础",
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
+      }
+    ],
+    "f839d7fb": [
+      {
+        "time": "17:33",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "认知心理学背后的播客剪辑技巧",
+        "detail": "为什么剪辑时会时常出现爆音？为什么有些地方剪辑后意思接得上，听起来却觉得别扭？为什么有些地方稍微动一下就会不自然？查看全文"
+      },
+      {
+        "time": "15:00",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "带给摄影师更多自由：Austin Mann 评 iPhone",
+        "detail": "这些新技术将如何让我们的照片和视频更好？查看全文"
+      },
+      {
+        "time": "12:10",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "家中、这里、那里——Sonos Play 体验",
+        "detail": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...查看全文"
+      },
+      {
+        "time": "11:57",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam U",
+        "detail": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...查看全文"
       }
     ],
     "5f011449": [
@@ -240,10 +278,19 @@
         "detail": "这些新技术将如何让我们的照片和视频更好？查看全文"
       },
       {
-        "time": "12:10",
+        "time": "17:33",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "认知心理学背后的播客剪辑技巧",
+        "detail": "为什么剪辑时会时常出现爆音？为什么有些地方剪辑后意思接得上，听起来却觉得别扭？为什么有些地方稍微动一下就会不自然？查看全文"
+      },
+      {
+        "time": "12:10",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "家中、这里、那里——Sonos Play 体验",
         "detail": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...查看全文"
@@ -251,20 +298,11 @@
       {
         "time": "11:57",
         "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam U",
-        "detail": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...查看全文"
-      },
-      {
-        "time": "10:00",
-        "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个",
-        "detail": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文"
+        "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam U",
+        "detail": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...查看全文"
       }
     ],
     "3652b812": [
@@ -278,10 +316,19 @@
         "detail": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...查看全文"
       },
       {
-        "time": "15:00",
+        "time": "17:33",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "认知心理学背后的播客剪辑技巧",
+        "detail": "为什么剪辑时会时常出现爆音？为什么有些地方剪辑后意思接得上，听起来却觉得别扭？为什么有些地方稍微动一下就会不自然？查看全文"
+      },
+      {
+        "time": "15:00",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "带给摄影师更多自由：Austin Mann 评 iPhone",
         "detail": "这些新技术将如何让我们的照片和视频更好？查看全文"
@@ -289,172 +336,125 @@
       {
         "time": "11:57",
         "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
+        "type": "背景",
+        "typeColor": "#8a8794",
         "isLatest": false,
         "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam U",
         "detail": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...查看全文"
-      },
-      {
-        "time": "10:00",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个",
-        "detail": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文"
       }
     ],
-    "85418b49": [
+    "7d02a106": [
       {
-        "time": "11:57",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "众测招募 | 从客厅到耳畔，Sonos 双新品 Beam U",
-        "detail": "上一轮SonosPlay众测结果已经出来了，恭喜这三位作者！最佳体验官：mivansaka：家中、这里、那里——SonosPlay体验；优秀体验官：带电的泡芙：SonosPlay深度体验：音质喜人，功 ...查看全文"
+        "title": "入职第一天因截图社死",
+        "detail": "入职第一天因截图社死"
       },
       {
-        "time": "15:00",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "带给摄影师更多自由：Austin Mann 评 iPhone",
-        "detail": "这些新技术将如何让我们的照片和视频更好？查看全文"
+        "title": "好一个乖乖女热度登顶",
+        "detail": "好一个乖乖女热度登顶"
       },
       {
-        "time": "12:10",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "家中、这里、那里——Sonos Play 体验",
-        "detail": "本文是少数派联合Sonos发起的SonosPlay众测活动「最佳体验官」奖项获奖文章，奖品为免费保留两台送测的SonosPlay。你可以从众测话题页看到其他参与者的作品。目前，Sonos众测活动第二期 ...查看全文"
+        "title": "全国秋粮收获进入高峰期",
+        "detail": "全国秋粮收获进入高峰期"
       },
       {
-        "time": "10:00",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个",
-        "detail": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文"
+        "title": "全新捷途旅行者7全球上市",
+        "detail": "全新捷途旅行者7全球上市"
       }
     ],
-    "28f73f8e": [
+    "04719bf2": [
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "原来这才是正确的消费观",
-        "detail": "原来这才是正确的消费观"
+        "title": "好一个乖乖女热度登顶",
+        "detail": "好一个乖乖女热度登顶"
       },
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "霸王茶姬格局",
-        "detail": "霸王茶姬格局"
+        "title": "入职第一天因截图社死",
+        "detail": "入职第一天因截图社死"
       },
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "前三季度我国外贸增长18.8%",
-        "detail": "前三季度我国外贸增长18.8%"
+        "title": "全国秋粮收获进入高峰期",
+        "detail": "全国秋粮收获进入高峰期"
       },
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "徐良能抢到肖战的票吗",
-        "detail": "徐良能抢到肖战的票吗"
+        "title": "全新捷途旅行者7全球上市",
+        "detail": "全新捷途旅行者7全球上市"
       }
     ],
-    "604e91d9": [
+    "e0a53657": [
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "霸王茶姬格局",
-        "detail": "霸王茶姬格局"
+        "title": "全国秋粮收获进入高峰期",
+        "detail": "全国秋粮收获进入高峰期"
       },
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "原来这才是正确的消费观",
-        "detail": "原来这才是正确的消费观"
+        "title": "入职第一天因截图社死",
+        "detail": "入职第一天因截图社死"
       },
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "前三季度我国外贸增长18.8%",
-        "detail": "前三季度我国外贸增长18.8%"
+        "title": "好一个乖乖女热度登顶",
+        "detail": "好一个乖乖女热度登顶"
       },
       {
-        "time": "18:02",
+        "time": "23:46",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "徐良能抢到肖战的票吗",
-        "detail": "徐良能抢到肖战的票吗"
-      }
-    ],
-    "4a7dc7d8": [
-      {
-        "time": "18:02",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "前三季度我国外贸增长18.8%",
-        "detail": "前三季度我国外贸增长18.8%"
-      },
-      {
-        "time": "18:02",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "原来这才是正确的消费观",
-        "detail": "原来这才是正确的消费观"
-      },
-      {
-        "time": "18:02",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "霸王茶姬格局",
-        "detail": "霸王茶姬格局"
-      },
-      {
-        "time": "18:02",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "徐良能抢到肖战的票吗",
-        "detail": "徐良能抢到肖战的票吗"
+        "title": "全新捷途旅行者7全球上市",
+        "detail": "全新捷途旅行者7全球上市"
       }
     ]
   }
