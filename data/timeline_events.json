@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T07:14:43.169550+08:00",
+  "updatedAt": "2026-10-14T12:39:23.421047+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,13 +220,89 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
         "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础",
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
+      }
+    ],
+    "57ace952": [
+      {
+        "time": "10:00",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个",
+        "detail": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文"
+      },
+      {
+        "time": "08:40",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "派早报：Apple 发布 HomePod mini 2、Ho",
+        "detail": "Apple Watch 在中国大陆推出睡眠呼吸暂停迹象提示功能、Google 发布 Gemini 4 Argon 等。查看全文"
+      },
+      {
+        "time": "17:00",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机",
+        "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
+      },
+      {
+        "time": "15:00",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的",
+        "detail": "在2018、2019年左右的少数派，大家曾有一段时间痴迷于折腾各种任务管理软件，我也是其中之一。经过这么多年，我尝试过世面上几乎所有知名的任务管理工具，从小而美的Things、Sorted到大而全的O ...查看全文"
+      }
+    ],
+    "26808579": [
+      {
+        "time": "08:40",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "派早报：Apple 发布 HomePod mini 2、Ho",
+        "detail": "Apple Watch 在中国大陆推出睡眠呼吸暂停迹象提示功能、Google 发布 Gemini 4 Argon 等。查看全文"
+      },
+      {
+        "time": "10:00",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个",
+        "detail": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文"
+      },
+      {
+        "time": "17:00",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机",
+        "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
+      },
+      {
+        "time": "15:00",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的",
+        "detail": "在2018、2019年左右的少数派，大家曾有一段时间痴迷于折腾各种任务管理软件，我也是其中之一。经过这么多年，我尝试过世面上几乎所有知名的任务管理工具，从小而美的Things、Sorted到大而全的O ...查看全文"
       }
     ],
     "58cb66a4": [
@@ -240,139 +316,63 @@
         "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
       },
       {
-        "time": "15:00",
-        "timeLabel": "昨日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的",
-        "detail": "在2018、2019年左右的少数派，大家曾有一段时间痴迷于折腾各种任务管理软件，我也是其中之一。经过这么多年，我尝试过世面上几乎所有知名的任务管理工具，从小而美的Things、Sorted到大而全的O ...查看全文"
-      },
-      {
-        "time": "11:30",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
-        "detail": "为成熟的开发者、设计师和创业者，提供一片走向广阔商业市场的沃土。查看全文"
-      },
-      {
-        "time": "11:09",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "高端，不只是材质而已：Apple Watch Edition",
-        "detail": "Apple Watch Edition 留下来的，不是一种材料，而是一套做材料的方式。查看全文"
-      }
-    ],
-    "3895f480": [
-      {
-        "time": "15:00",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的",
-        "detail": "在2018、2019年左右的少数派，大家曾有一段时间痴迷于折腾各种任务管理软件，我也是其中之一。经过这么多年，我尝试过世面上几乎所有知名的任务管理工具，从小而美的Things、Sorted到大而全的O ...查看全文"
-      },
-      {
-        "time": "17:00",
-        "timeLabel": "昨日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机",
-        "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
-      },
-      {
-        "time": "11:30",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
-        "detail": "为成熟的开发者、设计师和创业者，提供一片走向广阔商业市场的沃土。查看全文"
-      },
-      {
-        "time": "11:09",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "高端，不只是材质而已：Apple Watch Edition",
-        "detail": "Apple Watch Edition 留下来的，不是一种材料，而是一套做材料的方式。查看全文"
-      }
-    ],
-    "795b4402": [
-      {
-        "time": "11:30",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "迈上生态新台阶，首期 Apple 应用孵化器顺利收官",
-        "detail": "为成熟的开发者、设计师和创业者，提供一片走向广阔商业市场的沃土。查看全文"
-      },
-      {
-        "time": "17:00",
-        "timeLabel": "昨日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "社区速递 161 | 小米手表 S5、EVA 联名香水与换机",
-        "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
-      },
-      {
-        "time": "15:00",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的",
-        "detail": "在2018、2019年左右的少数派，大家曾有一段时间痴迷于折腾各种任务管理软件，我也是其中之一。经过这么多年，我尝试过世面上几乎所有知名的任务管理工具，从小而美的Things、Sorted到大而全的O ...查看全文"
-      },
-      {
-        "time": "11:09",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "高端，不只是材质而已：Apple Watch Edition",
-        "detail": "Apple Watch Edition 留下来的，不是一种材料，而是一套做材料的方式。查看全文"
-      }
-    ],
-    "dbecb445": [
-      {
-        "time": "07:14",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "红果短剧千万别下载",
-        "detail": "红果短剧千万别下载"
-      },
-      {
-        "time": "07:14",
+        "time": "10:00",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "女子高铁上和男友开免提打1小时电话",
-        "detail": "女子高铁上和男友开免提打1小时电话"
+        "title": "已经能测夜间体征的 Apple Watch，为什么要再做一个",
+        "detail": "Apple Watch 打算让更多人意识到睡眠呼吸暂停的威胁，它是怎么做到的？查看全文"
       },
       {
-        "time": "07:14",
+        "time": "08:40",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "永不褪色的红飘带",
-        "detail": "永不褪色的红飘带"
+        "title": "派早报：Apple 发布 HomePod mini 2、Ho",
+        "detail": "Apple Watch 在中国大陆推出睡眠呼吸暂停迹象提示功能、Google 发布 Gemini 4 Argon 等。查看全文"
       },
       {
-        "time": "07:14",
+        "time": "15:00",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "App+1 | 我做了一个专为「P 人」和 ADHD 设计的",
+        "detail": "在2018、2019年左右的少数派，大家曾有一段时间痴迷于折腾各种任务管理软件，我也是其中之一。经过这么多年，我尝试过世面上几乎所有知名的任务管理工具，从小而美的Things、Sorted到大而全的O ...查看全文"
+      }
+    ],
+    "6aa1934b": [
+      {
+        "time": "12:39",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "熬夜对人最直观的影响",
+        "detail": "熬夜对人最直观的影响"
+      },
+      {
+        "time": "12:39",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "腾讯打算拿什么撬动红果近2亿日活",
+        "detail": "腾讯打算拿什么撬动红果近2亿日活"
+      },
+      {
+        "time": "12:39",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "红星照耀中国",
+        "detail": "红星照耀中国"
+      },
+      {
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -381,36 +381,36 @@
         "detail": "拼多多双11美妆尖货节不用蹲机制"
       }
     ],
-    "ff411cbe": [
+    "bad69afd": [
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "女子高铁上和男友开免提打1小时电话",
-        "detail": "女子高铁上和男友开免提打1小时电话"
+        "title": "腾讯打算拿什么撬动红果近2亿日活",
+        "detail": "腾讯打算拿什么撬动红果近2亿日活"
       },
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "红果短剧千万别下载",
-        "detail": "红果短剧千万别下载"
+        "title": "熬夜对人最直观的影响",
+        "detail": "熬夜对人最直观的影响"
       },
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "永不褪色的红飘带",
-        "detail": "永不褪色的红飘带"
+        "title": "红星照耀中国",
+        "detail": "红星照耀中国"
       },
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -419,36 +419,36 @@
         "detail": "拼多多双11美妆尖货节不用蹲机制"
       }
     ],
-    "58bc7155": [
+    "3d27ff94": [
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "永不褪色的红飘带",
-        "detail": "永不褪色的红飘带"
+        "title": "红星照耀中国",
+        "detail": "红星照耀中国"
       },
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "红果短剧千万别下载",
-        "detail": "红果短剧千万别下载"
+        "title": "熬夜对人最直观的影响",
+        "detail": "熬夜对人最直观的影响"
       },
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "女子高铁上和男友开免提打1小时电话",
-        "detail": "女子高铁上和男友开免提打1小时电话"
+        "title": "腾讯打算拿什么撬动红果近2亿日活",
+        "detail": "腾讯打算拿什么撬动红果近2亿日活"
       },
       {
-        "time": "07:14",
+        "time": "12:39",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
