@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T12:27:18.246804+08:00",
+  "updatedAt": "2026-10-21T17:59:54.191126+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,13 +220,51 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
         "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础",
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
+      }
+    ],
+    "9b4dd496": [
+      {
+        "time": "15:00",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "App+1｜Vitals：什么在拖慢你的 Mac？它比「活动",
+        "detail": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文"
+      },
+      {
+        "time": "10:23",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关",
+        "detail": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。查看全文"
+      },
+      {
+        "time": "08:07",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「",
+        "detail": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。查看全文"
+      },
+      {
+        "time": "18:01",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改",
+        "detail": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...查看全文本文为会员文章，出自《单"
       }
     ],
     "0bc736a5": [
@@ -240,10 +278,19 @@
         "detail": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。查看全文"
       },
       {
-        "time": "08:07",
+        "time": "15:00",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "App+1｜Vitals：什么在拖慢你的 Mac？它比「活动",
+        "detail": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文"
+      },
+      {
+        "time": "08:07",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「",
         "detail": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。查看全文"
@@ -251,20 +298,11 @@
       {
         "time": "18:01",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改",
-        "detail": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...查看全文本文为会员文章，出自《单"
-      },
-      {
-        "time": "17:30",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "TDS REVIEW｜vivo Buds Clip 耳夹式无",
-        "detail": "在 TWS 5 系列获得我们不错评价之后，Buds Clip 能否延续他们「来得晚但完成度更高」的特点呢？查看全文"
+        "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改",
+        "detail": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...查看全文本文为会员文章，出自《单"
       }
     ],
     "56c3519b": [
@@ -278,10 +316,19 @@
         "detail": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。查看全文"
       },
       {
-        "time": "10:23",
+        "time": "15:00",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "App+1｜Vitals：什么在拖慢你的 Mac？它比「活动",
+        "detail": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文"
+      },
+      {
+        "time": "10:23",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关",
         "detail": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。查看全文"
@@ -289,172 +336,125 @@
       {
         "time": "18:01",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
+        "type": "背景",
+        "typeColor": "#8a8794",
         "isLatest": false,
         "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改",
         "detail": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...查看全文本文为会员文章，出自《单"
-      },
-      {
-        "time": "17:30",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "TDS REVIEW｜vivo Buds Clip 耳夹式无",
-        "detail": "在 TWS 5 系列获得我们不错评价之后，Buds Clip 能否延续他们「来得晚但完成度更高」的特点呢？查看全文"
       }
     ],
-    "ae6a5f53": [
+    "67009302": [
       {
-        "time": "18:01",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改",
-        "detail": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...查看全文本文为会员文章，出自《单"
-      },
-      {
-        "time": "10:23",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关",
-        "detail": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。查看全文"
-      },
-      {
-        "time": "08:07",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「",
-        "detail": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。查看全文"
-      },
-      {
-        "time": "17:30",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "TDS REVIEW｜vivo Buds Clip 耳夹式无",
-        "detail": "在 TWS 5 系列获得我们不错评价之后，Buds Clip 能否延续他们「来得晚但完成度更高」的特点呢？查看全文"
-      }
-    ],
-    "dc834794": [
-      {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "宝马员工争着离职挤崩系统",
-        "detail": "宝马员工争着离职挤崩系统"
+        "title": "芭莎盛典红毯",
+        "detail": "芭莎盛典红毯"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "拟出台的中国AI禁令震动全球",
-        "detail": "拟出台的中国AI禁令震动全球"
+        "title": "警方称问界汽车事故司机已遇难",
+        "detail": "警方称问界汽车事故司机已遇难"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "一组数字看震撼人心的伟大远征",
-        "detail": "一组数字看震撼人心的伟大远征"
+        "title": "APEC在湾区",
+        "detail": "APEC在湾区"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "科普好视频",
-        "detail": "科普好视频"
+        "title": "去天气通看降温排班表",
+        "detail": "去天气通看降温排班表"
       }
     ],
-    "cdbbb20d": [
+    "1b9aba76": [
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "拟出台的中国AI禁令震动全球",
-        "detail": "拟出台的中国AI禁令震动全球"
+        "title": "警方称问界汽车事故司机已遇难",
+        "detail": "警方称问界汽车事故司机已遇难"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "宝马员工争着离职挤崩系统",
-        "detail": "宝马员工争着离职挤崩系统"
+        "title": "芭莎盛典红毯",
+        "detail": "芭莎盛典红毯"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "一组数字看震撼人心的伟大远征",
-        "detail": "一组数字看震撼人心的伟大远征"
+        "title": "APEC在湾区",
+        "detail": "APEC在湾区"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "科普好视频",
-        "detail": "科普好视频"
+        "title": "去天气通看降温排班表",
+        "detail": "去天气通看降温排班表"
       }
     ],
-    "1c4b102b": [
+    "010ac978": [
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "一组数字看震撼人心的伟大远征",
-        "detail": "一组数字看震撼人心的伟大远征"
+        "title": "APEC在湾区",
+        "detail": "APEC在湾区"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "宝马员工争着离职挤崩系统",
-        "detail": "宝马员工争着离职挤崩系统"
+        "title": "芭莎盛典红毯",
+        "detail": "芭莎盛典红毯"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "拟出台的中国AI禁令震动全球",
-        "detail": "拟出台的中国AI禁令震动全球"
+        "title": "警方称问界汽车事故司机已遇难",
+        "detail": "警方称问界汽车事故司机已遇难"
       },
       {
-        "time": "12:27",
+        "time": "17:59",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "科普好视频",
-        "detail": "科普好视频"
+        "title": "去天气通看降温排班表",
+        "detail": "去天气通看降温排班表"
       }
     ]
   }
