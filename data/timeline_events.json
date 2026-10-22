@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T07:58:11.846265+08:00",
+  "updatedAt": "2026-10-22T12:30:21.430151+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,13 +220,51 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
         "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础",
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
+      }
+    ],
+    "09d6655e": [
+      {
+        "time": "08:29",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 T",
+        "detail": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。查看全文"
+      },
+      {
+        "time": "17:00",
+        "timeLabel": "昨日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长",
+        "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
+      },
+      {
+        "time": "15:00",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直",
+        "detail": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文"
+      },
+      {
+        "time": "10:23",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关",
+        "detail": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。查看全文"
       }
     ],
     "7b34630b": [
@@ -240,10 +278,19 @@
         "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
       },
       {
-        "time": "15:00",
-        "timeLabel": "昨日",
+        "time": "08:29",
+        "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 T",
+        "detail": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。查看全文"
+      },
+      {
+        "time": "15:00",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直",
         "detail": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文"
@@ -251,20 +298,11 @@
       {
         "time": "10:23",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关",
-        "detail": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。查看全文"
-      },
-      {
-        "time": "08:07",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「",
-        "detail": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。查看全文"
+        "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关",
+        "detail": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。查看全文"
       }
     ],
     "b8cf3e42": [
@@ -278,10 +316,19 @@
         "detail": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文"
       },
       {
-        "time": "17:00",
-        "timeLabel": "昨日",
+        "time": "08:29",
+        "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 T",
+        "detail": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。查看全文"
+      },
+      {
+        "time": "17:00",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长",
         "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
@@ -289,172 +336,125 @@
       {
         "time": "10:23",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
+        "type": "背景",
+        "typeColor": "#8a8794",
         "isLatest": false,
         "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关",
         "detail": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。查看全文"
-      },
-      {
-        "time": "08:07",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「",
-        "detail": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。查看全文"
       }
     ],
-    "0bc736a5": [
+    "99c01949": [
       {
-        "time": "10:23",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关",
-        "detail": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。查看全文"
-      },
-      {
-        "time": "17:00",
-        "timeLabel": "昨日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长",
-        "detail": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
-      },
-      {
-        "time": "15:00",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直",
-        "detail": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文"
-      },
-      {
-        "time": "08:07",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「",
-        "detail": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。查看全文"
-      }
-    ],
-    "27331dfd": [
-      {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "中国体操女团时隔20年夺冠",
-        "detail": "中国体操女团时隔20年夺冠"
+        "title": "iPhoneDuo微信不适配",
+        "detail": "iPhoneDuo微信不适配"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "红果短剧自砍摇钱树",
-        "detail": "红果短剧自砍摇钱树"
+        "title": "君黛喝毒酒下线",
+        "detail": "君黛喝毒酒下线"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "这台世界顶尖大科学装置首次出光",
-        "detail": "这台世界顶尖大科学装置首次出光"
+        "title": "走好属于我们这一代的长征路",
+        "detail": "走好属于我们这一代的长征路"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "北汽星钽5X预售价13.99万元起",
-        "detail": "北汽星钽5X预售价13.99万元起"
+        "title": "象往的开封之旅",
+        "detail": "象往的开封之旅"
       }
     ],
-    "7e0a46e4": [
+    "86239e97": [
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "红果短剧自砍摇钱树",
-        "detail": "红果短剧自砍摇钱树"
+        "title": "君黛喝毒酒下线",
+        "detail": "君黛喝毒酒下线"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "中国体操女团时隔20年夺冠",
-        "detail": "中国体操女团时隔20年夺冠"
+        "title": "iPhoneDuo微信不适配",
+        "detail": "iPhoneDuo微信不适配"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "这台世界顶尖大科学装置首次出光",
-        "detail": "这台世界顶尖大科学装置首次出光"
+        "title": "走好属于我们这一代的长征路",
+        "detail": "走好属于我们这一代的长征路"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "北汽星钽5X预售价13.99万元起",
-        "detail": "北汽星钽5X预售价13.99万元起"
+        "title": "象往的开封之旅",
+        "detail": "象往的开封之旅"
       }
     ],
-    "8a81f6c2": [
+    "91207bcd": [
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "这台世界顶尖大科学装置首次出光",
-        "detail": "这台世界顶尖大科学装置首次出光"
+        "title": "走好属于我们这一代的长征路",
+        "detail": "走好属于我们这一代的长征路"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "中国体操女团时隔20年夺冠",
-        "detail": "中国体操女团时隔20年夺冠"
+        "title": "iPhoneDuo微信不适配",
+        "detail": "iPhoneDuo微信不适配"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "红果短剧自砍摇钱树",
-        "detail": "红果短剧自砍摇钱树"
+        "title": "君黛喝毒酒下线",
+        "detail": "君黛喝毒酒下线"
       },
       {
-        "time": "07:58",
+        "time": "12:30",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "北汽星钽5X预售价13.99万元起",
-        "detail": "北汽星钽5X预售价13.99万元起"
+        "title": "象往的开封之旅",
+        "detail": "象往的开封之旅"
       }
     ]
   }
