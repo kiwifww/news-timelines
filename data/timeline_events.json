@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T08:46:04.027058+08:00",
+  "updatedAt": "2026-10-29T14:55:46.184865+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "08:45",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "08:45",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "08:45",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "08:45",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "08:45",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "08:45",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "08:45",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "08:45",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "08:45",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "08:45",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "08:45",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "08:45",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -229,123 +229,161 @@
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
       }
     ],
-    "dba1a454": [
+    "bb250272": [
       {
-        "time": "17:37",
-        "timeLabel": "昨日",
+        "time": "11:29",
+        "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
-        "detail": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ...查看全文"
+        "title": "让 Agent 读懂你的身体：数据处理篇",
+        "detail": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...查看全文本文为会员文章，出自《单"
       },
       {
-        "time": "15:00",
-        "timeLabel": "昨日",
+        "time": "11:00",
+        "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "断舍离只是起点：打造能长期经营的实用主义衣柜",
-        "detail": "只扔不买是没有用的，穿衣服时不多费心神才是目的。查看全文"
+        "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+        "detail": "如果你从网上购买过 Apple ID，又在自己的设备上登录，那就会存在一种风险：这类共享 ID 的密码掌握在卖家手里，卖家可以随时更改。本文就介绍了移除激活锁的全过程。查看全文"
       },
       {
-        "time": "10:22",
-        "timeLabel": "昨日",
+        "time": "08:26",
+        "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞",
-        "detail": "短短几年，罗永浩和锤子科技在国产手机的红海中留下了浓墨重彩的一笔。查看全文"
+        "title": "派早报：Apple 推出触控款 MacBook Pro、华为",
+        "detail": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。查看全文"
       },
       {
-        "time": "08:37",
+        "time": "17:37",
         "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "派早报：Apple 发布 M6 版 iMac 和 MacBo",
-        "detail": "小米发布 REDMI K100 等新品，广电总局发布有线电视与 IPTV 运营服务新规等。查看全文"
+        "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
+        "detail": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ...查看全文"
       }
     ],
-    "ab35df36": [
+    "5844f37a": [
       {
-        "time": "15:00",
-        "timeLabel": "昨日",
+        "time": "11:00",
+        "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "断舍离只是起点：打造能长期经营的实用主义衣柜",
-        "detail": "只扔不买是没有用的，穿衣服时不多费心神才是目的。查看全文"
+        "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+        "detail": "如果你从网上购买过 Apple ID，又在自己的设备上登录，那就会存在一种风险：这类共享 ID 的密码掌握在卖家手里，卖家可以随时更改。本文就介绍了移除激活锁的全过程。查看全文"
+      },
+      {
+        "time": "11:29",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "让 Agent 读懂你的身体：数据处理篇",
+        "detail": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...查看全文本文为会员文章，出自《单"
+      },
+      {
+        "time": "08:26",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "派早报：Apple 推出触控款 MacBook Pro、华为",
+        "detail": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。查看全文"
       },
       {
         "time": "17:37",
         "timeLabel": "昨日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
-        "detail": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ...查看全文"
-      },
-      {
-        "time": "10:22",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞",
-        "detail": "短短几年，罗永浩和锤子科技在国产手机的红海中留下了浓墨重彩的一笔。查看全文"
-      },
-      {
-        "time": "08:37",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "派早报：Apple 发布 M6 版 iMac 和 MacBo",
-        "detail": "小米发布 REDMI K100 等新品，广电总局发布有线电视与 IPTV 运营服务新规等。查看全文"
+        "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
+        "detail": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ...查看全文"
       }
     ],
-    "6c37d2f2": [
+    "a60c625e": [
       {
-        "time": "10:22",
-        "timeLabel": "昨日",
+        "time": "08:26",
+        "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞",
-        "detail": "短短几年，罗永浩和锤子科技在国产手机的红海中留下了浓墨重彩的一笔。查看全文"
+        "title": "派早报：Apple 推出触控款 MacBook Pro、华为",
+        "detail": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。查看全文"
+      },
+      {
+        "time": "11:29",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "让 Agent 读懂你的身体：数据处理篇",
+        "detail": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...查看全文本文为会员文章，出自《单"
+      },
+      {
+        "time": "11:00",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+        "detail": "如果你从网上购买过 Apple ID，又在自己的设备上登录，那就会存在一种风险：这类共享 ID 的密码掌握在卖家手里，卖家可以随时更改。本文就介绍了移除激活锁的全过程。查看全文"
       },
       {
         "time": "17:37",
         "timeLabel": "昨日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
-        "detail": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ...查看全文"
-      },
-      {
-        "time": "15:00",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "断舍离只是起点：打造能长期经营的实用主义衣柜",
-        "detail": "只扔不买是没有用的，穿衣服时不多费心神才是目的。查看全文"
-      },
-      {
-        "time": "08:37",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "派早报：Apple 发布 M6 版 iMac 和 MacBo",
-        "detail": "小米发布 REDMI K100 等新品，广电总局发布有线电视与 IPTV 运营服务新规等。查看全文"
+        "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
+        "detail": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ...查看全文"
+      }
+    ],
+    "3f4e4ce7": [
+      {
+        "time": "14:55",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "不会打方结女博士曾在各个科室轮转",
+        "detail": "不会打方结女博士曾在各个科室轮转"
+      },
+      {
+        "time": "14:55",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "三丽鸥致歉",
+        "detail": "三丽鸥致歉"
+      },
+      {
+        "time": "14:55",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "我国农产品全面提质路线图来了",
+        "detail": "我国农产品全面提质路线图来了"
+      },
+      {
+        "time": "14:55",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "一加Ace7",
+        "detail": "一加Ace7"
       }
     ],
     "a3fade8c": [
       {
-        "time": "08:46",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -354,107 +392,69 @@
         "detail": "三丽鸥致歉"
       },
       {
-        "time": "08:46",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "姆巴佩恐面临天文数字赔偿",
-        "detail": "姆巴佩恐面临天文数字赔偿"
+        "title": "不会打方结女博士曾在各个科室轮转",
+        "detail": "不会打方结女博士曾在各个科室轮转"
       },
       {
-        "time": "08:46",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "第140届广交会第二期圆满收官",
-        "detail": "第140届广交会第二期圆满收官"
+        "title": "我国农产品全面提质路线图来了",
+        "detail": "我国农产品全面提质路线图来了"
       },
       {
-        "time": "08:46",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "杨洋可口可乐充乐联盟现场",
-        "detail": "杨洋可口可乐充乐联盟现场"
+        "title": "一加Ace7",
+        "detail": "一加Ace7"
       }
     ],
-    "9399ff7b": [
+    "5e62d617": [
       {
-        "time": "08:46",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "姆巴佩恐面临天文数字赔偿",
-        "detail": "姆巴佩恐面临天文数字赔偿"
+        "title": "我国农产品全面提质路线图来了",
+        "detail": "我国农产品全面提质路线图来了"
       },
       {
-        "time": "08:46",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "不会打方结女博士曾在各个科室轮转",
+        "detail": "不会打方结女博士曾在各个科室轮转"
+      },
+      {
+        "time": "14:55",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "三丽鸥致歉",
         "detail": "三丽鸥致歉"
       },
       {
-        "time": "08:46",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "第140届广交会第二期圆满收官",
-        "detail": "第140届广交会第二期圆满收官"
-      },
-      {
-        "time": "08:46",
+        "time": "14:55",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "杨洋可口可乐充乐联盟现场",
-        "detail": "杨洋可口可乐充乐联盟现场"
-      }
-    ],
-    "eb694732": [
-      {
-        "time": "08:46",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "第140届广交会第二期圆满收官",
-        "detail": "第140届广交会第二期圆满收官"
-      },
-      {
-        "time": "08:46",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "三丽鸥致歉",
-        "detail": "三丽鸥致歉"
-      },
-      {
-        "time": "08:46",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "姆巴佩恐面临天文数字赔偿",
-        "detail": "姆巴佩恐面临天文数字赔偿"
-      },
-      {
-        "time": "08:46",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "杨洋可口可乐充乐联盟现场",
-        "detail": "杨洋可口可乐充乐联盟现场"
+        "title": "一加Ace7",
+        "detail": "一加Ace7"
       }
     ]
   }
