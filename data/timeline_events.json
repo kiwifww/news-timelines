@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T23:31:34.586542+08:00",
+  "updatedAt": "2026-11-03T07:24:27.640064+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -232,7 +232,7 @@
     "65bcadd6": [
       {
         "time": "17:57",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -241,7 +241,7 @@
       },
       {
         "time": "15:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -250,7 +250,7 @@
       },
       {
         "time": "11:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -259,7 +259,7 @@
       },
       {
         "time": "07:22",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -270,7 +270,7 @@
     "38307362": [
       {
         "time": "15:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -279,7 +279,7 @@
       },
       {
         "time": "17:57",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -288,7 +288,7 @@
       },
       {
         "time": "11:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -297,7 +297,7 @@
       },
       {
         "time": "07:22",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -308,7 +308,7 @@
     "6cc750b2": [
       {
         "time": "11:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -317,7 +317,7 @@
       },
       {
         "time": "17:57",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -326,7 +326,7 @@
       },
       {
         "time": "15:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -335,7 +335,7 @@
       },
       {
         "time": "07:22",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -343,118 +343,118 @@
         "detail": "Apple 智能将随 iOS 27.3 登陆中国苹果对闪存的议价权受到压制Claude Code 官方扩展被植入后门美国 FCC 禁止中国实验室认证输美电子产品百度网盘通过磁力计数据规避「摇一摇」广告权限币安 63 亿美元资产被盗看看就行的"
       }
     ],
-    "83f9e32d": [
+    "fabf79b4": [
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "武汉警方通报网约车被围堵事件",
-        "detail": "武汉警方通报网约车被围堵事件"
+        "title": "新华社追问国乒男队怎么了",
+        "detail": "新华社追问国乒男队怎么了"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "2027或是最舒服年",
-        "detail": "2027或是最舒服年"
+        "title": "红果短剧刷到天亮",
+        "detail": "红果短剧刷到天亮"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "2026年世界互联网大会乌镇峰会",
-        "detail": "2026年世界互联网大会乌镇峰会"
+        "title": "数说进博会新亮点",
+        "detail": "数说进博会新亮点"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "后会友期提名",
-        "detail": "后会友期提名"
+        "title": "2027或是最舒服年",
+        "detail": "2027或是最舒服年"
       }
     ],
-    "f3d0bfc6": [
+    "0e065dc8": [
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "2027或是最舒服年",
-        "detail": "2027或是最舒服年"
+        "title": "红果短剧刷到天亮",
+        "detail": "红果短剧刷到天亮"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "武汉警方通报网约车被围堵事件",
-        "detail": "武汉警方通报网约车被围堵事件"
+        "title": "新华社追问国乒男队怎么了",
+        "detail": "新华社追问国乒男队怎么了"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "2026年世界互联网大会乌镇峰会",
-        "detail": "2026年世界互联网大会乌镇峰会"
+        "title": "数说进博会新亮点",
+        "detail": "数说进博会新亮点"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "后会友期提名",
-        "detail": "后会友期提名"
+        "title": "2027或是最舒服年",
+        "detail": "2027或是最舒服年"
       }
     ],
-    "e6c22ae5": [
+    "f5c11889": [
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "2026年世界互联网大会乌镇峰会",
-        "detail": "2026年世界互联网大会乌镇峰会"
+        "title": "数说进博会新亮点",
+        "detail": "数说进博会新亮点"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "武汉警方通报网约车被围堵事件",
-        "detail": "武汉警方通报网约车被围堵事件"
+        "title": "新华社追问国乒男队怎么了",
+        "detail": "新华社追问国乒男队怎么了"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "2027或是最舒服年",
-        "detail": "2027或是最舒服年"
+        "title": "红果短剧刷到天亮",
+        "detail": "红果短剧刷到天亮"
       },
       {
-        "time": "23:31",
+        "time": "07:24",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "后会友期提名",
-        "detail": "后会友期提名"
+        "title": "2027或是最舒服年",
+        "detail": "2027或是最舒服年"
       }
     ]
   }
