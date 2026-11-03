@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T22:58:31.452064+08:00",
+  "updatedAt": "2026-11-04T04:54:36.356400+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -229,10 +229,48 @@
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
       }
     ],
+    "d47b568b": [
+      {
+        "time": "22:00",
+        "timeLabel": "昨日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
+        "detail": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。查看全文"
+      },
+      {
+        "time": "15:12",
+        "timeLabel": "昨日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 ",
+        "detail": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。查看全文"
+      },
+      {
+        "time": "10:53",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "Disc Image Studio：你想不想在光盘上「画」点",
+        "detail": "把喜欢的图烧进 CD 里，你也可以。查看全文"
+      },
+      {
+        "time": "08:18",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat",
+        "detail": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。查看全文"
+      }
+    ],
     "98a84296": [
       {
         "time": "15:12",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -240,37 +278,37 @@
         "detail": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。查看全文"
       },
       {
-        "time": "10:53",
-        "timeLabel": "今日",
+        "time": "22:00",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
+        "detail": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。查看全文"
+      },
+      {
+        "time": "10:53",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "Disc Image Studio：你想不想在光盘上「画」点",
         "detail": "把喜欢的图烧进 CD 里，你也可以。查看全文"
       },
       {
         "time": "08:18",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat",
-        "detail": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。查看全文"
-      },
-      {
-        "time": "17:57",
         "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "派评 | 近期值得关注的 App",
-        "detail": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。查看全文"
+        "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat",
+        "detail": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。查看全文"
       }
     ],
     "e8878a6c": [
       {
         "time": "10:53",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -278,83 +316,45 @@
         "detail": "把喜欢的图烧进 CD 里，你也可以。查看全文"
       },
       {
-        "time": "15:12",
-        "timeLabel": "今日",
+        "time": "22:00",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
+        "detail": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。查看全文"
+      },
+      {
+        "time": "15:12",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 ",
         "detail": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。查看全文"
       },
       {
         "time": "08:18",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat",
-        "detail": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。查看全文"
-      },
-      {
-        "time": "17:57",
         "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "派评 | 近期值得关注的 App",
-        "detail": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。查看全文"
-      }
-    ],
-    "ea983e6e": [
-      {
-        "time": "08:18",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
         "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat",
         "detail": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。查看全文"
-      },
-      {
-        "time": "15:12",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 ",
-        "detail": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。查看全文"
-      },
-      {
-        "time": "10:53",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "Disc Image Studio：你想不想在光盘上「画」点",
-        "detail": "把喜欢的图烧进 CD 里，你也可以。查看全文"
-      },
-      {
-        "time": "17:57",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "派评 | 近期值得关注的 App",
-        "detail": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。查看全文"
       }
     ],
-    "a7bfcfdc": [
+    "e937e8ec": [
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "九寨沟冲突全员失态",
-        "detail": "九寨沟冲突全员失态"
+        "title": "女生刷到另一个自己竟是双胞胎",
+        "detail": "女生刷到另一个自己竟是双胞胎"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -363,27 +363,27 @@
         "detail": "女子每天玩手机10小时患手机痴呆症"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "开源开放共建共享",
-        "detail": "开源开放共建共享"
+        "title": "2026世界市长对话宁波",
+        "detail": "2026世界市长对话宁波"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "华为星芒价格",
-        "detail": "华为星芒价格"
+        "title": "iPhone天气下周五温差",
+        "detail": "iPhone天气下周五温差"
       }
     ],
     "3310a1da": [
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -392,54 +392,54 @@
         "detail": "女子每天玩手机10小时患手机痴呆症"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "九寨沟冲突全员失态",
-        "detail": "九寨沟冲突全员失态"
+        "title": "女生刷到另一个自己竟是双胞胎",
+        "detail": "女生刷到另一个自己竟是双胞胎"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "开源开放共建共享",
-        "detail": "开源开放共建共享"
+        "title": "2026世界市长对话宁波",
+        "detail": "2026世界市长对话宁波"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "华为星芒价格",
-        "detail": "华为星芒价格"
+        "title": "iPhone天气下周五温差",
+        "detail": "iPhone天气下周五温差"
       }
     ],
-    "ec064ddb": [
+    "408ecb79": [
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "开源开放共建共享",
-        "detail": "开源开放共建共享"
+        "title": "2026世界市长对话宁波",
+        "detail": "2026世界市长对话宁波"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "九寨沟冲突全员失态",
-        "detail": "九寨沟冲突全员失态"
+        "title": "女生刷到另一个自己竟是双胞胎",
+        "detail": "女生刷到另一个自己竟是双胞胎"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -448,13 +448,13 @@
         "detail": "女子每天玩手机10小时患手机痴呆症"
       },
       {
-        "time": "22:58",
+        "time": "04:54",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "华为星芒价格",
-        "detail": "华为星芒价格"
+        "title": "iPhone天气下周五温差",
+        "detail": "iPhone天气下周五温差"
       }
     ]
   }
