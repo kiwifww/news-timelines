@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T16:56:16.644606+08:00",
+  "updatedAt": "2026-11-05T01:02:48.950978+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -229,10 +229,48 @@
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
       }
     ],
+    "692b652d": [
+      {
+        "time": "20:25",
+        "timeLabel": "昨日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+        "detail": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。查看全文"
+      },
+      {
+        "time": "14:50",
+        "timeLabel": "昨日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+        "detail": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。查看全文"
+      },
+      {
+        "time": "10:41",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "国行 Apple 智能上手：这些功能已经准备好",
+        "detail": "iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。查看全文"
+      },
+      {
+        "time": "08:00",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3",
+        "detail": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。查看全文"
+      }
+    ],
     "d880fc2a": [
       {
         "time": "14:50",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -240,37 +278,37 @@
         "detail": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。查看全文"
       },
       {
-        "time": "10:41",
-        "timeLabel": "今日",
+        "time": "20:25",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+        "detail": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。查看全文"
+      },
+      {
+        "time": "10:41",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "国行 Apple 智能上手：这些功能已经准备好",
         "detail": "iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。查看全文"
       },
       {
         "time": "08:00",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3",
-        "detail": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。查看全文"
-      },
-      {
-        "time": "22:00",
         "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
-        "detail": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。查看全文"
+        "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3",
+        "detail": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。查看全文"
       }
     ],
     "34d64bf4": [
       {
         "time": "10:41",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -278,183 +316,145 @@
         "detail": "iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。查看全文"
       },
       {
-        "time": "14:50",
-        "timeLabel": "今日",
+        "time": "20:25",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+        "detail": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。查看全文"
+      },
+      {
+        "time": "14:50",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
         "detail": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。查看全文"
       },
       {
         "time": "08:00",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3",
-        "detail": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。查看全文"
-      },
-      {
-        "time": "22:00",
         "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
-        "detail": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。查看全文"
-      }
-    ],
-    "b3002768": [
-      {
-        "time": "08:00",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
         "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3",
         "detail": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。查看全文"
-      },
-      {
-        "time": "14:50",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
-        "detail": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。查看全文"
-      },
-      {
-        "time": "10:41",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "国行 Apple 智能上手：这些功能已经准备好",
-        "detail": "iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。查看全文"
-      },
-      {
-        "time": "22:00",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
-        "detail": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。查看全文"
       }
     ],
-    "3344915c": [
+    "c0a7b6b2": [
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "这就是勤换洗水杯的原因",
-        "detail": "这就是勤换洗水杯的原因"
+        "title": "嫁金钗忘删AI水印了",
+        "detail": "嫁金钗忘删AI水印了"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "A股暴力反弹原因",
-        "detail": "A股暴力反弹原因"
+        "title": "陕西商南刑案持刀在逃嫌犯照片曝光",
+        "detail": "陕西商南刑案持刀在逃嫌犯照片曝光"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "保护企业网络名誉权的指南来了",
-        "detail": "保护企业网络名誉权的指南来了"
+        "title": "方浩明以亲身经历感知中国",
+        "detail": "方浩明以亲身经历感知中国"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "小鹏MONA L05火热提车",
-        "detail": "小鹏MONA L05火热提车"
+        "title": "许飞看到之后不得迷死啊",
+        "detail": "许飞看到之后不得迷死啊"
       }
     ],
-    "2178bcb2": [
+    "8e2ef843": [
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "A股暴力反弹原因",
-        "detail": "A股暴力反弹原因"
+        "title": "陕西商南刑案持刀在逃嫌犯照片曝光",
+        "detail": "陕西商南刑案持刀在逃嫌犯照片曝光"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "这就是勤换洗水杯的原因",
-        "detail": "这就是勤换洗水杯的原因"
+        "title": "嫁金钗忘删AI水印了",
+        "detail": "嫁金钗忘删AI水印了"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "保护企业网络名誉权的指南来了",
-        "detail": "保护企业网络名誉权的指南来了"
+        "title": "方浩明以亲身经历感知中国",
+        "detail": "方浩明以亲身经历感知中国"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "小鹏MONA L05火热提车",
-        "detail": "小鹏MONA L05火热提车"
+        "title": "许飞看到之后不得迷死啊",
+        "detail": "许飞看到之后不得迷死啊"
       }
     ],
-    "9ada2b96": [
+    "033fff09": [
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "保护企业网络名誉权的指南来了",
-        "detail": "保护企业网络名誉权的指南来了"
+        "title": "方浩明以亲身经历感知中国",
+        "detail": "方浩明以亲身经历感知中国"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "这就是勤换洗水杯的原因",
-        "detail": "这就是勤换洗水杯的原因"
+        "title": "嫁金钗忘删AI水印了",
+        "detail": "嫁金钗忘删AI水印了"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "A股暴力反弹原因",
-        "detail": "A股暴力反弹原因"
+        "title": "陕西商南刑案持刀在逃嫌犯照片曝光",
+        "detail": "陕西商南刑案持刀在逃嫌犯照片曝光"
       },
       {
-        "time": "16:56",
+        "time": "01:02",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "小鹏MONA L05火热提车",
-        "detail": "小鹏MONA L05火热提车"
+        "title": "许飞看到之后不得迷死啊",
+        "detail": "许飞看到之后不得迷死啊"
       }
     ]
   }
