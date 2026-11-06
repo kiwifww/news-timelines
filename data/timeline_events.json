@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T05:54:04.297377+08:00",
+  "updatedAt": "2026-11-06T10:12:10.151704+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "05:53",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "05:53",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "05:53",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "05:53",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "05:53",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "05:53",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "05:53",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "05:53",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "05:53",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "05:53",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "05:53",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,13 +220,51 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "05:53",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
         "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础",
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
+      }
+    ],
+    "30234167": [
+      {
+        "time": "08:24",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+        "detail": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。查看全文"
+      },
+      {
+        "time": "22:00",
+        "timeLabel": "昨日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "开启 Mac 的下一世代：MacBook Pro (PROL",
+        "detail": "全新 MacBook Pro，开启 Mac 的下一个世代。查看全文"
+      },
+      {
+        "time": "17:11",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "新玩意 255｜少数派的编辑们最近买了啥？",
+        "detail": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文"
+      },
+      {
+        "time": "15:16",
+        "timeLabel": "昨日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
+        "detail": "蒸锅真是懒人做饭好帮手。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。"
       }
     ],
     "521bb571": [
@@ -240,10 +278,19 @@
         "detail": "全新 MacBook Pro，开启 Mac 的下一个世代。查看全文"
       },
       {
-        "time": "17:11",
-        "timeLabel": "昨日",
+        "time": "08:24",
+        "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+        "detail": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。查看全文"
+      },
+      {
+        "time": "17:11",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "新玩意 255｜少数派的编辑们最近买了啥？",
         "detail": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文"
@@ -251,20 +298,11 @@
       {
         "time": "15:16",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
-        "detail": "蒸锅真是懒人做饭好帮手。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。"
-      },
-      {
-        "time": "10:57",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "Apple 官网排版细节鉴赏",
-        "detail": "Apple 独一无二的品牌价值，正是从这些细节中凝聚的。查看全文"
+        "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
+        "detail": "蒸锅真是懒人做饭好帮手。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。"
       }
     ],
     "63c7bb0f": [
@@ -278,10 +316,19 @@
         "detail": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文"
       },
       {
-        "time": "22:00",
-        "timeLabel": "昨日",
+        "time": "08:24",
+        "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+        "detail": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。查看全文"
+      },
+      {
+        "time": "22:00",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "开启 Mac 的下一世代：MacBook Pro (PROL",
         "detail": "全新 MacBook Pro，开启 Mac 的下一个世代。查看全文"
@@ -289,172 +336,125 @@
       {
         "time": "15:16",
         "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
+        "type": "背景",
+        "typeColor": "#8a8794",
         "isLatest": false,
         "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
         "detail": "蒸锅真是懒人做饭好帮手。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。"
-      },
-      {
-        "time": "10:57",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "Apple 官网排版细节鉴赏",
-        "detail": "Apple 独一无二的品牌价值，正是从这些细节中凝聚的。查看全文"
       }
     ],
-    "f9f81b60": [
+    "690160f9": [
       {
-        "time": "15:16",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
-        "detail": "蒸锅真是懒人做饭好帮手。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。"
-      },
-      {
-        "time": "22:00",
-        "timeLabel": "昨日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "开启 Mac 的下一世代：MacBook Pro (PROL",
-        "detail": "全新 MacBook Pro，开启 Mac 的下一个世代。查看全文"
-      },
-      {
-        "time": "17:11",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "新玩意 255｜少数派的编辑们最近买了啥？",
-        "detail": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文"
-      },
-      {
-        "time": "10:57",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "Apple 官网排版细节鉴赏",
-        "detail": "Apple 独一无二的品牌价值，正是从这些细节中凝聚的。查看全文"
-      }
-    ],
-    "d0df6156": [
-      {
-        "time": "05:54",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "美股",
-        "detail": "美股"
+        "title": "BLG战胜DK",
+        "detail": "BLG战胜DK"
       },
       {
-        "time": "05:54",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "曝白小纯天早期天霸工资",
-        "detail": "曝白小纯天早期天霸工资"
+        "title": "54岁大哥靠AI短剧还清负债",
+        "detail": "54岁大哥靠AI短剧还清负债"
       },
       {
-        "time": "05:54",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "我国秋粮收获已过9成",
-        "detail": "我国秋粮收获已过9成"
+        "title": "何以中国对话红山",
+        "detail": "何以中国对话红山"
       },
       {
-        "time": "05:54",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "王子璇手机是被收走的",
-        "detail": "王子璇手机是被收走的"
+        "title": "温瑞博3比0王楚钦",
+        "detail": "温瑞博3比0王楚钦"
       }
     ],
-    "1990de3c": [
+    "05d271ed": [
       {
-        "time": "05:54",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "曝白小纯天早期天霸工资",
-        "detail": "曝白小纯天早期天霸工资"
+        "title": "54岁大哥靠AI短剧还清负债",
+        "detail": "54岁大哥靠AI短剧还清负债"
       },
       {
-        "time": "05:54",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "美股",
-        "detail": "美股"
+        "title": "BLG战胜DK",
+        "detail": "BLG战胜DK"
       },
       {
-        "time": "05:54",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "我国秋粮收获已过9成",
-        "detail": "我国秋粮收获已过9成"
+        "title": "何以中国对话红山",
+        "detail": "何以中国对话红山"
       },
       {
-        "time": "05:54",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "王子璇手机是被收走的",
-        "detail": "王子璇手机是被收走的"
+        "title": "温瑞博3比0王楚钦",
+        "detail": "温瑞博3比0王楚钦"
       }
     ],
-    "61cd4eb1": [
+    "10d11f45": [
       {
-        "time": "05:54",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "我国秋粮收获已过9成",
-        "detail": "我国秋粮收获已过9成"
+        "title": "何以中国对话红山",
+        "detail": "何以中国对话红山"
       },
       {
-        "time": "05:54",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "美股",
-        "detail": "美股"
+        "title": "BLG战胜DK",
+        "detail": "BLG战胜DK"
       },
       {
-        "time": "05:54",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "曝白小纯天早期天霸工资",
-        "detail": "曝白小纯天早期天霸工资"
+        "title": "54岁大哥靠AI短剧还清负债",
+        "detail": "54岁大哥靠AI短剧还清负债"
       },
       {
-        "time": "05:54",
+        "time": "10:12",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "王子璇手机是被收走的",
-        "detail": "王子璇手机是被收走的"
+        "title": "温瑞博3比0王楚钦",
+        "detail": "温瑞博3比0王楚钦"
       }
     ]
   }
