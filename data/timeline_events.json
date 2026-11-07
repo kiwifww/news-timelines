@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T00:16:28.766057+08:00",
+  "updatedAt": "2026-11-08T04:46:37.060658+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -343,47 +343,9 @@
         "detail": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。查看全文"
       }
     ],
-    "dbd1f0f0": [
-      {
-        "time": "00:16",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "多平台下架推不倒戒指",
-        "detail": "多平台下架推不倒戒指"
-      },
-      {
-        "time": "00:16",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "8省份大到暴雪",
-        "detail": "8省份大到暴雪"
-      },
-      {
-        "time": "00:16",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "共赴APEC之约",
-        "detail": "共赴APEC之约"
-      },
-      {
-        "time": "00:16",
-        "timeLabel": "今日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "国乒男单6站冠军赛仅1次晋级决赛",
-        "detail": "国乒男单6站冠军赛仅1次晋级决赛"
-      }
-    ],
     "da370de2": [
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -392,16 +354,16 @@
         "detail": "8省份大到暴雪"
       },
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "多平台下架推不倒戒指",
-        "detail": "多平台下架推不倒戒指"
+        "title": "提纯提白小纯啊",
+        "detail": "提纯提白小纯啊"
       },
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -410,18 +372,56 @@
         "detail": "共赴APEC之约"
       },
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "国乒男单6站冠军赛仅1次晋级决赛",
-        "detail": "国乒男单6站冠军赛仅1次晋级决赛"
+        "title": "中国豪车仰望鼎曜在中东发布",
+        "detail": "中国豪车仰望鼎曜在中东发布"
+      }
+    ],
+    "0f87707a": [
+      {
+        "time": "04:46",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "提纯提白小纯啊",
+        "detail": "提纯提白小纯啊"
+      },
+      {
+        "time": "04:46",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "8省份大到暴雪",
+        "detail": "8省份大到暴雪"
+      },
+      {
+        "time": "04:46",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "共赴APEC之约",
+        "detail": "共赴APEC之约"
+      },
+      {
+        "time": "04:46",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "中国豪车仰望鼎曜在中东发布",
+        "detail": "中国豪车仰望鼎曜在中东发布"
       }
     ],
     "18e090b8": [
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -430,31 +430,31 @@
         "detail": "共赴APEC之约"
       },
       {
-        "time": "00:16",
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "多平台下架推不倒戒指",
-        "detail": "多平台下架推不倒戒指"
-      },
-      {
-        "time": "00:16",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "8省份大到暴雪",
         "detail": "8省份大到暴雪"
       },
       {
-        "time": "00:16",
+        "time": "04:46",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "提纯提白小纯啊",
+        "detail": "提纯提白小纯啊"
+      },
+      {
+        "time": "04:46",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "国乒男单6站冠军赛仅1次晋级决赛",
-        "detail": "国乒男单6站冠军赛仅1次晋级决赛"
+        "title": "中国豪车仰望鼎曜在中东发布",
+        "detail": "中国豪车仰望鼎曜在中东发布"
       }
     ]
   }
