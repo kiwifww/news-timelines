@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T10:57:29.326767+08:00",
+  "updatedAt": "2026-11-20T19:20:12.528693+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -229,232 +229,232 @@
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
       }
     ],
-    "67da48d9": [
+    "a3475914": [
       {
-        "time": "08:34",
+        "time": "17:54",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "派早报：Google 推出 Gemini 4 Neon 模型",
-        "detail": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。查看全文"
-      },
-      {
-        "time": "18:25",
-        "timeLabel": "昨日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "给 Apple 的 2026 年打分，请你一起参与",
-        "detail": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ...查看全文"
-      },
-      {
-        "time": "17:16",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "新玩意 256｜少数派的编辑们最近买了啥？",
-        "detail": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文"
+        "title": "本周看什么 | 最近值得一看的 10 部作品",
+        "detail": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...查看全文"
       },
       {
         "time": "15:34",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
         "isLatest": false,
-        "title": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
-        "detail": "[......]查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。"
-      }
-    ],
-    "c0fd4e1f": [
+        "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+        "detail": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...查看全文"
+      },
       {
-        "time": "18:25",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "给 Apple 的 2026 年打分，请你一起参与",
-        "detail": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ...查看全文"
+        "time": "10:47",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+        "detail": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。查看全文"
       },
       {
         "time": "08:34",
         "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "派早报：Google 推出 Gemini 4 Neon 模型",
-        "detail": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。查看全文"
-      },
-      {
-        "time": "17:16",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "新玩意 256｜少数派的编辑们最近买了啥？",
-        "detail": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文"
-      },
-      {
-        "time": "15:34",
-        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
-        "detail": "[......]查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。"
+        "title": "派早报：Google 推出 Gemini 4 Neon 模型",
+        "detail": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。查看全文"
       }
     ],
-    "06315d76": [
+    "b9ad2983": [
       {
-        "time": "17:16",
-        "timeLabel": "昨日",
+        "time": "15:34",
+        "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "新玩意 256｜少数派的编辑们最近买了啥？",
-        "detail": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文"
+        "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+        "detail": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...查看全文"
+      },
+      {
+        "time": "17:54",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "本周看什么 | 最近值得一看的 10 部作品",
+        "detail": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...查看全文"
+      },
+      {
+        "time": "10:47",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+        "detail": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。查看全文"
       },
       {
         "time": "08:34",
         "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
+        "type": "背景",
+        "typeColor": "#8a8794",
         "isLatest": false,
         "title": "派早报：Google 推出 Gemini 4 Neon 模型",
         "detail": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。查看全文"
+      }
+    ],
+    "6f3c7f20": [
+      {
+        "time": "10:47",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+        "detail": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。查看全文"
       },
       {
-        "time": "18:25",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
+        "time": "17:54",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
         "isLatest": false,
-        "title": "给 Apple 的 2026 年打分，请你一起参与",
-        "detail": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ...查看全文"
+        "title": "本周看什么 | 最近值得一看的 10 部作品",
+        "detail": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...查看全文"
       },
       {
         "time": "15:34",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
-        "detail": "[......]查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。"
-      }
-    ],
-    "31ac949b": [
-      {
-        "time": "10:57",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "国家领导人双边会晤",
-        "detail": "国家领导人双边会晤"
-      },
-      {
-        "time": "10:57",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "马斯克从深圳飞到了上海",
-        "detail": "马斯克从深圳飞到了上海"
-      },
-      {
-        "time": "10:57",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "2026APEC东道主成果清单",
-        "detail": "2026APEC东道主成果清单"
+        "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+        "detail": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...查看全文"
       },
       {
-        "time": "10:57",
+        "time": "08:34",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "香港缤纷冬日巡礼",
-        "detail": "香港缤纷冬日巡礼"
+        "title": "派早报：Google 推出 Gemini 4 Neon 模型",
+        "detail": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。查看全文"
       }
     ],
-    "3deaa440": [
+    "30866836": [
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "马斯克从深圳飞到了上海",
-        "detail": "马斯克从深圳飞到了上海"
+        "title": "特朗普刚返美就发重大预告",
+        "detail": "特朗普刚返美就发重大预告"
       },
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "国家领导人双边会晤",
-        "detail": "国家领导人双边会晤"
+        "title": "特朗普深圳下榻酒店房间内部曝光",
+        "detail": "特朗普深圳下榻酒店房间内部曝光"
       },
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "2026APEC东道主成果清单",
-        "detail": "2026APEC东道主成果清单"
+        "title": "一图读懂APEC合作如何惠及百姓生活",
+        "detail": "一图读懂APEC合作如何惠及百姓生活"
       },
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "香港缤纷冬日巡礼",
-        "detail": "香港缤纷冬日巡礼"
+        "title": "iCARV25先锋上市119800元起",
+        "detail": "iCARV25先锋上市119800元起"
       }
     ],
-    "1789fe51": [
+    "b40f510d": [
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "2026APEC东道主成果清单",
-        "detail": "2026APEC东道主成果清单"
+        "title": "特朗普深圳下榻酒店房间内部曝光",
+        "detail": "特朗普深圳下榻酒店房间内部曝光"
       },
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "国家领导人双边会晤",
-        "detail": "国家领导人双边会晤"
+        "title": "特朗普刚返美就发重大预告",
+        "detail": "特朗普刚返美就发重大预告"
       },
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "马斯克从深圳飞到了上海",
-        "detail": "马斯克从深圳飞到了上海"
+        "title": "一图读懂APEC合作如何惠及百姓生活",
+        "detail": "一图读懂APEC合作如何惠及百姓生活"
       },
       {
-        "time": "10:57",
+        "time": "19:20",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "香港缤纷冬日巡礼",
-        "detail": "香港缤纷冬日巡礼"
+        "title": "iCARV25先锋上市119800元起",
+        "detail": "iCARV25先锋上市119800元起"
+      }
+    ],
+    "ebea1771": [
+      {
+        "time": "19:20",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "一图读懂APEC合作如何惠及百姓生活",
+        "detail": "一图读懂APEC合作如何惠及百姓生活"
+      },
+      {
+        "time": "19:20",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "特朗普刚返美就发重大预告",
+        "detail": "特朗普刚返美就发重大预告"
+      },
+      {
+        "time": "19:20",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "特朗普深圳下榻酒店房间内部曝光",
+        "detail": "特朗普深圳下榻酒店房间内部曝光"
+      },
+      {
+        "time": "19:20",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "iCARV25先锋上市119800元起",
+        "detail": "iCARV25先锋上市119800元起"
       }
     ]
   }
