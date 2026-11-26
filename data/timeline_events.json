@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T22:56:39.700116+08:00",
+  "updatedAt": "2026-11-27T07:42:16.555293+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -232,7 +232,7 @@
     "3a90399e": [
       {
         "time": "17:30",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -241,7 +241,7 @@
       },
       {
         "time": "15:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -250,7 +250,7 @@
       },
       {
         "time": "11:13",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -259,7 +259,7 @@
       },
       {
         "time": "08:08",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -270,7 +270,7 @@
     "ed4fa7aa": [
       {
         "time": "15:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -279,7 +279,7 @@
       },
       {
         "time": "17:30",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -288,7 +288,7 @@
       },
       {
         "time": "11:13",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -297,7 +297,7 @@
       },
       {
         "time": "08:08",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -308,7 +308,7 @@
     "2c66fe57": [
       {
         "time": "11:13",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -317,7 +317,7 @@
       },
       {
         "time": "17:30",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
@@ -326,7 +326,7 @@
       },
       {
         "time": "15:00",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
@@ -335,7 +335,7 @@
       },
       {
         "time": "08:08",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
@@ -343,118 +343,118 @@
         "detail": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。查看全文"
       }
     ],
-    "9840f25a": [
+    "7d094f37": [
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "花花独狼吃鸡",
-        "detail": "花花独狼吃鸡"
+        "title": "三只松鼠致歉声明",
+        "detail": "三只松鼠致歉声明"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "中国男篮vs沙特男篮",
-        "detail": "中国男篮vs沙特男篮"
+        "title": "U17国足8比0斐济",
+        "detail": "U17国足8比0斐济"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "城市轨道交通的万里版图",
-        "detail": "城市轨道交通的万里版图"
+        "title": "从5到24看载人航天之路",
+        "detail": "从5到24看载人航天之路"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "驭见星野肖战x尚界风尚之约",
-        "detail": "驭见星野肖战x尚界风尚之约"
+        "title": "华为小折电脑今日开售",
+        "detail": "华为小折电脑今日开售"
       }
     ],
-    "5d2417ed": [
+    "44ca05b8": [
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "中国男篮vs沙特男篮",
-        "detail": "中国男篮vs沙特男篮"
+        "title": "U17国足8比0斐济",
+        "detail": "U17国足8比0斐济"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "花花独狼吃鸡",
-        "detail": "花花独狼吃鸡"
+        "title": "三只松鼠致歉声明",
+        "detail": "三只松鼠致歉声明"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "城市轨道交通的万里版图",
-        "detail": "城市轨道交通的万里版图"
+        "title": "从5到24看载人航天之路",
+        "detail": "从5到24看载人航天之路"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "驭见星野肖战x尚界风尚之约",
-        "detail": "驭见星野肖战x尚界风尚之约"
+        "title": "华为小折电脑今日开售",
+        "detail": "华为小折电脑今日开售"
       }
     ],
-    "62571ede": [
+    "4276f3f1": [
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "城市轨道交通的万里版图",
-        "detail": "城市轨道交通的万里版图"
+        "title": "从5到24看载人航天之路",
+        "detail": "从5到24看载人航天之路"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "花花独狼吃鸡",
-        "detail": "花花独狼吃鸡"
+        "title": "三只松鼠致歉声明",
+        "detail": "三只松鼠致歉声明"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "中国男篮vs沙特男篮",
-        "detail": "中国男篮vs沙特男篮"
+        "title": "U17国足8比0斐济",
+        "detail": "U17国足8比0斐济"
       },
       {
-        "time": "22:56",
+        "time": "07:42",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "驭见星野肖战x尚界风尚之约",
-        "detail": "驭见星野肖战x尚界风尚之约"
+        "title": "华为小折电脑今日开售",
+        "detail": "华为小折电脑今日开售"
       }
     ]
   }
