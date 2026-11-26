@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T12:52:45.626552+08:00",
+  "updatedAt": "2026-11-26T22:56:39.700116+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,13 +220,89 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
         "title": "心血管病患者一旦感染新冠病毒，居家应该注意什么，如何避免基础",
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
+      }
+    ],
+    "3a90399e": [
+      {
+        "time": "17:30",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "App+1｜Agora：开源、易用、好用，给 Android",
+        "detail": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。查看全文"
+      },
+      {
+        "time": "15:00",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费",
+        "detail": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。查看全文"
+      },
+      {
+        "time": "11:13",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "我用AI做了一张两千年的中国历史地图",
+        "detail": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。查看全文"
+      },
+      {
+        "time": "08:08",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 ",
+        "detail": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。查看全文"
+      }
+    ],
+    "ed4fa7aa": [
+      {
+        "time": "15:00",
+        "timeLabel": "今日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费",
+        "detail": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。查看全文"
+      },
+      {
+        "time": "17:30",
+        "timeLabel": "今日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "App+1｜Agora：开源、易用、好用，给 Android",
+        "detail": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。查看全文"
+      },
+      {
+        "time": "11:13",
+        "timeLabel": "今日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "我用AI做了一张两千年的中国历史地图",
+        "detail": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。查看全文"
+      },
+      {
+        "time": "08:08",
+        "timeLabel": "今日",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 ",
+        "detail": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。查看全文"
       }
     ],
     "2c66fe57": [
@@ -240,221 +316,145 @@
         "detail": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。查看全文"
       },
       {
-        "time": "08:08",
+        "time": "17:30",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 ",
-        "detail": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。查看全文"
+        "title": "App+1｜Agora：开源、易用、好用，给 Android",
+        "detail": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。查看全文"
       },
       {
-        "time": "17:48",
-        "timeLabel": "昨日",
+        "time": "15:00",
+        "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "翻开 2027， 值得入手的新年日历推荐",
-        "detail": "按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ...查看全文"
-      },
-      {
-        "time": "14:59",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得",
-        "detail": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。查看全文"
-      }
-    ],
-    "e2b0c8ea": [
-      {
-        "time": "08:08",
-        "timeLabel": "今日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 ",
-        "detail": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。查看全文"
-      },
-      {
-        "time": "11:13",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "我用AI做了一张两千年的中国历史地图",
-        "detail": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。查看全文"
-      },
-      {
-        "time": "17:48",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "翻开 2027， 值得入手的新年日历推荐",
-        "detail": "按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ...查看全文"
-      },
-      {
-        "time": "14:59",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得",
-        "detail": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。查看全文"
-      }
-    ],
-    "e0537979": [
-      {
-        "time": "17:48",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "翻开 2027， 值得入手的新年日历推荐",
-        "detail": "按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ...查看全文"
-      },
-      {
-        "time": "11:13",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "我用AI做了一张两千年的中国历史地图",
-        "detail": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。查看全文"
+        "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费",
+        "detail": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。查看全文"
       },
       {
         "time": "08:08",
         "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
+        "type": "背景",
+        "typeColor": "#8a8794",
         "isLatest": false,
         "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 ",
         "detail": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。查看全文"
-      },
-      {
-        "time": "14:59",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得",
-        "detail": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。查看全文"
       }
     ],
-    "7e215296": [
+    "9840f25a": [
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "普京打包深圳炒菜上飞机",
-        "detail": "普京打包深圳炒菜上飞机"
+        "title": "花花独狼吃鸡",
+        "detail": "花花独狼吃鸡"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "蔡磊已进渐冻症终末期",
-        "detail": "蔡磊已进渐冻症终末期"
+        "title": "中国男篮vs沙特男篮",
+        "detail": "中国男篮vs沙特男篮"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "新一代通信网建设实施方案来了",
-        "detail": "新一代通信网建设实施方案来了"
+        "title": "城市轨道交通的万里版图",
+        "detail": "城市轨道交通的万里版图"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "后会友期",
-        "detail": "后会友期"
+        "title": "驭见星野肖战x尚界风尚之约",
+        "detail": "驭见星野肖战x尚界风尚之约"
       }
     ],
-    "8261c81e": [
+    "5d2417ed": [
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "蔡磊已进渐冻症终末期",
-        "detail": "蔡磊已进渐冻症终末期"
+        "title": "中国男篮vs沙特男篮",
+        "detail": "中国男篮vs沙特男篮"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "普京打包深圳炒菜上飞机",
-        "detail": "普京打包深圳炒菜上飞机"
+        "title": "花花独狼吃鸡",
+        "detail": "花花独狼吃鸡"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "新一代通信网建设实施方案来了",
-        "detail": "新一代通信网建设实施方案来了"
+        "title": "城市轨道交通的万里版图",
+        "detail": "城市轨道交通的万里版图"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "后会友期",
-        "detail": "后会友期"
+        "title": "驭见星野肖战x尚界风尚之约",
+        "detail": "驭见星野肖战x尚界风尚之约"
       }
     ],
-    "6b62a090": [
+    "62571ede": [
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "新一代通信网建设实施方案来了",
-        "detail": "新一代通信网建设实施方案来了"
+        "title": "城市轨道交通的万里版图",
+        "detail": "城市轨道交通的万里版图"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "普京打包深圳炒菜上飞机",
-        "detail": "普京打包深圳炒菜上飞机"
+        "title": "花花独狼吃鸡",
+        "detail": "花花独狼吃鸡"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "蔡磊已进渐冻症终末期",
-        "detail": "蔡磊已进渐冻症终末期"
+        "title": "中国男篮vs沙特男篮",
+        "detail": "中国男篮vs沙特男篮"
       },
       {
-        "time": "12:52",
+        "time": "22:56",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "后会友期",
-        "detail": "后会友期"
+        "title": "驭见星野肖战x尚界风尚之约",
+        "detail": "驭见星野肖战x尚界风尚之约"
       }
     ]
   }
