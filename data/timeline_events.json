@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T16:01:16.040813+08:00",
+  "updatedAt": "2026-11-28T02:49:06.028589+08:00",
   "events": {
     "b7efc1a5": [
       {
@@ -117,7 +117,7 @@
     ],
     "40116b32": [
       {
-        "time": "16:01",
+        "time": "02:48",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -126,7 +126,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "16:01",
+        "time": "02:48",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -135,7 +135,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "16:01",
+        "time": "02:48",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -144,7 +144,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "16:01",
+        "time": "02:48",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -155,7 +155,7 @@
     ],
     "8faf733b": [
       {
-        "time": "16:01",
+        "time": "02:48",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -164,7 +164,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "16:01",
+        "time": "02:48",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -173,7 +173,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "16:01",
+        "time": "02:48",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -182,7 +182,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "16:01",
+        "time": "02:48",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -193,7 +193,7 @@
     ],
     "e4b588ed": [
       {
-        "time": "16:01",
+        "time": "02:48",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
@@ -202,7 +202,7 @@
         "detail": "为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。"
       },
       {
-        "time": "16:01",
+        "time": "02:48",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
@@ -211,7 +211,7 @@
         "detail": "新时代的中国，日新月异。"
       },
       {
-        "time": "16:01",
+        "time": "02:48",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
@@ -220,7 +220,7 @@
         "detail": "近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。"
       },
       {
-        "time": "16:01",
+        "time": "02:48",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
@@ -229,10 +229,48 @@
         "detail": "心血管病患者如何做好防护避免被新冠病毒感染。一旦感染应该注意什么，基础病病情加重怎么办，如何评估是否需要去医院……北京安贞医院常务副院长周玉杰来解答。"
       }
     ],
+    "e1cb330d": [
+      {
+        "time": "16:32",
+        "timeLabel": "昨日",
+        "type": "最新",
+        "typeColor": "#e84040",
+        "isLatest": true,
+        "title": "本周看什么 | 最近值得一看的 8 部作品",
+        "detail": "☕️TL;DR近期佳作推荐：[电影]泥面人、[电影]峡湾、[电影]童话继姊妹、[英剧]警之光第四季、[加拿大]槲寄生谋杀案第三季、[国产]今天是太阳雨、[纪录片]一切如你所见、[真人秀]魔鬼的计谋：死 ...查看全文"
+      },
+      {
+        "time": "11:48",
+        "timeLabel": "昨日",
+        "type": "进展",
+        "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "「黑五」值得买：不容错过的 App 和服务优惠",
+        "detail": "先预祝大家买得愉快、用得舒心。查看全文"
+      },
+      {
+        "time": "08:27",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
+        "isLatest": false,
+        "title": "派早报：1Password 确认内部系统遭入侵等",
+        "detail": "索尼 WH-1000XM4C 无线降噪耳机国行正式发售，微软公布 Windows Server 2028 功能清理计划等。查看全文"
+      },
+      {
+        "time": "17:30",
+        "timeLabel": "11-26",
+        "type": "背景",
+        "typeColor": "#8a8794",
+        "isLatest": false,
+        "title": "App+1｜Agora：开源、易用、好用，给 Android",
+        "detail": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。查看全文"
+      }
+    ],
     "c5a72519": [
       {
         "time": "11:48",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -240,37 +278,37 @@
         "detail": "先预祝大家买得愉快、用得舒心。查看全文"
       },
       {
-        "time": "08:27",
-        "timeLabel": "今日",
+        "time": "16:32",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "本周看什么 | 最近值得一看的 8 部作品",
+        "detail": "☕️TL;DR近期佳作推荐：[电影]泥面人、[电影]峡湾、[电影]童话继姊妹、[英剧]警之光第四季、[加拿大]槲寄生谋杀案第三季、[国产]今天是太阳雨、[纪录片]一切如你所见、[真人秀]魔鬼的计谋：死 ...查看全文"
+      },
+      {
+        "time": "08:27",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "派早报：1Password 确认内部系统遭入侵等",
         "detail": "索尼 WH-1000XM4C 无线降噪耳机国行正式发售，微软公布 Windows Server 2028 功能清理计划等。查看全文"
       },
       {
         "time": "17:30",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "App+1｜Agora：开源、易用、好用，给 Android",
-        "detail": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。查看全文"
-      },
-      {
-        "time": "15:00",
-        "timeLabel": "昨日",
+        "timeLabel": "11-26",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费",
-        "detail": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。查看全文"
+        "title": "App+1｜Agora：开源、易用、好用，给 Android",
+        "detail": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。查看全文"
       }
     ],
     "3161eb77": [
       {
         "time": "08:27",
-        "timeLabel": "今日",
+        "timeLabel": "昨日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
@@ -278,183 +316,145 @@
         "detail": "索尼 WH-1000XM4C 无线降噪耳机国行正式发售，微软公布 Windows Server 2028 功能清理计划等。查看全文"
       },
       {
-        "time": "11:48",
-        "timeLabel": "今日",
+        "time": "16:32",
+        "timeLabel": "昨日",
         "type": "进展",
         "typeColor": "#f07030",
+        "isLatest": false,
+        "title": "本周看什么 | 最近值得一看的 8 部作品",
+        "detail": "☕️TL;DR近期佳作推荐：[电影]泥面人、[电影]峡湾、[电影]童话继姊妹、[英剧]警之光第四季、[加拿大]槲寄生谋杀案第三季、[国产]今天是太阳雨、[纪录片]一切如你所见、[真人秀]魔鬼的计谋：死 ...查看全文"
+      },
+      {
+        "time": "11:48",
+        "timeLabel": "昨日",
+        "type": "声明",
+        "typeColor": "#4080e0",
         "isLatest": false,
         "title": "「黑五」值得买：不容错过的 App 和服务优惠",
         "detail": "先预祝大家买得愉快、用得舒心。查看全文"
       },
       {
         "time": "17:30",
-        "timeLabel": "昨日",
-        "type": "声明",
-        "typeColor": "#4080e0",
+        "timeLabel": "11-26",
+        "type": "背景",
+        "typeColor": "#8a8794",
         "isLatest": false,
         "title": "App+1｜Agora：开源、易用、好用，给 Android",
         "detail": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。查看全文"
-      },
-      {
-        "time": "15:00",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费",
-        "detail": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。查看全文"
       }
     ],
-    "3a90399e": [
+    "3572b1b2": [
       {
-        "time": "17:30",
-        "timeLabel": "昨日",
-        "type": "最新",
-        "typeColor": "#e84040",
-        "isLatest": true,
-        "title": "App+1｜Agora：开源、易用、好用，给 Android",
-        "detail": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。查看全文"
-      },
-      {
-        "time": "11:48",
-        "timeLabel": "今日",
-        "type": "进展",
-        "typeColor": "#f07030",
-        "isLatest": false,
-        "title": "「黑五」值得买：不容错过的 App 和服务优惠",
-        "detail": "先预祝大家买得愉快、用得舒心。查看全文"
-      },
-      {
-        "time": "08:27",
-        "timeLabel": "今日",
-        "type": "声明",
-        "typeColor": "#4080e0",
-        "isLatest": false,
-        "title": "派早报：1Password 确认内部系统遭入侵等",
-        "detail": "索尼 WH-1000XM4C 无线降噪耳机国行正式发售，微软公布 Windows Server 2028 功能清理计划等。查看全文"
-      },
-      {
-        "time": "15:00",
-        "timeLabel": "昨日",
-        "type": "背景",
-        "typeColor": "#8a8794",
-        "isLatest": false,
-        "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费",
-        "detail": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。查看全文"
-      }
-    ],
-    "da548466": [
-      {
-        "time": "16:01",
+        "time": "02:49",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "A股史诗级暴涨原因",
-        "detail": "A股史诗级暴涨原因"
+        "title": "董明珠现场发火魏建军解围",
+        "detail": "董明珠现场发火魏建军解围"
       },
       {
-        "time": "16:01",
+        "time": "02:49",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "女友去世后男子失联遗体被发现",
-        "detail": "女友去世后男子失联遗体被发现"
+        "title": "三只松鼠一夜整改反而让人唏嘘",
+        "detail": "三只松鼠一夜整改反而让人唏嘘"
       },
       {
-        "time": "16:01",
+        "time": "02:49",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "高交会尽显中国科技创新活力",
-        "detail": "高交会尽显中国科技创新活力"
+        "title": "180秒回顾神24发射任务",
+        "detail": "180秒回顾神24发射任务"
       },
       {
-        "time": "16:01",
+        "time": "02:49",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "张萌 我等了八年啊马天宇",
-        "detail": "张萌 我等了八年啊马天宇"
+        "title": "后会友期第三次飞行嘉宾阵容",
+        "detail": "后会友期第三次飞行嘉宾阵容"
       }
     ],
-    "9435f5d3": [
+    "8ac13485": [
       {
-        "time": "16:01",
+        "time": "02:49",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "女友去世后男子失联遗体被发现",
-        "detail": "女友去世后男子失联遗体被发现"
+        "title": "三只松鼠一夜整改反而让人唏嘘",
+        "detail": "三只松鼠一夜整改反而让人唏嘘"
       },
       {
-        "time": "16:01",
+        "time": "02:49",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "A股史诗级暴涨原因",
-        "detail": "A股史诗级暴涨原因"
+        "title": "董明珠现场发火魏建军解围",
+        "detail": "董明珠现场发火魏建军解围"
       },
       {
-        "time": "16:01",
+        "time": "02:49",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "高交会尽显中国科技创新活力",
-        "detail": "高交会尽显中国科技创新活力"
+        "title": "180秒回顾神24发射任务",
+        "detail": "180秒回顾神24发射任务"
       },
       {
-        "time": "16:01",
+        "time": "02:49",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "张萌 我等了八年啊马天宇",
-        "detail": "张萌 我等了八年啊马天宇"
+        "title": "后会友期第三次飞行嘉宾阵容",
+        "detail": "后会友期第三次飞行嘉宾阵容"
       }
     ],
-    "7960ef8f": [
+    "f081437b": [
       {
-        "time": "16:01",
+        "time": "02:49",
         "timeLabel": "今日",
         "type": "最新",
         "typeColor": "#e84040",
         "isLatest": true,
-        "title": "高交会尽显中国科技创新活力",
-        "detail": "高交会尽显中国科技创新活力"
+        "title": "180秒回顾神24发射任务",
+        "detail": "180秒回顾神24发射任务"
       },
       {
-        "time": "16:01",
+        "time": "02:49",
         "timeLabel": "今日",
         "type": "进展",
         "typeColor": "#f07030",
         "isLatest": false,
-        "title": "A股史诗级暴涨原因",
-        "detail": "A股史诗级暴涨原因"
+        "title": "董明珠现场发火魏建军解围",
+        "detail": "董明珠现场发火魏建军解围"
       },
       {
-        "time": "16:01",
+        "time": "02:49",
         "timeLabel": "今日",
         "type": "声明",
         "typeColor": "#4080e0",
         "isLatest": false,
-        "title": "女友去世后男子失联遗体被发现",
-        "detail": "女友去世后男子失联遗体被发现"
+        "title": "三只松鼠一夜整改反而让人唏嘘",
+        "detail": "三只松鼠一夜整改反而让人唏嘘"
       },
       {
-        "time": "16:01",
+        "time": "02:49",
         "timeLabel": "今日",
         "type": "背景",
         "typeColor": "#8a8794",
         "isLatest": false,
-        "title": "张萌 我等了八年啊马天宇",
-        "detail": "张萌 我等了八年啊马天宇"
+        "title": "后会友期第三次飞行嘉宾阵容",
+        "detail": "后会友期第三次飞行嘉宾阵容"
       }
     ]
   }
